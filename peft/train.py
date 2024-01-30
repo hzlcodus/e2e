@@ -308,8 +308,8 @@ print(tokenizer.eos_token, tokenizer.eos_token_id)
 tokenizer.bos_token = tokenizer.eos_token
 print(tokenizer.bos_token, tokenizer.bos_token_id)
 
-train_file_path = "/home/hzlcodus/PrefixTuning/data/ssf/infos_processed.txt"
-#eval_file_path = "/home/hzlcodus/PrefixTuning/data/e2e_data/src1_valid.txt"
+train_file_path = "/data/hzlcodus/train.txt"
+#eval_file_path = "/home/hzlcodus/test.txt"
 
 train_dataset = (
     get_dataset(file_path = train_file_path, tokenizer=tokenizer)
@@ -326,7 +326,7 @@ data_collator = DataCollatorForData2TextLanguageModeling(
 
 
 training_args = TrainingArguments(
-    output_dir="ssf-1",
+    output_dir="ssf-3",
     evaluation_strategy="no",
     per_device_train_batch_size=1,  # Aligned with DeepSpeed
     num_train_epochs=5,
@@ -353,7 +353,7 @@ trainer = Trainer(
         )
 
 trainer.train()
-model_path = "ssf-1-saved"
+model_path = "ssf-3-saved"
 model.save_pretrained(model_path)
 tokenizer.save_pretrained(model_path)
 trainer.save_model(output_dir=f"/home/hzlcodus/model/{model_path}")

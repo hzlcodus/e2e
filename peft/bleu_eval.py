@@ -40,7 +40,7 @@ file_prefix = sys.argv[1]
 
 # Read files
 prompt_content = read_file(file_prefix+'_src')
-generated_content = read_file(file_prefix+'_beam')
+generated_content = read_file(file_prefix+'_sample')
 gold_content = read_file(file_prefix+'_gold')
 
 # Split contents

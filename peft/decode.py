@@ -93,7 +93,7 @@ def main():
     split_file = sys.argv[2]
 
     #eval_dataset으로 valid 사용
-    test_path = f"/data/hzlcodus/beanpole/women/info/{split_file}.txt"
+    test_path = f"/data/hzlcodus/{split_file}.txt"
     
     # 프롬프트 생성
     prompt_text_dict = read_e2e_files(test_path, tokenizer, None) # 텍스트가 src, 여러 tgt들 이렇게 dict로 주어지는 듯
@@ -109,7 +109,8 @@ def main():
     out_handle = open(curr_dir, 'w')
 
     for prompt_idx, prompt_text in enumerate(prompt_text_lst):
-        print(f"prompt_idx {prompt_idx}, prompt_text {prompt_text}")
+        if prompt_idx % 10 == 0:
+            print(f"prompt_idx {prompt_idx}, prompt_text {prompt_text}")
         encoded_prompt = tokenizer.encode(prompt_text, add_special_tokens=False, return_tensors="pt")
         encoded_prompt = encoded_prompt.to(device)
 
