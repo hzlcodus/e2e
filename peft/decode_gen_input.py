@@ -15,19 +15,14 @@ from transformers import (
 import sys, os
 from peft import PeftConfig
 
-logging.basicConfig(
-    format="%(asctime)s - %(levelname)s - %(name)s -   %(message)s",
-    datefmt="%m/%d/%Y %H:%M:%S",
-    level=logging.INFO,
-)
-logger = logging.getLogger(__name__)
+from decode import write_e2e_src, adjust_length_to_model
+
 
 def read_e2e_files(path, tokenizer, lowdata_token=None):
     file_dict = {}
     with open(path, 'r') as f:
         for line in f:
-            src, tgt = line.strip().split('||')
-            # URGENT CHANGE
+            src = line.strip() # CHANGED!
             # src =  src + ' {}'.format(' summarize :')
             if lowdata_token is None:
                 src = ' {} {}'.format(src, tokenizer.bos_token)
@@ -36,39 +31,8 @@ def read_e2e_files(path, tokenizer, lowdata_token=None):
                 src = ' {} {} {}'.format(lowdata_token, src, tokenizer.bos_token)
             if src not in file_dict:
                 file_dict[src] = []
-            file_dict[src].append(tgt)
+            file_dict[src].append('') # CHANGED!
     return file_dict
-
-
-def write_e2e_corr(prompt_lst, file_dict, corr_path):
-    print(len(prompt_lst))
-    with open(corr_path, 'w') as f:
-        for x in prompt_lst:
-            for line in file_dict[x]:
-                if not line.strip():
-                    print('PROBLEM', line,'PROBLEM',file_dict[x] )
-                else:
-                    print(line, file=f)
-            print('', file=f)
-
-def write_e2e_src(prompt_lst, corr_path):
-    with open(corr_path, 'w') as f:
-        for x in prompt_lst:
-            print(x, file=f)
-    return
-
-
-def adjust_length_to_model(length, max_sequence_length):
-    if length < 0 and max_sequence_length > 0:
-        length = max_sequence_length
-    elif 0 < max_sequence_length < length:
-        length = max_sequence_length  # No generation bigger than model size
-    elif length < 0:
-        length = 10000  # avoid infinite loop. jcy : MAX_LENGTH
-    return length
-
-
-
 
 def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -96,14 +60,17 @@ def main():
     test_path = f"/data/hzlcodus/{split_file}.txt"
     
     # 프롬프트 생성
-    prompt_text_dict = read_e2e_files(test_path, tokenizer, None) # 텍스트가 src, 여러 tgt들 이렇게 dict로 주어지는 듯
+    prompt_text_dict = read_e2e_files(test_path, tokenizer, None) # 텍스트가 src, ''  dict
     prompt_text_lst = list(prompt_text_dict.keys()) # src들만 모아둠
     decode_mode = "sample"
 
+    if len(sys.argv) > 3:
+        shot_mode = sys.argv[3] # zero-shot, few-shot
+    else:
+        shot_mode = "base"
+
     # 모델 답, gold 답들, 문제 파일 만드는 코드
-    curr_dir = os.path.join('/home/hzlcodus/codes/peft/outputs', '{}_{}_{}'.format(model_name_or_path, split_file, decode_mode))
-    gold_dir = os.path.join('/home/hzlcodus/codes/peft/outputs', '{}_{}_{}'.format(model_name_or_path, split_file, 'gold'))
-    write_e2e_corr(prompt_text_lst, prompt_text_dict, gold_dir) # src prompt 같은 것끼리 그룹화하려고 그 사이에 한 줄씩 띄워서 gold 저장
+    curr_dir = os.path.join('/home/hzlcodus/codes/peft/outputs', '{}_{}_{}_{}'.format(model_name_or_path, split_file, decode_mode, shot_mode))
     src_dir = os.path.join('/home/hzlcodus/codes/peft/outputs', '{}_{}_{}'.format(model_name_or_path, split_file, 'src'))
     write_e2e_src(prompt_text_lst, src_dir) # 서로 다른 src들만 쭉 저장
     out_handle = open(curr_dir, 'w')
@@ -111,6 +78,20 @@ def main():
     for prompt_idx, prompt_text in enumerate(prompt_text_lst):
         if prompt_idx % 10 == 0:
             print(f"prompt_idx {prompt_idx}, prompt_text {prompt_text}")
+        
+        # add task description to prompt
+        task_description = "Given attributes of a good, generate a 3-sentence explanation for the good"
+
+        if shot_mode == 'zero-shot':
+            prompt_text = task_description + ':\n\n' + prompt_text
+        elif shot_mode == 'few-shot':
+            few_shot_examples = ""
+            # read shot.txt examples
+            with open('/data/hzlcodus/shot.txt', 'r') as f:
+                for line in f:
+                    few_shot_examples += line.strip() + '\n'
+            prompt_text = task_description + '. Following are examples:\n\n' + few_shot_examples + '\n\n' + prompt_text
+        
         encoded_prompt = tokenizer.encode(prompt_text, add_special_tokens=False, return_tensors="pt")
         encoded_prompt = encoded_prompt.to(device)
 
@@ -160,9 +141,8 @@ def main():
                 print(text_output, file=out_handle)
             else:
                 print('Error', file=out_handle)
-    out_handle.close()
     
-    print("=====FINISHED, Run Evaluate Codes=====\n", curr_dir)
+    print("=====FINISHED, Run Evaluate Codes=====\n")
  
 
 if __name__ == "__main__":

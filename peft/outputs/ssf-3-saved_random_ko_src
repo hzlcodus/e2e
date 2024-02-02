@@ -1,0 +1,45 @@
+ group : 남성 가방 | style : 브리프케이스 | fit : 없음 | gender : 남녀공용 | material : 기타 | pattern : 솔리드 <|endoftext|>
+ group : 악세사리 | style : 패치 | fit : 없음 | gender : 여성 | material : 기타 | pattern : 기타 <|endoftext|>
+ group : 남녀공용 스포츠 가방 | style : 크로스 백 | fit : 없음 | gender : 남성 | material : 나일론 | pattern : 크로커다일 <|endoftext|>
+ group : 양말 | style : 베이직 | fit : 없음 | gender : 남녀공용 | material : 면 혼방 | pattern : 도트 <|endoftext|>
+ group : 남성 신발 | style : 옥스퍼드 | fit : 없음 | gender : 남성 | material : 기타 | pattern : 기타 <|endoftext|>
+ group : 래깅스 스타킹 | style : 기타 | fit : 슬림 | gender : 어린이 | material : 면 | pattern : 플로랄 <|endoftext|>
+ group : 넥타이 | style : 기타 | fit : 없음 | gender : 어린이 | material : 패브릭 | pattern : 스트라이프(세로) <|endoftext|>
+ group : 남성 지갑 | style : 지갑 | fit : 없음 | gender : 어린이 | material : PVC | pattern : 크로커다일 <|endoftext|>
+ group : 남녀공용 스포츠 신발 | style : 캐주얼(스파이클레스) | fit : 없음 | gender : 어린이 | material : 혼합 | pattern : 기타 <|endoftext|>
+ group : 모자 | style : 귀플랩 | fit : 없음 | gender : 없음 | material : 울 | pattern : 플로랄 <|endoftext|>
+ group : 여성 수영복 | style : 두 조각 | fit : 없음 | gender : 어린이 | material : 기타 | pattern : 체크 <|endoftext|>
+ group : 여성 지갑 | style : 키 케이스 | fit : 없음 | gender : 남성 | material : 기타 | pattern : 도트 <|endoftext|>
+ group : 여성 가방 | style : 허리 가방 | fit : 없음 | gender : 없음 | material : 패브릭 | pattern : 모노그램 <|endoftext|>
+ group : 여성 벨트 | style : 기타 | fit : 없음 | gender : 어린이 | material : 기타 | pattern : 컬러 블록 <|endoftext|>
+ group : 보석 | style : 링 | fit : 없음 | gender : 어린이 | material : 금 | pattern : 기타 <|endoftext|>
+ group : 장갑 | style : 롱 | fit : 없음 | gender : 남녀공용 | material : 캐시미어 | pattern : 기타 <|endoftext|>
+ group : 스카프_머플러 | style : 기타 | fit : 없음 | gender : 여성 | material : 기타 | pattern : 솔리드 <|endoftext|>
+ group : 여성 신발 | style : 오픈 펌프스 | fit : 없음 | gender : 남성 | material : PU | pattern : 기타 <|endoftext|>
+ group : 남성 벨트 | style : 기타 | fit : 없음 | gender : 여성 | material : 가죽 기타 | pattern : 체크 <|endoftext|>
+ group : 큐롯 | style : 워프 스커트 | fit : H라인 | gender : 남녀공용 | material : 울 | pattern : 솔리드 | print : 캐릭터 | length : 무릎 | tuck : 기타 | washing : 스톤 워싱 <|endoftext|>
+ group : 수트 재킷 | style : 수트 재킷 | fit : 초슬림 | gender : 없음 | material : 리넨 | pattern : 지리학 | print : 그라데이션 | length : 미디 | sleeve length : 70 퍼센트 | button/zipper : 싱글 1 버튼 | neck detail : 오프숄더 <|endoftext|>
+ group : c&s | style : 스웨트 셔츠 | fit : 기타 | gender : 남성 | material : 나일론 | pattern : 스트라이프(가로) | print : 로고 | length : 미디엄 | sleeve length : 슬리브리스 | button/zipper : 기타 | 원단 style : 저지 | washing : 기타 | neck detail : 스트랩 스위트하트 <|endoftext|>
+ group : 풀오버 | style : 라운드 스웨터 | fit : 슬림 | gender : 남녀공용 | material : 폴리 | pattern : 도트 | print : 모노그램 | length : 미디엄 | sleeve length : 30 퍼센트 | 충전재 : 없음 | 게이지 : 미디엄 | neck detail : 터틀 <|endoftext|>
+ group : 카디건 | style : 로브 가디건 | fit : 루즈 | gender : 남녀공용 | material : 폴리 | pattern : 체크 | print : 타이포그래픽 | length : 쇼트 | sleeve length : 슬리브리스 | button/zipper : 기타 | 충전재 : 패딩 | 게이지 : 미디엄 | neck detail : 무 칼라 <|endoftext|>
+ group : 반바지 | style : 스포츠 팬츠 | fit : 조거 | gender : 어린이 | material : 폴리 레이온 혼방 | pattern : 스트라이프(가로) | print : 로고 | length : 3부 | tuck : 기타 | washing : 워싱 <|endoftext|>
+ group : 사파리 아우터 | style : 데님 재킷 | fit : 준슬림 | gender : 남성 | material : 면 혼방 | pattern : 카모플라주 | print : print 기타 | length : 롱-막시 | button/zipper : 싱글 | 충전재 : 다운 | 모피 종류 : 칼라/앞면 | 안감 : 3방향 분리 가능 | neck detail : 스플릿 <|endoftext|>
+ group : 블라우스 | style : 시폰 블라우스 | fit : 기타 | gender : 없음 | material : 면 | pattern : 스트라이프(가로) | print : print_플로럴 | length : 기타 | sleeve length : 70 퍼센트 | button/zipper : 더블 4 버튼 | 원단 style : 기타 | washing : 없음 | neck detail : 하이 <|endoftext|>
+ group : 치마 | style : 슬릿 스커트 | fit : H라인 | gender : 없음 | material : 모달 | pattern : 컬러 블록 | print : pattern 기타 | length : 맥시 | 원단 style : 트위드 | tuck : 2 tuck | washing : 스톤 워싱 <|endoftext|>
+ group : 스웨터 | style : 스웨터 머플러 | fit : 에이 라인 | gender : 여성 | material : 울 | pattern : 솔리드 | print : 타이포그래픽 | length : 팬츠 7/8부 | sleeve length : 50 퍼센트/하프 | button/zipper : 더블 | 충전재 : 구스 다운 | 게이지 : 기타 | tuck : 2 tuck | neck detail : 서플리스 <|endoftext|>
+ group : 재킷 | style : 윈드 브레이커 | fit : 기타 | gender : 남성 | material : W/MO | pattern : 기타 | print : 캐릭터 | length : 기타 | sleeve length : 슬리브리스 | button/zipper : 더블 | 원단 style : 원단 | 안감 : 없음 | washing : 코팅(코팅진) | neck detail : 플런징 <|endoftext|>
+ group : c&s_long | style : 가디건 | fit : 릴렉스 | gender : 어린이 | material : 울 혼방 | pattern : 솔리드 | print : 그라데이션 | length : 롱 | sleeve length : 50 퍼센트/하프 | button/zipper : 더블 3 버튼 | 원단 style : 자카드 | washing : 원 워싱 | neck detail : 홀터 <|endoftext|>
+ group : 가죽 아우터 | style : 사파리 | fit : 오버 | gender : 여성 | material : 합성 가죽 | pattern : 매드라스 체크 | print : 타이포그래픽 | length : 롱 | sleeve length : 30 퍼센트 | button/zipper : 없음 | 충전재 : 구스 | 모피 종류 : 기타 | 안감 : 분리 가능 | neck detail : 서플리스 <|endoftext|>
+ group : 롱스커트 | style : 블라우스 | fit : 오버 | gender : 여성 | material : 울 혼방 | pattern : 태터솔 | print : print_플로럴 | length : 기타 | sleeve length : 90 퍼센트 | button/zipper : 하프 버튼 | 원단 style : 저지 | washing : 트렌드 워싱 | neck detail : 버튼 다운 <|endoftext|>
+ group : c&s_short | style : 티셔츠 | fit : 기타 | gender : 남성 | material : 기타 | pattern : 자카드 | print : 자수 | length : 미디엄 | sleeve length : 롱 | button/zipper : 하프 버튼 | 원단 style : 셔파 | washing : 기타 | neck detail : 세일러 <|endoftext|>
+ group : 코트 | style : 체스터 코트 | fit : 클래식 | gender : 없음 | material : N/P | pattern : 카모플라주 | print : print_플로럴 | length : 미디엄 | button/zipper : 더블 2 버튼 | 충전재 : 구스 | 모피 종류 : 없음 | 안감 : 분리 가능 | washing : 없음 | neck detail : 터틀 <|endoftext|>
+ group : 원피스 | style : 셔츠 드레스 | fit : H라인 | gender : 남성 | material : 실크 | pattern : 트로피칼 | print : 그라데이션 | length : 롱 | sleeve length : 90 퍼센트 | button/zipper : 없음 | neck detail : 초커 <|endoftext|>
+ group : 반팔 | style : 캐주얼 셔츠 | fit : 기타 | gender : 어린이 | material : 폴리 | pattern : 타탄 체크 | print : pattern 기타 | length : 쇼트 | sleeve length : 70 퍼센트 | button/zipper : 싱글 | 원단 style : 플레인 | washing : 원 워싱 | neck detail : 턱시도 <|endoftext|>
+ group : 수트 베스트 | style : 투피스 수트 | fit : 기타 | gender : 여성 | material : 기타 | pattern : 도트 | print : 캐릭터 | length : 쇼트 | button/zipper : 싱글 4 버튼 | neck detail : 터틀 <|endoftext|>
+ group : 다운 패딩 | style : 사파리 재킷 | fit : 기타 | gender : 남녀공용 | material : 나일론 | pattern : 타탄 체크 | print : 로고 | length : 쇼트 | sleeve length : 롱 | button/zipper : 없음 | 충전재 : 구스 | 모피 종류 : 칼라/앞면 | 안감 : 기타 | neck detail : 스퀘어 <|endoftext|>
+ group : 트렌치코트 | style : 트렌치 코트 | fit : 레귤러 | gender : 여성 | material : 울 | pattern : 솔리드 | print : pattern 기타 | length : 롱-막시 | button/zipper : 싱글 | 충전재 : 다운 | 안감 : 없음 | neck detail : 스트랩 스위트하트 <|endoftext|>
+ group : 퍼 아우터 | style : 사파리/미리터리/필드 | fit : 기타 | gender : 어린이 | material : 머스탱 | pattern : 기타 | print : 모노그램 | length : 롱-막시 | sleeve length : 50 퍼센트/하프 | button/zipper : 더블 3 버튼 | 충전재 : 다운 | 모피 종류 : 풀 | 안감 : 분리 가능 | neck detail : 스트랩 스위트하트 <|endoftext|>
+ group : 팬츠 | style : 벨티드 팬츠 | fit : 세미 슬림 | gender : 남녀공용 | material : 폴리 | pattern : 하운즈 투스 | print : pattern 기타 | length : 롱 | tuck : 1 tuck | washing : 컬러드 <|endoftext|>
+ group : 수트 바지 | style : 쓰리피스 수트 | fit : 슬림 스트레이트 | gender : 여성 | material : 캐시미어 | pattern : 컬러 블록 | print : print 기타 | length : 팬츠 미니(핫) | tuck : 2 tuck <|endoftext|>
+ group : 아우터 | style : 데님 재킷 | fit : 세미 슬림 | gender : 남성 | material : 레이온/비스코스 | pattern : 레오파드 | print : 캐릭터 | length : 미디 | sleeve length : 롱 | button/zipper : 싱글 2 버튼 | 충전재 : 구스 | 모피 종류 : 없음 | 안감 : 부분적으로 붙어 있음 | washing : 피그먼트 염색 | neck detail : surplice <|endoftext|>
+ group : 조끼 | style : 조끼 | fit : 루즈 | gender : 어린이 | material : 기타 | pattern : 체크 | print : 모노그램 | length : 기타 | button/zipper : 풀 버튼 | 충전재 : 구스 | 안감 : 라이너 없음 | neck detail : 넥 디테일 하프 <|endoftext|>

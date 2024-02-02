@@ -100,11 +100,19 @@ class LineByLineData2TextTextDataset(Dataset): # jcy !!
         print('src_avg: ', temp_src_len / temp_count)
         print('ratios: ', temp_src_len/temp_tgt_len)
 
-
-        print(edited_sents[0])
-        print(lines[0])
-
         assert len(self.src_cat) == len(self.examples)
+
+        #TODO: print max length of self.examples
+        # Find the index of the example with the maximum length
+        max_length, max_index = max((len(example), idx) for idx, example in enumerate(self.examples))
+
+        # Print the maximum length and the index of the corresponding original line
+        print('Max length of self.examples:', max_length)
+        print('Index of the line with max length:', max_index)
+        print('Sentence of the line with max length:', lines[max_index])
+
+
+
 
 
     def __len__(self):
@@ -289,74 +297,25 @@ lora_config = LoraConfig(
     task_type=TaskType.CAUSAL_LM,
     base_model_name_or_path="EleutherAI/polyglot-ko-1.3b"
 )
-
-model = AutoModelForCausalLM.from_pretrained( # jcy
-                checkpoint,
-                config=config,
-            )
-model = get_peft_model(model, lora_config)
-model.print_trainable_parameters()
-
 block_size = tokenizer.model_max_length = 512
 print('adapting the size of the model embedding to include [PAD]')
 print('len(tokenizer) = ', len(tokenizer))
 num_added_tokens = tokenizer.add_special_tokens(
     {'pad_token': '[PAD]'})
-embedding_layer = model.resize_token_embeddings(len(tokenizer))
 print('len(tokenizer) = ', len(tokenizer))
 print(tokenizer.eos_token, tokenizer.eos_token_id)
 tokenizer.bos_token = tokenizer.eos_token
 print(tokenizer.bos_token, tokenizer.bos_token_id)
 
-train_file_path = "/data/hzlcodus/train_extract.txt"
-#eval_file_path = "/home/hzlcodus/test.txt"
+train_file_path = "/home/hzlcodus/PrefixTuning/data/ssf/infos_processed.txt"
 
 train_dataset = (
     get_dataset(file_path = train_file_path, tokenizer=tokenizer)
 )
 
-# eval_dataset = (
-#     get_dataset(file_path = eval_file_path, tokenizer=tokenizer)
-# )
 
 data_collator = DataCollatorForData2TextLanguageModeling(
                 tokenizer=tokenizer, mlm=False, mlm_probability=0.15,
                 format_mode='cat'
             )
 
-
-training_args = TrainingArguments(
-    output_dir="ssf",
-    evaluation_strategy="no",
-    per_device_train_batch_size=1,  # Aligned with DeepSpeed
-    num_train_epochs=5,
-    weight_decay=0.01,  # Aligned with DeepSpeed
-    gradient_accumulation_steps=8, 
-    learning_rate=0.0002,  # Aligned with DeepSpeed
-    warmup_steps=500,  # Aligned with DeepSpeed
-    prediction_loss_only=True,
-    save_steps=50000,
-    deepspeed='ds_config.json'
-)
-
-
-args_dict = training_args.to_dict()
-#wandb.config.update(args_dict)
-
-trainer = Trainer(
-            model=model,
-            tokenizer=tokenizer,
-            args=training_args,
-            data_collator=data_collator,
-            train_dataset=train_dataset,
-            eval_dataset=None
-        )
-
-trainer.train()
-model_path = "ssf-4.3-saved"
-model.save_pretrained(model_path)
-tokenizer.save_pretrained(model_path)
-trainer.save_model(output_dir=f"/home/hzlcodus/model/{model_path}")
-# results = trainer.evaluate(eval_dataset)
-# print(results)
-# logging.info("Evaluation Results: %s", results)
