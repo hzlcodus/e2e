@@ -41,7 +41,7 @@ checkpoint = "gpt2"
 generator = pipeline('text-generation', model=checkpoint, tokenizer=checkpoint)
 client = OpenAI(
     # This is the default and can be omitted
-    api_key='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',
+    api_key='',
 )
 
 # Your prompt and sentence
