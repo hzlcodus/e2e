@@ -29,7 +29,7 @@ import copy
 import logging
 from dataclasses import dataclass, field
 from peft import get_peft_model, LoraConfig, TaskType
-#import wandb
+import wandb
 
 class LineByLineData2TextTextDataset(Dataset): # jcy !!
     """
@@ -258,7 +258,7 @@ class DataCollatorForData2TextLanguageModeling:
 'human_reference' : The Vaults pub near Café Adriatic has a 5 star rating. Prices start at £30.
 '''
 
-
+wandb.init(project="ssf")
 device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 print(device)
 
@@ -283,7 +283,7 @@ def get_dataset(
 
 
 lora_config = LoraConfig(
-    r=1,
+    r=8,
     lora_alpha=32,
     lora_dropout=0.1,
     task_type=TaskType.CAUSAL_LM,
@@ -341,7 +341,7 @@ training_args = TrainingArguments(
 
 
 args_dict = training_args.to_dict()
-#wandb.config.update(args_dict)
+wandb.config.update(args_dict)
 
 trainer = Trainer(
             model=model,
@@ -353,7 +353,7 @@ trainer = Trainer(
         )
 
 trainer.train()
-model_path = "ssf-4.3-saved"
+model_path = "ssf-4.4-saved"
 model.save_pretrained(model_path)
 tokenizer.save_pretrained(model_path)
 trainer.save_model(output_dir=f"/home/hzlcodus/model/{model_path}")

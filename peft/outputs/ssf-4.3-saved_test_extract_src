@@ -1,765 +1,765 @@
- name : Ss Crew Neck T-Shirt - Black | season : SS23 | brand : beaker | color : Black | style : 티셔츠 | material : 코튼 <|endoftext|>
- name : ❄️시즌오프❄️ Bulletproof Jumper - Charcoal | season : FW23 | brand : beaker | color : Charcoal | button_zipper : 투웨이 지퍼 | style : 재킷 <|endoftext|>
+ name : Ss Crew Neck T-Shirt - Black | season : SS23 | brand : beaker | color : Black | material : 코튼, 데님 | style : 티셔츠 | fit : 레귤러핏 <|endoftext|>
+ name : ❄️시즌오프❄️ Bulletproof Jumper - Charcoal | season : FW23 | brand : beaker | color : Charcoal | button_zipper : 투웨이 지퍼 | style : 점퍼 <|endoftext|>
  name : ❄️시즌오프❄️ Men Black Watch Cotton Shorts - Green | season : FW23 | brand : beaker | color : Green |  <|endoftext|>
- name : ❄️시즌오프❄️ ★강민혁 착용★ Overshirt Desco - Navy | season : FW23 | brand : beaker | color : Navy | style : 셔츠 | material : 코튼 <|endoftext|>
+ name : ❄️시즌오프❄️ ★강민혁 착용★ Overshirt Desco - Navy | season : FW23 | brand : beaker | color : Navy | material : 코튼 | style : 셔츠 <|endoftext|>
  name : ❄️시즌오프❄️ Padding Sleeve Sweatshirts - Black | season : FW23 | brand : beaker | color : Black | material : 면 | style : 셔츠 <|endoftext|>
- name : Stand Collar Blouson - Stone | season : FW23 | brand : beaker | color : Stone | style : 블루종 | neck_detail : 칼라 | material : 코튼 <|endoftext|>
+ name : Stand Collar Blouson - Stone | season : FW23 | brand : beaker | color : Stone | material : 코튼 | neck_detail : 칼라 | style : 블루종 <|endoftext|>
  name : Women Hard Working Hat - Blue | season : FW23 | brand : beaker | color : Blue | pattern/print : 스트라이프 <|endoftext|>
  name : 볼륨 실루엣 미니 원피스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | sleeves_length : 민소매 | style : 원피스 <|endoftext|>
- name : 쭈글이 반소매 블라우스 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | style : 블라우스 | sleeves_length : 반소매 <|endoftext|>
- name : [Capsule] 사이드 지퍼라인 커브드 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 팬츠 <|endoftext|>
- name : 경량 에센셜 와이드핏 데님 팬츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | fit : 와이드핏 | material : 데님 | style : 팬츠 <|endoftext|>
- name : 리본 반소매 재킷 셋업 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | sleeves_length : 반소매 | style : 재킷 | gender : 여성 <|endoftext|>
- name : Oversized Puffer Down Jacket - Black Glossy | season : FW22 | brand : beaker | color : Black Glossy | gender : 남성 | filling : 다운, 구스 | style : 재킷 | fabric_style : 플리스 <|endoftext|>
- name : 기모 워싱 롱 와이드 데님 팬츠 - 스카이 블루 | season : FW23 | brand : 8seconds | color : 스카이 블루 | washing : 워싱 | material : 데님 | style : 팬츠 <|endoftext|>
- name : [Essential] 캐시미어 라운드 니트 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | pattern/print : 로고, 자수 | material : 캐시미어 <|endoftext|>
+ name : 쭈글이 반소매 블라우스 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | style : 블라우스 | length : 크롭 기장 | sleeves_length : 반소매 <|endoftext|>
+ name : [Capsule] 사이드 지퍼라인 커브드 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 팬츠 | material : 나일론 <|endoftext|>
+ name : 경량 에센셜 와이드핏 데님 팬츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | style : 데님 팬츠 | material : 데님 | fit : 와이드핏 <|endoftext|>
+ name : 리본 반소매 재킷 셋업 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | sleeves_length : 반소매 | gender : 여성 | style : 재킷 <|endoftext|>
+ name : Oversized Puffer Down Jacket - Black Glossy | season : FW22 | brand : beaker | color : Black Glossy | gender : 남성 | filling : 구스, 다운 | fabric_style : 플리스 <|endoftext|>
+ name : 기모 워싱 롱 와이드 데님 팬츠 - 스카이 블루 | season : FW23 | brand : 8seconds | color : 스카이 블루 | washing : 워싱 | style : 데님 팬츠 | material : 데님 | neck_detail : 후드 <|endoftext|>
+ name : [Essential] 캐시미어 라운드 니트 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | material : 캐시미어 | pattern/print : 자수, 로고 <|endoftext|>
  name : High-Rise Pm Pant - Black | season : SS24 | brand : beaker | color : Black | material : 코튼 | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Men Oversize Reversible Shearling Jumper - Charcoal | season : FW23 | brand : beaker | color : Charcoal | style : 블루종 | material : 면 <|endoftext|>
- name : H.D. Track Pant - Wine | season : FW23 | brand : beaker | color : Wine | pattern/print : 자수 | fit : 와이드핏 | material : 폴리, 저지 | fabric_style : 저지 원단 | style : 팬츠 <|endoftext|>
+ name : ❄️시즌오프❄️ Men Oversize Reversible Shearling Jumper - Charcoal | season : FW23 | brand : beaker | color : Charcoal | material : 면 | style : 점퍼, 블루종 <|endoftext|>
+ name : H.D. Track Pant - Wine | season : FW23 | brand : beaker | color : Wine | fit : 와이드핏 | material : 저지, 폴리 | pattern/print : 자수 | style : 팬츠 | fabric_style : 저지 원단 <|endoftext|>
  name : 셔링 블라우스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 블라우스 | gender : 여성 <|endoftext|>
- name : ❄️시즌오프❄️ Denim Two Tuck Wide Pants - Light Blue | season : FW23 | brand : beaker | color : Light Blue | fit : 와이드핏 | material : 데님, 코튼 | style : 팬츠 <|endoftext|>
- name : 레이어드 저지 탑 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 티셔츠 | material : 저지 <|endoftext|>
+ name : ❄️시즌오프❄️ Denim Two Tuck Wide Pants - Light Blue | season : FW23 | brand : beaker | color : Light Blue | material : 코튼, 데님 | fit : 와이드핏 <|endoftext|>
+ name : 레이어드 저지 탑 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 탑, 티셔츠, 뷔스티에 | material : 저지 <|endoftext|>
  name : 라이트 핑크 미디엄 싱글 다운 재킷 | season : FW22 | brand : beanpole | style : 다운 재킷 | filling : 다운 | material : 나일론 <|endoftext|>
  name : 부클 라운드 햇 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 |  <|endoftext|>
- name : 코튼 혼방 스트라이프 삭스 - 블랙 | season : SS23 | brand : 8seconds | color : 블랙 | pattern/print : 스트라이프 | material : 코튼 <|endoftext|>
- name : ❄️시즌오프❄️ Single Button Blazer - Grey | season : FW23 | brand : beaker | color : Grey | style : 재킷 <|endoftext|>
+ name : 코튼 혼방 스트라이프 삭스 - 블랙 | season : SS23 | brand : 8seconds | color : 블랙 | material : 코튼 | pattern/print : 스트라이프 <|endoftext|>
+ name : ❄️시즌오프❄️ Single Button Blazer - Grey | season : FW23 | brand : beaker | color : Grey | material : 울 혼방 | style : 재킷 <|endoftext|>
  name : 배색 포인트 페이크레더 블루종 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 블루종 <|endoftext|>
- name : 코튼 반소매 래글런 스웨트 셔츠 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | sleeves_length : 반소매 | material : 면, 코튼 | style : 셔츠 <|endoftext|>
+ name : 코튼 반소매 래글런 스웨트 셔츠 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | material : 면, 코튼 | style : 스웨트셔츠 | sleeves_length : 반소매 <|endoftext|>
  name : NC Stretch Cargo Pants - Grey | season : FW23 | brand : beaker | color : Grey | style : 팬츠 <|endoftext|>
  name : Poly Blend String Wide Fit Pants - Ash | season : SS24 | brand : kuho | color : Ash | material : 저지 | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Fisherman Jumper - Brown | season : FW23 | brand : beaker | color : Brown | style : 스웨터 | material : 울 <|endoftext|>
- name : 페이크 레더 칼라블록 점퍼 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | filling : 패딩 | style : 블루종 | neck_detail : 칼라 | material : 가죽 <|endoftext|>
- name : 코튼 나일론 레이어드 원피스 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | neck_detail : 브이넥 | style : 원피스 | material : 코튼, 나일론 <|endoftext|>
+ name : ❄️시즌오프❄️ Fisherman Jumper - Brown | season : FW23 | brand : beaker | color : Brown | material : 울 | style : 스웨터 | fit : 레귤러핏 <|endoftext|>
+ name : 페이크 레더 칼라블록 점퍼 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | material : 가죽, 데님 | neck_detail : 칼라 | style : 점퍼, 블루종 | filling : 패딩 <|endoftext|>
+ name : 코튼 나일론 레이어드 원피스 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | material : 코튼, 나일론 | neck_detail : 브이넥 | style : 원피스 <|endoftext|>
  name : Women Soft Sweat Long Pants - Black | season : SS24 | brand : beaker | color : Black | material : 코튼 | style : 팬츠 <|endoftext|>
- name : 울 하이넥 버튼 디테일 니트 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | neck_detail : 하이넥 | material : 울 <|endoftext|>
- name : 옥스포드 베이직 셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | style : 셔츠 | material : 코튼 <|endoftext|>
- name : Baracuta Blouson Jacket - Twotone Grey | season : FW23 | brand : beaker | color : Twotone Grey | style : 블루종 | neck_detail : 칼라 <|endoftext|>
- name : Suvin Supima Tube Tee Light - Black | season : FW23 | brand : beaker | color : Black | style : 티셔츠 | material : 면 <|endoftext|>
- name : [Green] 코튼 라운드 스웨트 셔츠 - 바이올렛 | season : FW23 | brand : beanpole | color : 바이올렛 | pattern/print : 로고, 자수 | style : 셔츠 | material : 코튼 <|endoftext|>
- name : 컬러 피그먼트 워크 데님 팬츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | material : 데님 | style : 팬츠 <|endoftext|>
- name : 블랙 투톤 블루종 | season : FW22 | brand : beanpole | style : 블루종 | material : 폴리 <|endoftext|>
+ name : 울 하이넥 버튼 디테일 니트 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | material : 울 | neck_detail : 하이넥 <|endoftext|>
+ name : 옥스포드 베이직 셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | material : 코튼 | style : 셔츠 <|endoftext|>
+ name : Baracuta Blouson Jacket - Twotone Grey | season : FW23 | brand : beaker | color : Twotone Grey | neck_detail : 칼라 | style : 블루종 <|endoftext|>
+ name : Suvin Supima Tube Tee Light - Black | season : FW23 | brand : beaker | color : Black | material : 면 | style : 티셔츠 <|endoftext|>
+ name : [Green] 코튼 라운드 스웨트 셔츠 - 바이올렛 | season : FW23 | brand : beanpole | color : 바이올렛 | neck_detail : 라운드넥 | material : 코튼 | style : 셔츠 | pattern/print : 자수, 로고 <|endoftext|>
+ name : 컬러 피그먼트 워크 데님 팬츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | style : 데님 팬츠 | material : 데님 | neck_detail : 후드 <|endoftext|>
+ name : 블랙 투톤 블루종 | season : FW22 | brand : beanpole | material : 폴리 | style : 블루종 <|endoftext|>
  name : 자카드 양말 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | fabric_style : 자카드 | pattern/print : 레터링 <|endoftext|>
- name : [Maison de eight] 타이 넥 블라우스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | neck_detail : 칼라 | style : 블라우스 <|endoftext|>
- name : Skate Shoecut Denim Pants - Black | season : FW23 | brand : beaker | color : Black | washing : 워싱 | material : 데님 | style : 팬츠 <|endoftext|>
+ name : [Maison de eight] 타이 넥 블라우스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 블라우스 | neck_detail : 칼라 | gender : 여성 <|endoftext|>
+ name : Skate Shoecut Denim Pants - Black | season : FW23 | brand : beaker | color : Black | washing : 워싱 | style : 팬츠 | material : 데님 <|endoftext|>
  name : [아울렛핫딜] Corduroy Midi Skirt - Khaki | season : FW21 | brand : kuhoplus | color : Khaki | material : 코튼, 코듀로이 <|endoftext|>
- name : [Green] 소매 볼륨 헤지 데님 블라우스 - 블루 | season : SS23 | brand : beanpole | color : 블루 | style : 블라우스 | material : 면, 데님 | gender : 여성 <|endoftext|>
- name : ❄️시즌오프❄️ 2Way Alpaca Cardigan - Baby Blue | season : FW23 | brand : beaker | color : Baby Blue | style : 카디건 <|endoftext|>
- name : 페이크 스웨이드 웨스턴 블루종 - 카키 | season : FW23 | brand : 8seconds | color : 카키 | style : 블루종 <|endoftext|>
- name : Wellness Ivy T Shirt - Ivory | season : SS23 | brand : beaker | color : Ivory | sleeves_length : 반소매 | style : 티셔츠 | material : 면 | pattern/print : 레터링 <|endoftext|>
- name : 립조직 라운드넥 긴소매 티셔츠 - 블랙 | season : FW22 | brand : 8seconds | color : 블랙 | neck_detail : 라운드넥 | fabric_style : 립조직 | style : 긴소매 티셔츠 | sleeves_length : 긴소매 <|endoftext|>
+ name : [Green] 소매 볼륨 헤지 데님 블라우스 - 블루 | season : SS23 | brand : beanpole | color : 블루 | material : 면, 데님 | style : 블라우스 | gender : 여성 <|endoftext|>
+ name : ❄️시즌오프❄️ 2Way Alpaca Cardigan - Baby Blue | season : FW23 | brand : beaker | color : Baby Blue | style : 카디건 | pattern/print : 로고 <|endoftext|>
+ name : 페이크 스웨이드 웨스턴 블루종 - 카키 | season : FW23 | brand : 8seconds | color : 카키 | button_zipper : 투웨이 지퍼 | style : 재킷, 블루종 <|endoftext|>
+ name : Wellness Ivy T Shirt - Ivory | season : SS23 | brand : beaker | color : Ivory | material : 면 | style : 반소매 티셔츠 | pattern/print : 레터링 | sleeves_length : 반소매 <|endoftext|>
+ name : 립조직 라운드넥 긴소매 티셔츠 - 블랙 | season : FW22 | brand : 8seconds | color : 블랙 | style : 긴소매 티셔츠 | neck_detail : 라운드넥 | fabric_style : 립조직 | sleeves_length : 긴소매 <|endoftext|>
  name : 슬럽 조직 오픈칼라 셔츠 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | neck_detail : 오픈칼라 | style : 셔츠 | material : 레이온, 나일론 <|endoftext|>
  name : Twisted Pearl Pink Necklace - Light Pink | season : SS23 | brand : beaker | color : Light Pink |  <|endoftext|>
  name : ❄️시즌오프❄️ Men Pin Stripe Bucket Hat - Navy | season : FW23 | brand : beaker | color : Navy | pattern/print : 스트라이프 <|endoftext|>
- name : [EDITION8] 언밸런스 오버핏 재킷 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | style : 재킷 | fit : 오버핏 <|endoftext|>
- name : The Drop Square - Yellow | season : SS24 | brand : beaker | color : Yellow | material : 면 | style : 셔츠 <|endoftext|>
- name : 울 블렌디드 트위드 블루종 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | style : 블루종 | material : 울 혼방 | length : 짧은 기장 | pattern/print : 트위드 <|endoftext|>
- name : 레이어드 긴소매 티셔츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 긴소매 티셔츠 | sleeves_length : 긴소매 <|endoftext|>
- name : 레터링 자카드 라운드넥 집업 카디건 - 그린 | season : SS24 | brand : 8seconds | color : 그린 | fabric_style : 자카드 | neck_detail : 라운드넥 | style : 카디건 | pattern/print : 레터링 <|endoftext|>
- name : 코튼 리넨 플리츠 롱스커트 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | material : 면, 코튼, 리넨 혼방 | style : 스커트 <|endoftext|>
- name : Season Graphic T-Shirts - Sky Blue | season : SS21 | brand : kuhoplus | color : Sky Blue | style : 티셔츠 <|endoftext|>
- name : ❄️시즌오프❄️ Wide Leg Trousers - Brown | season : FW23 | brand : beaker | color : Brown | fit : 와이드핏 | material : 면, 나일론 | style : 팬츠 <|endoftext|>
+ name : [EDITION8] 언밸런스 오버핏 재킷 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | fit : 오버핏 | style : 재킷 <|endoftext|>
+ name : The Drop Square - Yellow | season : SS24 | brand : beaker | color : Yellow | material : 면, 데님 | style : 셔츠 <|endoftext|>
+ name : 울 블렌디드 트위드 블루종 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | material : 울 혼방 | length : 짧은 기장 | pattern/print : 트위드 | style : 블루종 <|endoftext|>
+ name : 레이어드 긴소매 티셔츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 긴소매 티셔츠 | material : 데님 | sleeves_length : 긴소매 <|endoftext|>
+ name : 레터링 자카드 라운드넥 집업 카디건 - 그린 | season : SS24 | brand : 8seconds | color : 그린 | neck_detail : 라운드넥 | fabric_style : 자카드 | pattern/print : 레터링 | style : 집업 카디건 <|endoftext|>
+ name : 코튼 리넨 플리츠 롱스커트 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | material : 면, 코튼, 리넨 혼방 | style : 스커트 | gender : 여성 | length : 긴 기장 <|endoftext|>
+ name : Season Graphic T-Shirts - Sky Blue | season : SS21 | brand : kuhoplus | color : Sky Blue | material : 저지, 코튼 | style : 티셔츠 <|endoftext|>
+ name : ❄️시즌오프❄️ Wide Leg Trousers - Brown | season : FW23 | brand : beaker | color : Brown | material : 면, 나일론 | style : 팬츠 | fit : 와이드핏 <|endoftext|>
  name : ❄️시즌오프❄️ Ebba Cargo Trousers - Khaki | season : FW23 | brand : beaker | color : Khaki | material : 면 | style : 팬츠 <|endoftext|>
- name : 실크 타이 - 와인 | season : FW23 | brand : beanpole | color : 와인 | pattern/print : 스트라이프 | material : 실크 <|endoftext|>
+ name : 실크 타이 - 와인 | season : FW23 | brand : beanpole | color : 와인 | material : 실크 | pattern/print : 스트라이프 <|endoftext|>
  name : 울 혼방 변형 패턴 셋업 재킷 - 그레이 | season : FW23 | brand : beanpole | color : 그레이 | material : 울 혼방 | style : 재킷 <|endoftext|>
- name : 폴리 3버튼 오버핏 재킷 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | material : 폴리 레이온 혼방 | style : 재킷 | fit : 오버핏 <|endoftext|>
- name : 시어링 퍼 숏 재킷 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | material : 퍼 | style : 퍼 재킷 | length : 크롭 기장 <|endoftext|>
- name : 와이드핏 패러슈트 데님 팬츠 - 블루 | season : SS24 | brand : 8seconds | color : 블루 | fit : 와이드핏 | washing : 워싱 | style : 패러슈트 팬츠 | material : 데님 <|endoftext|>
- name : 리브드 브이넥 반소매 풀오버 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | neck_detail : 브이넥 | sleeves_length : 반소매 <|endoftext|>
+ name : 폴리 3버튼 오버핏 재킷 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | material : 폴리 레이온 혼방 | fit : 오버핏 | style : 재킷 <|endoftext|>
+ name : 시어링 퍼 숏 재킷 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | neck_detail : 터틀넥 | style : 퍼 재킷 | length : 크롭 기장 | material : 퍼 <|endoftext|>
+ name : 와이드핏 패러슈트 데님 팬츠 - 블루 | season : SS24 | brand : 8seconds | color : 블루 | washing : 워싱 | style : 데님 팬츠, 패러슈트 팬츠 | material : 데님 | fit : 와이드핏 | neck_detail : 후드 <|endoftext|>
+ name : 리브드 브이넥 반소매 풀오버 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | neck_detail : 브이넥 | material : 데님 | sleeves_length : 반소매 <|endoftext|>
  name : ❄️시즌오프❄️ Cherry Plissé Kaftan - Green | season : FW23 | brand : beaker | color : Green |  <|endoftext|>
  name : ❄️시즌오프❄️ Broken Award Jacket - Orange | season : FW23 | brand : beaker | color : Orange | material : 양가죽 | style : 재킷 <|endoftext|>
- name : 트위드 니트 카디건 - 핑크 | season : FW23 | brand : 8seconds | color : 핑크 | style : 카디건 | pattern/print : 트위드 <|endoftext|>
- name : 후드 볼륨 블라우스 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | style : 블라우스 | gender : 여성 | neck_detail : 후드 <|endoftext|>
- name : High Neck Fitted Top - Purple | season : SS24 | brand : beaker | color : Purple |  <|endoftext|>
- name : The Union Long John - White | season : SS24 | brand : beaker | color : White | style : 레깅스 <|endoftext|>
- name : Signature Semi Overfit Shirts - Sky Blue | season : FW23 | brand : kuhoplus | color : Sky Blue | style : 셔츠 | material : 코튼 <|endoftext|>
- name : ❄️시즌오프❄️ ★송해나 착용★ Jean Effect Snow Pants - Blue | season : FW23 | brand : beaker | color : Blue | material : 퍼, 데님 | pattern/print : 로고, 자수 | style : 팬츠 <|endoftext|>
- name : Chino Cap - Navy | season : SS24 | brand : beaker | color : Navy | pattern/print : 로고, 자수 | material : 면, 폴리 <|endoftext|>
+ name : 트위드 니트 카디건 - 핑크 | season : FW23 | brand : 8seconds | color : 핑크 | pattern/print : 트위드 | style : 카디건 <|endoftext|>
+ name : 후드 볼륨 블라우스 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | style : 블라우스 | neck_detail : 후드 | gender : 여성 <|endoftext|>
+ name : High Neck Fitted Top - Purple | season : SS24 | brand : beaker | color : Purple | neck_detail : 하이넥 <|endoftext|>
+ name : The Union Long John - White | season : SS24 | brand : beaker | color : White |  <|endoftext|>
+ name : Signature Semi Overfit Shirts - Sky Blue | season : FW23 | brand : kuhoplus | color : Sky Blue | material : 코튼 | style : 셔츠 <|endoftext|>
+ name : ❄️시즌오프❄️ ★송해나 착용★ Jean Effect Snow Pants - Blue | season : FW23 | brand : beaker | color : Blue | style : 데님 팬츠 | pattern/print : 자수, 로고 | material : 퍼, 데님 <|endoftext|>
+ name : Chino Cap - Navy | season : SS24 | brand : beaker | color : Navy | material : 면, 폴리 | pattern/print : 자수, 로고 <|endoftext|>
  name : 케이블 칼라넥 풀오버 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | neck_detail : 칼라 <|endoftext|>
- name : ❄️시즌오프❄️ Plaid Oversized Shirt - Black | season : FW23 | brand : beaker | color : Black | material : 면 | pattern/print : 체크 | style : 셔츠 <|endoftext|>
- name : ❄️시즌오프❄️ Ous Sleeveless Top - Charcal | season : FW23 | brand : beaker | color : Charcal | sleeves_length : 민소매 | neck_detail : U넥 | style : 탑 <|endoftext|>
+ name : ❄️시즌오프❄️ Plaid Oversized Shirt - Black | season : FW23 | brand : beaker | color : Black | material : 면 | style : 셔츠 | pattern/print : 체크 <|endoftext|>
+ name : ❄️시즌오프❄️ Ous Sleeveless Top - Charcal | season : FW23 | brand : beaker | color : Charcal | sleeves_length : 민소매 | style : 탑 | neck_detail : U넥 <|endoftext|>
  name : Cashmere Blend Basic Half Neck Pullover - Ivory | season : FW23 | brand : kuho | color : Ivory | material : 캐시미어 혼방 | neck_detail : 하프넥 <|endoftext|>
- name : 고밀도 코튼 반소매 티셔츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | sleeves_length : 반소매 | style : 티셔츠 | material : 코튼 | fit : 오버핏 <|endoftext|>
+ name : 고밀도 코튼 반소매 티셔츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | material : 코튼 | style : 반소매 티셔츠 | sleeves_length : 반소매 | fit : 오버핏 <|endoftext|>
  name : 브러쉬드 빅헤릿 체크 볼캡 - 그린 | season : FW23 | brand : beanpole | color : 그린 | pattern/print : 체크 <|endoftext|>
- name : ❄️시즌오프❄️ Arch Sweater - Orange | season : FW23 | brand : beaker | color : Orange | style : 스웨터 | material : 데님 | length : 크롭 기장 <|endoftext|>
- name : 스트라이프 반소매 니트 - 그린 | season : FW23 | brand : 8seconds | color : 그린 | sleeves_length : 반소매 | pattern/print : 스트라이프 <|endoftext|>
- name : 오프숄더 리본 반소매 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | neck_detail : 라운드넥, 오프숄더 | sleeves_length : 반소매 | style : 티셔츠 <|endoftext|>
- name : [Essential] 울 폴리 니트 하프넥 긴소매 티셔츠 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | style : 긴소매 티셔츠 | material : 폴리, 울 혼방 | neck_detail : 하프넥 | fit : H라인 | sleeves_length : 긴소매 <|endoftext|>
- name : 케이블 칼라넥 토글 버튼 카디건 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | style : 카디건 | neck_detail : 칼라 <|endoftext|>
- name : Classic Tee Earth - Green | season : SS24 | brand : beaker | color : Green | style : 티셔츠 | material : 면 <|endoftext|>
+ name : ❄️시즌오프❄️ Arch Sweater - Orange | season : FW23 | brand : beaker | color : Orange | style : 집업 스웨터 | length : 크롭 기장 | material : 데님 <|endoftext|>
+ name : 스트라이프 반소매 니트 - 그린 | season : FW23 | brand : 8seconds | color : 그린 | pattern/print : 스트라이프 | sleeves_length : 반소매 <|endoftext|>
+ name : 오프숄더 리본 반소매 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | neck_detail : 라운드넥, 오프숄더 | style : 반소매 티셔츠 | sleeves_length : 반소매 <|endoftext|>
+ name : [Essential] 울 폴리 니트 하프넥 긴소매 티셔츠 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | style : 긴소매 티셔츠 | material : 폴리, 울 혼방 | fit : H라인 | neck_detail : 하프넥 | sleeves_length : 긴소매 <|endoftext|>
+ name : 케이블 칼라넥 토글 버튼 카디건 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | neck_detail : 칼라 | style : 카디건 <|endoftext|>
+ name : Classic Tee Earth - Green | season : SS24 | brand : beaker | color : Green | material : 면 | style : 티셔츠 <|endoftext|>
  name : 브이넥 풀오버 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | neck_detail : 브이넥 <|endoftext|>
  name : ❄️시즌오프❄️ Men Solid Long Sleeve T-Shirt - Black | season : FW23 | brand : beaker | color : Black | style : 티셔츠 <|endoftext|>
  name : 변형 와이드 슬랙스 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | style : 슬랙스 <|endoftext|>
- name : Side Gusset Hoodie - Green | season : SS24 | brand : beaker | color : Green | style : 티셔츠 | fit : 오버핏 | neck_detail : 후드 <|endoftext|>
+ name : Side Gusset Hoodie - Green | season : SS24 | brand : beaker | color : Green | style : 후드 티셔츠 | fit : 오버핏 | neck_detail : 후드 <|endoftext|>
  name : ❄️시즌오프❄️ Trullem - Beige | season : FW23 | brand : beaker | color : Beige | style : 코트 | material : 울 <|endoftext|>
- name : [Essential] 남녀공용 데님 포켓 셔츠 - 네이비 | season : SS23 | brand : beanpole | color : 네이비 | fit : 레귤러핏 | washing : 워싱 | style : 데님 셔츠 | gender : 남녀공용 | material : 데님 <|endoftext|>
+ name : [Essential] 남녀공용 데님 포켓 셔츠 - 네이비 | season : SS23 | brand : beanpole | color : 네이비 | gender : 남녀공용 | washing : 워싱 | style : 데님 셔츠 | material : 데님 | fit : 레귤러핏 <|endoftext|>
  name : 와플 조직 솔리드 MTM - 애쉬 | season : SS23 | brand : beanpole | color : 애쉬 | pattern/print : 솔리드 <|endoftext|>
- name : Half-Zip Shirt - Black | season : FW22 | brand : beaker | color : Black | neck_detail : 칼라 | material : 울 혼방 | style : 티셔츠 | gender : 여성 <|endoftext|>
- name : 옥스포드 스몰 윈도우 체크 셔츠 - 블루 | season : FW23 | brand : beanpole | color : 블루 | pattern/print : 체크 | style : 셔츠 | material : 코튼 <|endoftext|>
+ name : Half-Zip Shirt - Black | season : FW22 | brand : beaker | color : Black | material : 울 혼방 | neck_detail : 칼라 | gender : 여성 <|endoftext|>
+ name : 옥스포드 스몰 윈도우 체크 셔츠 - 블루 | season : FW23 | brand : beanpole | color : 블루 | material : 코튼 | style : 셔츠 | pattern/print : 체크 <|endoftext|>
  name : 스트링 롱원피스 - 라이트 그레이 | season : FW23 | brand : 8seconds | color : 라이트 그레이 | style : 원피스 | length : 긴 기장 <|endoftext|>
  name : Logo Stud - Silver | season : SS22 | brand : beaker | color : Silver | pattern/print : 로고 <|endoftext|>
- name : Harper Faux Fur Crochet Parka - Ivory | season : SS24 | brand : beaker | color : Ivory | material : 퍼 | style : 퍼 재킷 <|endoftext|>
- name : [Essential] 와이드핏 치노 팬츠 -베이지 | season : FW23 | brand : beanpole | color : 베이지 | fit : 와이드핏 | washing : 워싱 | material : 면, 폴리우레탄 혼방 | style : 팬츠 <|endoftext|>
- name : Leather Trimming Mini Dress - Grey | season : FW23 | brand : kuhoplus | color : Grey | sleeves_length : 민소매 | material : 울 혼방 <|endoftext|>
- name : 배색 래글런 그래픽 스웻셔츠 - 아이보리 | season : SS24 | brand : 8seconds | color : 아이보리 | material : 면 | style : 스웨트셔츠 | pattern/print : 레터링 <|endoftext|>
+ name : Harper Faux Fur Crochet Parka - Ivory | season : SS24 | brand : beaker | color : Ivory | style : 퍼 재킷 | material : 퍼 <|endoftext|>
+ name : [Essential] 와이드핏 치노 팬츠 -베이지 | season : FW23 | brand : beanpole | color : 베이지 | material : 면, 폴리우레탄 혼방 | washing : 워싱 | style : 팬츠 | fit : 와이드핏 <|endoftext|>
+ name : Leather Trimming Mini Dress - Grey | season : FW23 | brand : kuhoplus | color : Grey | sleeves_length : 민소매 | material : 울 혼방 | button_zipper : 스냅 버튼 <|endoftext|>
+ name : 배색 래글런 그래픽 스웻셔츠 - 아이보리 | season : SS24 | brand : 8seconds | color : 아이보리 | material : 면 | style : 스웨트셔츠 | pattern/print : 레터링 | filling : 패딩 <|endoftext|>
  name : ❄️시즌오프❄️ Denim Leg Cover - Sky Blue | season : FW23 | brand : beaker | color : Sky Blue | material : 데님 <|endoftext|>
- name : [Green] [B-Cycle] 그래픽 포인트 라운드 티셔츠 - 블루 | season : SS23 | brand : beanpole | color : 블루 | style : 티셔츠 | material : 코튼 | pattern/print : 레터링 <|endoftext|>
- name : Brushed Sweater - Yellow | season : FW22 | brand : beaker | color : Yellow | material : 데님 | fabric_style : 플레인 조직 | style : 팬츠 | gender : 여성 <|endoftext|>
- name : ❄️시즌오프❄️ Oval Sweat Pants - Brown | season : FW23 | brand : beaker | color : Brown | pattern/print : 로고, 자수 | material : 저지, 코튼 | style : 팬츠 <|endoftext|>
+ name : [Green] [B-Cycle] 그래픽 포인트 라운드 티셔츠 - 블루 | season : SS23 | brand : beanpole | color : 블루 | material : 코튼 | style : 티셔츠 | pattern/print : 레터링 <|endoftext|>
+ name : Brushed Sweater - Yellow | season : FW22 | brand : beaker | color : Yellow | fabric_style : 플레인 조직 | material : 데님 | gender : 여성 <|endoftext|>
+ name : ❄️시즌오프❄️ Oval Sweat Pants - Brown | season : FW23 | brand : beaker | color : Brown | material : 저지, 코튼 | style : 팬츠 | pattern/print : 자수, 로고 <|endoftext|>
  name : [Capsule] 나일론 절개 후드 윈드브레이커 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 윈드브레이커 | neck_detail : 후드 | material : 나일론 <|endoftext|>
- name : Knit Point High-Neck Blouse - Light Pink | season : FW23 | brand : kuho | color : Light Pink | style : 블라우스 | material : 면 | pattern/print : 헤링본 <|endoftext|>
+ name : Knit Point High-Neck Blouse - Light Pink | season : FW23 | brand : kuho | color : Light Pink | material : 면 | style : 블라우스 | neck_detail : 칼라, 하이넥 | pattern/print : 헤링본 <|endoftext|>
  name : ❄️시즌오프❄️ Hand Flower Wool Knit - Black | season : FW23 | brand : beaker | color : Black | material : 울 <|endoftext|>
- name : 라운드넥 베스트 - 그린 | season : FW23 | brand : 8seconds | color : 그린 | neck_detail : 라운드넥 | style : 베스트 <|endoftext|>
- name : Cashmere Knit Hooded Coat - Brown | season : SS24 | brand : kuho | color : Brown | material : 울, 캐시미어 | style : 코트 | neck_detail : 후드 <|endoftext|>
- name : [Green] [B-Cycle] 오픈넥 칼라 티셔츠 - 아이보리 | season : SS23 | brand : beanpole | color : 아이보리 | neck_detail : 칼라 | style : 티셔츠 | material : 코튼 <|endoftext|>
+ name : 라운드넥 베스트 - 그린 | season : FW23 | brand : 8seconds | color : 그린 | neck_detail : 라운드넥 | style : 베스트 | material : 데님 <|endoftext|>
+ name : Cashmere Knit Hooded Coat - Brown | season : SS24 | brand : kuho | color : Brown | style : 코트 | neck_detail : 후드, 브이넥 | material : 울, 캐시미어 <|endoftext|>
+ name : [Green] [B-Cycle] 오픈넥 칼라 티셔츠 - 아이보리 | season : SS23 | brand : beanpole | color : 아이보리 | material : 코튼 | style : 티셔츠 | neck_detail : 칼라 <|endoftext|>
  name : ❄️시즌오프❄️ Narnia - Ash | season : FW23 | brand : beaker | color : Ash | style : 카디건 <|endoftext|>
  name : ❄️시즌오프❄️ Basic Bermuda Pants - Black | season : FW23 | brand : beaker | color : Black | style : 버뮤다팬츠 <|endoftext|>
  name : Women Mod3356 - Light Grey | season : FW23 | brand : beaker | color : Light Grey | material : 캐시미어 <|endoftext|>
- name : 코듀로이 슬림핏 셔츠 - 퍼플 | season : FW23 | brand : beanpole | color : 퍼플 | material : 퍼, 면, 코듀로이 | washing : 워싱 | fit : 슬림핏 | style : 셔츠 <|endoftext|>
+ name : 코듀로이 슬림핏 셔츠 - 퍼플 | season : FW23 | brand : beanpole | color : 퍼플 | washing : 워싱 | material : 면, 퍼, 코듀로이 | fit : 슬림핏 | style : 셔츠 <|endoftext|>
  name : 케이블 데미지 브이넥 풀오버 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | neck_detail : 브이넥 <|endoftext|>
  name : Dydine Tank Dress - Apple | season : SS24 | brand : beaker | color : Apple | material : 리넨 <|endoftext|>
  name : 변형 립 조직 터틀넥 풀오버 - 스카이블루 | season : SS24 | brand : 8seconds | color : 스카이블루 | neck_detail : 터틀넥 <|endoftext|>
- name : 울 H라인 롱 더블 코트 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | style : 코트 | fit : H라인 | material : 울 | length : 긴 기장 <|endoftext|>
- name : ❄️시즌오프❄️ Corduroy Pants - Black | season : FW23 | brand : beaker | color : Black | material : 코듀로이 | style : 팬츠 <|endoftext|>
- name : 코튼 셔링 셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | style : 셔츠 | material : 코튼 | gender : 여성 <|endoftext|>
- name : 코듀로이 부츠컷 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | material : 퍼, 코듀로이 | style : 부츠컷 팬츠 <|endoftext|>
+ name : 울 H라인 롱 더블 코트 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | style : 코트 | material : 울, 데님 | fit : H라인 | length : 긴 기장 <|endoftext|>
+ name : ❄️시즌오프❄️ Corduroy Pants - Black | season : FW23 | brand : beaker | color : Black | style : 팬츠 | material : 코듀로이 <|endoftext|>
+ name : 코튼 셔링 셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | material : 코튼, 데님 | style : 셔츠 | gender : 여성 <|endoftext|>
+ name : 코듀로이 부츠컷 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 부츠컷 팬츠 | material : 퍼, 코듀로이 <|endoftext|>
  name : 밑단 스트링 스웨트 팬츠 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | style : 팬츠 <|endoftext|>
- name : 빈티지 워싱 와이드핏 데님 팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | fit : 와이드핏 | washing : 워싱 | material : 데님 | style : 팬츠 <|endoftext|>
- name : 조직감 카디건 - 애쉬 | season : SS23 | brand : beanpole | color : 애쉬 | style : 카디건 | material : 면 <|endoftext|>
+ name : 빈티지 워싱 와이드핏 데님 팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | washing : 워싱 | style : 데님 팬츠 | material : 데님 | fit : 와이드핏 <|endoftext|>
+ name : 조직감 카디건 - 애쉬 | season : SS23 | brand : beanpole | color : 애쉬 | material : 면 | style : 카디건 <|endoftext|>
  name : ⭐이번주 신상⭐ Logo Ball Earrings - Yellow | season : SS24 | brand : kuho | color : Yellow |  <|endoftext|>
  name : Men Out Of The Blue Hat - Orange | season : FW23 | brand : beaker | color : Orange | filling : 다운 <|endoftext|>
- name : [edit core suit] Wool Blend Silk Detail H-Line Skirt - Black | season : SS24 | brand : kuho | color : Black | style : 스커트 | material : 울, 실크 <|endoftext|>
- name : Ripstop Nylon Jacket - Black | season : FW23 | brand : beaker | color : Black | style : 재킷 | neck_detail : 후드 | washing : 코팅 | material : 나일론 <|endoftext|>
+ name : [edit core suit] Wool Blend Silk Detail H-Line Skirt - Black | season : SS24 | brand : kuho | color : Black | material : 울, 실크 | style : 스커트 <|endoftext|>
+ name : Ripstop Nylon Jacket - Black | season : FW23 | brand : beaker | color : Black | washing : 코팅 | neck_detail : 후드 | material : 나일론 | style : 재킷 <|endoftext|>
  name : 자수 포인트 골지 양말 - 아이보리 | season : FW22 | brand : 8seconds | color : 아이보리 | pattern/print : 자수 <|endoftext|>
- name : 앞 셔링 반소매 티셔츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | sleeves_length : 반소매 | style : 티셔츠 | material : 저지 <|endoftext|>
- name : 코튼 스트라이프 스트링 9부 소매 티셔츠 - 브라운 | season : FW23 | brand : beanpole | color : 브라운 | sleeves_length : 9부 소매 | style : 티셔츠 | material : 면, 코튼 | pattern/print : 스트라이프 | gender : 여성 <|endoftext|>
- name : [아울렛핫딜] V-neck Sweatshirts - Grey | season : FW22 | brand : kuhoplus | color : Grey | style : 스웨트셔츠 | length : 크롭 기장 <|endoftext|>
+ name : 앞 셔링 반소매 티셔츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 탑, 뷔스티에, 반소매 티셔츠 | material : 저지 | sleeves_length : 반소매 <|endoftext|>
+ name : 코튼 스트라이프 스트링 9부 소매 티셔츠 - 브라운 | season : FW23 | brand : beanpole | color : 브라운 | material : 면, 코튼 | style : 티셔츠 | pattern/print : 스트라이프 | gender : 여성 | sleeves_length : 9부 소매 <|endoftext|>
+ name : [아울렛핫딜] V-neck Sweatshirts - Grey | season : FW22 | brand : kuhoplus | color : Grey | length : 크롭 기장 | style : 스웨트셔츠 <|endoftext|>
  name : 2204 The Amore Unlocked Necklace - Light Grey | season : SS23 | brand : beaker | color : Light Grey |  <|endoftext|>
- name : ❄️시즌오프❄️ Vscs Twist Drs - Black | season : FW23 | brand : beaker | color : Black | style : 원피스 | neck_detail : 홀터넥 <|endoftext|>
- name : 심리스 골지 하이넥 니트 - 아이보리 | season : SS24 | brand : beanpole | color : 아이보리 | neck_detail : 하이넥 | material : 울 혼방 | sleeves_length : 긴소매 <|endoftext|>
+ name : ❄️시즌오프❄️ Vscs Twist Drs - Black | season : FW23 | brand : beaker | color : Black | style : 원피스 | neck_detail : 홀터넥 | gender : 여성 <|endoftext|>
+ name : 심리스 골지 하이넥 니트 - 아이보리 | season : SS24 | brand : beanpole | color : 아이보리 | material : 울 혼방 | neck_detail : 하이넥 | sleeves_length : 긴소매 <|endoftext|>
  name : 파일 바닥 스트라이프 스포츠 삭스 - 화이트 | season : SS23 | brand : 8seconds | color : 화이트 | pattern/print : 스트라이프 <|endoftext|>
- name : Skater Jean - Light Grey | season : SS24 | brand : beaker | color : Light Grey | fit : 와이드핏 | material : 데님, 코튼 | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Pants - Ivory | season : FW23 | brand : beaker | color : Ivory | gender : 남성 | material : 면 | style : 팬츠 | pattern/print : 헤링본 <|endoftext|>
+ name : Skater Jean - Light Grey | season : SS24 | brand : beaker | color : Light Grey | material : 코튼, 데님 | style : 데님 팬츠 | fit : 와이드핏 <|endoftext|>
+ name : ❄️시즌오프❄️ Pants - Ivory | season : FW23 | brand : beaker | color : Ivory | gender : 남성 | material : 면 | style : 팬츠 | length : 짧은 기장 | fit : 와이드핏 | pattern/print : 헤링본 <|endoftext|>
  name : Crew Neck Knit-Line Yin&Yang - Beige | season : FW23 | brand : beaker | color : Beige | style : 스웨터 <|endoftext|>
- name : Women Baby Cashmere Knit Turtle - Black | season : FW23 | brand : beaker | color : Black | material : 캐시미어 | neck_detail : 터틀넥 <|endoftext|>
+ name : Women Baby Cashmere Knit Turtle - Black | season : FW23 | brand : beaker | color : Black | neck_detail : 터틀넥 | material : 캐시미어 <|endoftext|>
  name : [EXCLUSIVE] New Ball Pantsdenim - Blue | season : SS24 | brand : beaker | color : Blue | fit : 배기핏 <|endoftext|>
- name : ❄️시즌오프❄️ Giacca Borgo - Brown | season : FW23 | brand : beaker | color : Brown | material : 데님, 코듀로이 | style : 슬랙스 <|endoftext|>
+ name : ❄️시즌오프❄️ Giacca Borgo - Brown | season : FW23 | brand : beaker | color : Brown | material : 데님, 코듀로이 | style : 재킷 <|endoftext|>
  name : Belted Midi Skirt - Beige | season : FW23 | brand : kuhoplus | color : Beige | material : 울 혼방 | gender : 여성 <|endoftext|>
- name : Wool Blend Front Pleats Long Skirt - Black | season : FW23 | brand : kuho | color : Black | material : 레이온, 울 혼방 <|endoftext|>
- name : 네이비 울 하이넥 하프 집업 니트 | season : FW22 | brand : beanpole | neck_detail : 칼라, 하이넥 | style : 스웨터 | material : 울 | pattern/print : 트위드 <|endoftext|>
- name : 모노피케 맨투맨 칼라 티셔츠 - 네이비 | season : SS23 | brand : beanpole | color : 네이비 | neck_detail : 칼라 | style : 티셔츠 <|endoftext|>
- name : 후드 디테처블 패딩 점퍼 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | filling : 패딩 | style : 점퍼 | fabric_style : 플리스 | neck_detail : 후드 <|endoftext|>
- name : 코튼 카고 미니 스커트 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | style : 스커트 | material : 코튼 <|endoftext|>
- name : [Green] [B-Cycle] 워크웨어 사파리 - 그린 | season : SS23 | brand : beanpole | color : 그린 | material : 나일론 | length : 사파리 기장 <|endoftext|>
- name : 중기장 부츠컷 데님 팬츠 - 스카이블루 | season : SS24 | brand : 8seconds | color : 스카이블루 | material : 데님 | style : 팬츠 | length : 긴 기장 <|endoftext|>
- name : 슬럽 투턱 와이드핏 밴딩 팬츠 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | fit : 와이드핏 | style : 밴딩 팬츠 | tuck : 투턱 <|endoftext|>
+ name : Wool Blend Front Pleats Long Skirt - Black | season : FW23 | brand : kuho | color : Black | material : 레이온, 울 혼방 | gender : 여성 <|endoftext|>
+ name : 네이비 울 하이넥 하프 집업 니트 | season : FW22 | brand : beanpole | material : 울 | neck_detail : 칼라, 하이넥 | pattern/print : 트위드 <|endoftext|>
+ name : 모노피케 맨투맨 칼라 티셔츠 - 네이비 | season : SS23 | brand : beanpole | color : 네이비 | style : 티셔츠 | neck_detail : 칼라 <|endoftext|>
+ name : 후드 디테처블 패딩 점퍼 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | fabric_style : 플리스 | neck_detail : 후드 | filling : 패딩 | style : 점퍼 <|endoftext|>
+ name : 코튼 카고 미니 스커트 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | material : 코튼 | style : 스커트 <|endoftext|>
+ name : [Green] [B-Cycle] 워크웨어 사파리 - 그린 | season : SS23 | brand : beanpole | color : 그린 | length : 사파리 기장 | material : 나일론 <|endoftext|>
+ name : 중기장 부츠컷 데님 팬츠 - 스카이블루 | season : SS24 | brand : 8seconds | color : 스카이블루 | style : 데님 팬츠 | material : 데님 | length : 긴 기장 <|endoftext|>
+ name : 슬럽 투턱 와이드핏 밴딩 팬츠 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | style : 밴딩 팬츠 | tuck : 투턱 | fit : 와이드핏 <|endoftext|>
  name : ❄️시즌오프❄️ Wool Watch Cap - Blue | season : FW23 | brand : beaker | color : Blue |  <|endoftext|>
- name : [좋은건하나더] 데일리 베이직 반소매 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | fit : 레귤러핏 | sleeves_length : 반소매 | style : 티셔츠 | material : 코튼 <|endoftext|>
- name : 세로조직 반소매 칼라 니트 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | neck_detail : 칼라 | sleeves_length : 반소매 | material : 리넨 <|endoftext|>
- name : 코듀로이 아우터형 셔츠 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | material : 코듀로이 | style : 아우터형 셔츠 | pattern/print : 체크 <|endoftext|>
+ name : [좋은건하나더] 데일리 베이직 반소매 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | material : 코튼 | style : 반소매 티셔츠 | sleeves_length : 반소매 | fit : 레귤러핏 <|endoftext|>
+ name : 세로조직 반소매 칼라 니트 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | material : 리넨 | neck_detail : 칼라 | sleeves_length : 반소매 <|endoftext|>
+ name : 코듀로이 아우터형 셔츠 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | style : 아우터형 셔츠 | material : 코듀로이 | pattern/print : 체크 <|endoftext|>
  name : 숏 더플 코트 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | style : 더플 코트 | length : 짧은 기장 <|endoftext|>
- name : Le Jane Wide Leg - Black | season : SS24 | brand : beaker | color : Black | fit : 와이드핏 | washing : 워싱 | material : 데님 | style : 팬츠 <|endoftext|>
- name : [Green] 남녀공용 포켓 라운드 티셔츠 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | style : 티셔츠 | material : 폴리 | gender : 남녀공용 <|endoftext|>
- name : Timeless Texture Wool Pants - Mocha | season : FW23 | brand : beaker | color : Mocha | style : 팬츠 <|endoftext|>
- name : Pleats Detail Mini Skirt - Brown | season : FW23 | brand : kuhoplus | color : Brown | style : 스커트 | material : 울 <|endoftext|>
- name : Cotton Silk Flower Print Blouse - Beige | season : FW23 | brand : kuho | color : Beige | material : 퍼 | style : 블라우스 | gender : 여성 <|endoftext|>
- name : Women Cotton Twill Easy Pants - Navy | season : SS23 | brand : beaker | color : Navy | pattern/print : 로고 | material : 데님 | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Easy Shirttail Sweatshirt - Pink | season : FW23 | brand : beaker | color : Pink | fabric_style : 테리 | style : 셔츠 | gender : 여성 <|endoftext|>
- name : Tuck Detail Volume Jacket - Black | season : FW23 | brand : kuho | color : Black | style : 재킷 | material : 면, 나일론 혼방 <|endoftext|>
- name : ❄️시즌오프❄️ Women Washed Heavy Canvas Blouson - Ivory | season : FW23 | brand : beaker | color : Ivory | style : 블루종 | washing : 워싱 <|endoftext|>
+ name : Le Jane Wide Leg - Black | season : SS24 | brand : beaker | color : Black | washing : 워싱 | style : 데님 팬츠 | material : 데님 | fit : 와이드핏 <|endoftext|>
+ name : [Green] 남녀공용 포켓 라운드 티셔츠 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | gender : 남녀공용 | style : 티셔츠 | material : 폴리 <|endoftext|>
+ name : Timeless Texture Wool Pants - Mocha | season : FW23 | brand : beaker | color : Mocha | style : 팬츠 | material : 울 <|endoftext|>
+ name : Pleats Detail Mini Skirt - Brown | season : FW23 | brand : kuhoplus | color : Brown | material : 울 | style : 스커트 <|endoftext|>
+ name : Cotton Silk Flower Print Blouse - Beige | season : FW23 | brand : kuho | color : Beige | style : 블라우스 | material : 퍼, 데님 | gender : 여성 <|endoftext|>
+ name : Women Cotton Twill Easy Pants - Navy | season : SS23 | brand : beaker | color : Navy | style : 데님 팬츠 | material : 데님 | pattern/print : 로고 <|endoftext|>
+ name : ❄️시즌오프❄️ Easy Shirttail Sweatshirt - Pink | season : FW23 | brand : beaker | color : Pink | style : 셔츠 | material : 데님 | fabric_style : 테리 | gender : 여성 <|endoftext|>
+ name : Tuck Detail Volume Jacket - Black | season : FW23 | brand : kuho | color : Black | material : 면, 나일론 혼방 | style : 재킷 <|endoftext|>
+ name : ❄️시즌오프❄️ Women Washed Heavy Canvas Blouson - Ivory | season : FW23 | brand : beaker | color : Ivory | washing : 워싱 | material : 울, 캐시미어 | style : 재킷, 블루종 <|endoftext|>
  name : 발목 셔링 롱 골지 양말 - 블랙 | season : SS23 | brand : 8seconds | color : 블랙 |  <|endoftext|>
  name : ❄️시즌오프❄️ Biena - Black | season : FW23 | brand : beaker | color : Black | style : 블레이저 <|endoftext|>
- name : 폭스 혼방 스트라이프 라운드넥 카디건 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | neck_detail : 라운드넥 | style : 카디건 | pattern/print : 스트라이프 <|endoftext|>
- name : [Green] [B-Cycle] 데님 밴딩 팬츠 - 블루 | season : SS23 | brand : beanpole | color : 블루 | material : 데님 | style : 밴딩 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Hatch Corduroy Cap - Red | season : FW23 | brand : beaker | color : Red | material : 코듀로이 <|endoftext|>
+ name : 폭스 혼방 스트라이프 라운드넥 카디건 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | neck_detail : 라운드넥 | pattern/print : 스트라이프 | style : 카디건 <|endoftext|>
+ name : [Green] [B-Cycle] 데님 밴딩 팬츠 - 블루 | season : SS23 | brand : beanpole | color : 블루 | style : 밴딩 팬츠, 데님 팬츠 | material : 데님 <|endoftext|>
+ name : ❄️시즌오프❄️ Hatch Corduroy Cap - Red | season : FW23 | brand : beaker | color : Red | material : 코듀로이 | pattern/print : 자수, 로고 <|endoftext|>
  name : ❄️시즌오프❄️ Trucker Leather Jacket - Black | season : FW23 | brand : beaker | color : Black | material : 양가죽 | style : 재킷 <|endoftext|>
- name : Full-Open Pintuck Blouse - Black | season : FW23 | brand : kuho | color : Black | style : 블라우스 | material : 레이온, 울 혼방 | gender : 여성 <|endoftext|>
- name : ❄️시즌오프❄️ Convergence Quilted Scarf - Brown | season : FW23 | brand : beaker | color : Brown | filling : 패딩, 다운 | material : 나일론 <|endoftext|>
- name : 무릎 절개 와이드핏 데님 팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | fit : 와이드핏 | material : 데님 | style : 팬츠 <|endoftext|>
+ name : Full-Open Pintuck Blouse - Black | season : FW23 | brand : kuho | color : Black | style : 셔츠 블라우스 | material : 레이온, 울 혼방 | gender : 여성 <|endoftext|>
+ name : ❄️시즌오프❄️ Convergence Quilted Scarf - Brown | season : FW23 | brand : beaker | color : Brown | filling : 다운, 패딩 | material : 나일론 <|endoftext|>
+ name : 무릎 절개 와이드핏 데님 팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | style : 데님 팬츠 | material : 데님 | fit : 와이드핏 <|endoftext|>
  name : ❄️시즌오프❄️ Nwb_Wool Boa Scarf - Ivory | season : FW23 | brand : beaker | color : Ivory | material : 폴리 <|endoftext|>
- name : ❄️시즌오프❄️ Trucker Jacket - Pigment Charcoal | season : FW23 | brand : beaker | color : Pigment Charcoal | style : 재킷 | material : 코튼 <|endoftext|>
+ name : ❄️시즌오프❄️ Trucker Jacket - Pigment Charcoal | season : FW23 | brand : beaker | color : Pigment Charcoal | material : 코튼 <|endoftext|>
  name : Women Soft Single Jacket - Navy | season : FW23 | brand : beaker | color : Navy | washing : 워싱 | style : 재킷 <|endoftext|>
- name : 울 혼방 하프 집업 칼라 니트 원피스 - 네이비 | season : SS24 | brand : beanpole | color : 네이비 | material : 퍼, 울 혼방, 폴리 혼방 | neck_detail : 칼라 | style : 원피스 | gender : 여성 | fit : A라인 <|endoftext|>
+ name : 울 혼방 하프 집업 칼라 니트 원피스 - 네이비 | season : SS24 | brand : beanpole | color : 네이비 | style : 니트 원피스 | material : 퍼, 울 혼방, 폴리 혼방 | fit : A라인 | neck_detail : 칼라 | gender : 여성 <|endoftext|>
  name : 베이직 라운드넥 풀오버 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | neck_detail : 라운드넥 | style : 스웨터 <|endoftext|>
- name : ❄️시즌오프❄️ Cropped Gap Shirt - Sky Blue | season : FW23 | brand : beaker | color : Sky Blue | style : 셔츠 | material : 코튼 <|endoftext|>
- name : Cut-Out Slim Bootscut Pants - Black | season : SS23 | brand : kuhoplus | color : Black | style : 부츠컷 팬츠 | material : 울 <|endoftext|>
- name : 러플 소매 V넥 티셔츠 - 네이비 | season : SS24 | brand : beanpole | color : 네이비 | fit : 레귤러핏 | style : 티셔츠 <|endoftext|>
+ name : ❄️시즌오프❄️ Cropped Gap Shirt - Sky Blue | season : FW23 | brand : beaker | color : Sky Blue | material : 코튼 | style : 셔츠 <|endoftext|>
+ name : Cut-Out Slim Bootscut Pants - Black | season : SS23 | brand : kuhoplus | color : Black | style : 부츠컷 팬츠 | material : 울 | length : 짧은 기장 <|endoftext|>
+ name : 러플 소매 V넥 티셔츠 - 네이비 | season : SS24 | brand : beanpole | color : 네이비 | style : 티셔츠 | fit : 레귤러핏 <|endoftext|>
  name : 💛기간한정+추가할인💛 꼼꼬미 인형 키링 - 베이지 | season : FW23 | brand : beanpole | color : 베이지 |  <|endoftext|>
- name : 포켓 벨트 스커트 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 스커트 <|endoftext|>
- name : 스트링 스퀘어넥 반소매 티셔츠 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | sleeves_length : 반소매 | style : 티셔츠 | neck_detail : 스퀘어넥 | material : 저지 | gender : 여성 <|endoftext|>
- name : 캐시혼방 컬러포인트 머플러 장갑 SET - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | pattern/print : 자수 | material : 울, 캐시미어 혼방 <|endoftext|>
- name : Bell Pants - Beige | season : SS24 | brand : beaker | color : Beige | material : 면, 데님 | style : 팬츠 <|endoftext|>
- name : 라운드넥 크롭 케이블 풀오버 - 라이트핑크 | season : FW23 | brand : 8seconds | color : 라이트핑크 | neck_detail : 라운드넥 | length : 짧은 기장 | style : 셔츠 <|endoftext|>
+ name : 포켓 벨트 스커트 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | length : 미디 기장 | style : 스커트 <|endoftext|>
+ name : 스트링 스퀘어넥 반소매 티셔츠 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | material : 저지 | style : 반소매 티셔츠 | sleeves_length : 반소매 | gender : 여성 | neck_detail : 스퀘어넥 <|endoftext|>
+ name : 캐시혼방 컬러포인트 머플러 장갑 SET - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | material : 울, 캐시미어 혼방 | pattern/print : 자수 <|endoftext|>
+ name : Bell Pants - Beige | season : SS24 | brand : beaker | color : Beige | material : 면, 데님 | style : 데님 팬츠 | neck_detail : 후드 <|endoftext|>
+ name : 라운드넥 크롭 케이블 풀오버 - 라이트핑크 | season : FW23 | brand : 8seconds | color : 라이트핑크 | neck_detail : 라운드넥 | length : 짧은 기장 <|endoftext|>
  name : 파일 바닥 솔리드 스포츠 삭스 - 화이트 | season : SS23 | brand : 8seconds | color : 화이트 | pattern/print : 솔리드 <|endoftext|>
- name : 코튼 립스탑 카고 팬츠 - 카키 | season : FW23 | brand : 8seconds | color : 카키 | material : 면, 코튼 | style : 팬츠 <|endoftext|>
- name : 코튼 데님 라이크 와이드 팬츠 - 카키 | season : FW23 | brand : 8seconds | color : 카키 | fit : 와이드핏 | style : 캐주얼 팬츠 | material : 데님, 코튼 <|endoftext|>
- name : [좋은건하나더] 베이직 브이넥 반소매 티셔츠 - 화이트 | season : SS24 | brand : 8seconds | color : 화이트 | neck_detail : 브이넥, 라운드넥 | sleeves_length : 반소매 | style : 티셔츠 | material : 면 <|endoftext|>
+ name : 코튼 립스탑 카고 팬츠 - 카키 | season : FW23 | brand : 8seconds | color : 카키 | material : 면, 코튼 | style : 팬츠 | fit : 오버핏 <|endoftext|>
+ name : 코튼 데님 라이크 와이드 팬츠 - 카키 | season : FW23 | brand : 8seconds | color : 카키 | style : 캐주얼 팬츠 | material : 코튼, 데님 | fit : 와이드핏 <|endoftext|>
+ name : [좋은건하나더] 베이직 브이넥 반소매 티셔츠 - 화이트 | season : SS24 | brand : 8seconds | color : 화이트 | neck_detail : 브이넥, 라운드넥 | material : 면, 데님 | style : 반소매 티셔츠 | sleeves_length : 반소매 <|endoftext|>
  name : ❄️시즌오프❄️ Knit Big Watch Cap - Olive | season : FW23 | brand : beaker | color : Olive |  <|endoftext|>
- name : Evie Multi Striped Crochet Knit Top - Blue Multi | season : SS24 | brand : beaker | color : Blue Multi | style : 카디건 | neck_detail : 칼라 <|endoftext|>
+ name : Evie Multi Striped Crochet Knit Top - Blue Multi | season : SS24 | brand : beaker | color : Blue Multi | neck_detail : 칼라 | style : 카디건 <|endoftext|>
  name : 라글란 두줄 스트라이프 배색 풀오버 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | pattern/print : 스트라이프 <|endoftext|>
  name : The Bridge Dress - Black | season : FW23 | brand : beaker | color : Black | neck_detail : 브이넥 | style : 원피스 | gender : 여성 <|endoftext|>
- name : ❄️시즌오프❄️ Puffed Simple Jacket - Mint | season : FW23 | brand : beaker | color : Mint | style : 재킷 | material : 나일론 <|endoftext|>
- name : 이중지 스트레이트 슬랙스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | fit : 스트레이트핏 | style : 슬랙스 <|endoftext|>
+ name : ❄️시즌오프❄️ Puffed Simple Jacket - Mint | season : FW23 | brand : beaker | color : Mint | material : 나일론 | style : 재킷 <|endoftext|>
+ name : 이중지 스트레이트 슬랙스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 팬츠, 슬랙스 | fit : 스트레이트핏 <|endoftext|>
  name : Essential Leather Belt - Black | season : SS24 | brand : kuhoplus | color : Black | material : 소가죽 | pattern/print : 로고 <|endoftext|>
  name : 코듀로이 레터링 자수 볼캡 - 그린 | season : FW23 | brand : 8seconds | color : 그린 | material : 코듀로이 | pattern/print : 자수, 레터링 <|endoftext|>
- name : 클래식 스트라이프 슬림핏 셔츠 - 블루 | season : SS23 | brand : beanpole | color : 블루 | fit : 슬림핏 | style : 셔츠 | pattern/print : 스트라이프 | material : 코튼 <|endoftext|>
- name : 피그먼트 카고 데님 팬츠 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | washing : 워싱 | material : 데님 | style : 팬츠 <|endoftext|>
+ name : 클래식 스트라이프 슬림핏 셔츠 - 블루 | season : SS23 | brand : beanpole | color : 블루 | material : 코튼 | fit : 슬림핏 | style : 셔츠 | pattern/print : 스트라이프 <|endoftext|>
+ name : 피그먼트 카고 데님 팬츠 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | washing : 워싱 | style : 데님 팬츠 | material : 데님 <|endoftext|>
  name : 부클 넘버링 자수 라운드넥 니트 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | neck_detail : 라운드넥 | pattern/print : 자수 <|endoftext|>
- name : [3PCS] 솔리드 롱롱 양말 - 블랙 | season : SS23 | brand : 8seconds | color : 블랙 | pattern/print : 솔리드 | fabric_style : 플레인 조직 <|endoftext|>
- name : 카키 더블 피코트 다운 점퍼 | season : FW22 | brand : beanpole | filling : 다운 | style : 다운 점퍼 | material : 폴리 <|endoftext|>
+ name : [3PCS] 솔리드 롱롱 양말 - 블랙 | season : SS23 | brand : 8seconds | color : 블랙 | fabric_style : 플레인 조직 | pattern/print : 솔리드 <|endoftext|>
+ name : 카키 더블 피코트 다운 점퍼 | season : FW22 | brand : beanpole | style : 다운 점퍼 | material : 폴리 | neck_detail : 칼라 | filling : 다운 <|endoftext|>
  name : 리브드 홀가먼트 터틀넥 풀오버 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | neck_detail : 터틀넥 <|endoftext|>
  name : Daisy Mini Dress - Ivory | season : FW23 | brand : beaker | color : Ivory | pattern/print : 자수 <|endoftext|>
- name : 나일론 세일러 칼라 반소매 셔츠 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | neck_detail : 칼라 | sleeves_length : 반소매 | style : 셔츠 | gender : 여성 | material : 나일론 <|endoftext|>
- name : 시어서커 스트라이프 반소매 셔츠 - 네이비 | season : SS23 | brand : beanpole | color : 네이비 | fit : 레귤러핏 | sleeves_length : 반소매 | fabric_style : 시어서커 | style : 셔츠 | pattern/print : 스트라이프 | material : 코튼 <|endoftext|>
+ name : 나일론 세일러 칼라 반소매 셔츠 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | style : 셔츠 | neck_detail : 칼라 | sleeves_length : 반소매 | gender : 여성 | material : 나일론 <|endoftext|>
+ name : 시어서커 스트라이프 반소매 셔츠 - 네이비 | season : SS23 | brand : beanpole | color : 네이비 | material : 코튼 | style : 셔츠 | pattern/print : 스트라이프 | sleeves_length : 반소매 | fabric_style : 시어서커 | fit : 레귤러핏 <|endoftext|>
  name : 브이넥 버튼 재킷 - 애쉬 | season : SS24 | brand : 8seconds | color : 애쉬 | neck_detail : 브이넥 | style : 재킷 <|endoftext|>
- name : 브이넥 카디건 셋업 - 아이보리 | season : SS24 | brand : 8seconds | color : 아이보리 | sleeves_length : 민소매 | style : 카디건 | neck_detail : 브이넥 <|endoftext|>
+ name : 브이넥 카디건 셋업 - 아이보리 | season : SS24 | brand : 8seconds | color : 아이보리 | sleeves_length : 민소매 | fit : 슬림핏 | neck_detail : 브이넥 | length : 크롭 기장 | style : 카디건 <|endoftext|>
  name : Nerdbear Unisex Comfort Fit Graphic Sweatshirt -Navy | season : Seasonless | brand : beaker | color : Navy | style : 스웨트셔츠 <|endoftext|>
- name : Kaya Roll-Neck Knit - Mint | season : FW23 | brand : beaker | color : Mint | pattern/print : 로고, 자수 | material : 울 혼방 <|endoftext|>
- name : 사이드 커브드 배기핏 데님 팬츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | material : 데님 | style : 팬츠 | fit : 배기핏 | tuck : 투턱 <|endoftext|>
- name : 카키 이중넥 울 블루종 | season : FW22 | brand : beanpole | style : 블루종 | material : 울 <|endoftext|>
- name : 코튼 코듀로이 릴렉스핏 셔츠 - 핑크 | season : SS24 | brand : 8seconds | color : 핑크 | material : 면, 코튼, 코듀로이 | style : 티셔츠 | neck_detail : 터틀넥 <|endoftext|>
- name : [B-Cycle] 그래픽 포켓 라운드 티셔츠 - 블루 | season : SS23 | brand : beanpole | color : 블루 | neck_detail : 라운드넥 | pattern/print : 자수 | sleeves_length : 반소매 | style : 티셔츠 | material : 폴리, 저지 <|endoftext|>
+ name : Kaya Roll-Neck Knit - Mint | season : FW23 | brand : beaker | color : Mint | material : 울 혼방 | pattern/print : 자수, 로고 <|endoftext|>
+ name : 사이드 커브드 배기핏 데님 팬츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | tuck : 투턱 | style : 데님 팬츠 | material : 데님 | fit : 배기핏 <|endoftext|>
+ name : 카키 이중넥 울 블루종 | season : FW22 | brand : beanpole | material : 울 | style : 블루종 <|endoftext|>
+ name : 코튼 코듀로이 릴렉스핏 셔츠 - 핑크 | season : SS24 | brand : 8seconds | color : 핑크 | neck_detail : 터틀넥 | material : 면, 코튼, 코듀로이 | style : 셔츠 <|endoftext|>
+ name : [B-Cycle] 그래픽 포켓 라운드 티셔츠 - 블루 | season : SS23 | brand : beanpole | color : 블루 | neck_detail : 라운드넥 | material : 저지, 폴리 | style : 반소매 티셔츠 | pattern/print : 자수 | sleeves_length : 반소매 <|endoftext|>
  name : 💛기간한정+추가할인💛 댕포리 홀리데이 에디션 인형 키링 - 레드 | season : FW23 | brand : beanpole | color : 레드 |  <|endoftext|>
  name : 투톤 원사 라운드넥 니트 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | neck_detail : 라운드넥 <|endoftext|>
- name : ❄️시즌오프❄️ Top - Khaki | season : FW23 | brand : beaker | color : Khaki | neck_detail : 하이넥 | style : 티셔츠 | material : 면, 저지 <|endoftext|>
- name : 🖤셀럽착용🖤 Signature Color Block Knit Pullover - Lemon | season : SS22 | brand : kuhoplus | color : Lemon | neck_detail : 칼라 | material : 코튼 <|endoftext|>
- name : Signature Faux Leather Jacket - Black | season : FW22 | brand : kuhoplus | color : Black | pattern/print : 자수 | style : 재킷 | fit : 오버핏 | length : 크롭 기장 <|endoftext|>
- name : [Essential] 옥스퍼드 솔리드 레귤러핏 셔츠 - 화이트 | season : SS24 | brand : beanpole | color : 화이트 | fit : 레귤러핏 | pattern/print : 솔리드 | material : 면 | style : 셔츠 <|endoftext|>
- name : 웜업 슬림핏 슬랙스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 슬랙스 | fit : 슬림핏 <|endoftext|>
+ name : ❄️시즌오프❄️ Top - Khaki | season : FW23 | brand : beaker | color : Khaki | material : 면, 저지 | style : 티셔츠 | neck_detail : 하이넥 <|endoftext|>
+ name : 🖤셀럽착용🖤 Signature Color Block Knit Pullover - Lemon | season : SS22 | brand : kuhoplus | color : Lemon | material : 코튼 | neck_detail : 칼라 | gender : 여성 <|endoftext|>
+ name : Signature Faux Leather Jacket - Black | season : FW22 | brand : kuhoplus | color : Black | length : 크롭 기장 | pattern/print : 자수 | fit : 오버핏 | style : 재킷 <|endoftext|>
+ name : [Essential] 옥스퍼드 솔리드 레귤러핏 셔츠 - 화이트 | season : SS24 | brand : beanpole | color : 화이트 | washing : 워싱 | pattern/print : 자수, 솔리드 | material : 면, 데님 | style : 셔츠 | fit : 레귤러핏 <|endoftext|>
+ name : 웜업 슬림핏 슬랙스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | fit : 슬림핏 | style : 슬랙스 <|endoftext|>
  name : 코튼 셔링 블라우스 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | material : 퍼, 코튼 | style : 블라우스 | gender : 여성 <|endoftext|>
- name : A라인 페이크 레더 스커트 - 브라운 | season : FW23 | brand : beanpole | color : 브라운 | style : 스커트 | length : 미디 기장 | fit : A라인 <|endoftext|>
- name : Lacoste x le FLEUR Sweater Polo - Pink | season : FW23 | brand : beaker | color : Pink | pattern/print : 로고, 자수 | style : 스웨터 | material : 울 <|endoftext|>
- name : ★제니 착용★ Checked Short Sleeve Shirt - Blue | season : FW23 | brand : beaker | color : Blue | pattern/print : 자수, 체크 | style : 셔츠 | material : 울 <|endoftext|>
- name : ❄️시즌오프❄️ Relaxed Polocollar Shirt - Grey | season : FW23 | brand : beaker | color : Grey | material : 코듀로이 | style : 셔츠 <|endoftext|>
- name : ❄️시즌오프❄️ Cherub Initial Sweater - Black | season : FW23 | brand : beaker | color : Black | style : 셔츠 <|endoftext|>
+ name : A라인 페이크 레더 스커트 - 브라운 | season : FW23 | brand : beanpole | color : 브라운 | length : 미디 기장 | fit : A라인 | style : 스커트 <|endoftext|>
+ name : Lacoste x le FLEUR Sweater Polo - Pink | season : FW23 | brand : beaker | color : Pink | material : 울, 데님 | style : 셔츠 | pattern/print : 자수, 로고 <|endoftext|>
+ name : ★제니 착용★ Checked Short Sleeve Shirt - Blue | season : FW23 | brand : beaker | color : Blue | material : 울 | style : 셔츠 | pattern/print : 자수, 체크 | length : 짧은 기장 <|endoftext|>
+ name : ❄️시즌오프❄️ Relaxed Polocollar Shirt - Grey | season : FW23 | brand : beaker | color : Grey | washing : 워싱 | material : 코듀로이 | style : 셔츠 <|endoftext|>
+ name : ❄️시즌오프❄️ Cherub Initial Sweater - Black | season : FW23 | brand : beaker | color : Black | style : 셔츠 | length : 짧은 기장 | fit : 와이드핏 <|endoftext|>
  name : Raphia Bonnet Hat - Beige | season : SS22 | brand : kuhoplus | color : Beige |  <|endoftext|>
- name : ❄️시즌오프❄️ Helio Goose Down Jacket - Navy | season : FW23 | brand : beaker | color : Navy | filling : 다운, 구스 | style : 재킷 <|endoftext|>
- name : 보더 스트라이프 반집업 스웨트셔츠 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | pattern/print : 자수, 스트라이프 | style : 캐주얼 팬츠 | material : 데님 <|endoftext|>
+ name : ❄️시즌오프❄️ Helio Goose Down Jacket - Navy | season : FW23 | brand : beaker | color : Navy | filling : 구스, 다운 | style : 재킷 <|endoftext|>
+ name : 보더 스트라이프 반집업 스웨트셔츠 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | pattern/print : 자수, 스트라이프 | material : 데님 | style : 스웨트셔츠 <|endoftext|>
  name : Napping Jersey Banding Wide Pants - Ash | season : FW23 | brand : kuho | color : Ash | material : 저지 | style : 팬츠 <|endoftext|>
- name : 폴리 트윌 테이퍼드 핏 셋업 슬랙스 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | style : 슬랙스 | material : 폴리 <|endoftext|>
- name : ❄️시즌오프❄️ Og Logo Sport Cap - Wine | season : FW23 | brand : beaker | color : Wine | pattern/print : 로고, 자수 | material : 폴리 <|endoftext|>
- name : [Green] 베이직 반소매 티셔츠 - 화이트 | season : SS24 | brand : beanpole | color : 화이트 | sleeves_length : 반소매 | style : 티셔츠 | material : 면 | fit : H라인 <|endoftext|>
- name : Lacoste x le FLEUR Jacquard Twill Jacket - Brown | season : FW23 | brand : beaker | color : Brown | fabric_style : 자카드 | pattern/print : 로고, 체크 | material : 레이온 혼방 | style : 재킷 <|endoftext|>
- name : 코튼 레이온 슬림셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | neck_detail : 칼라 | material : 코튼, 레이온 혼방 | style : 셔츠 <|endoftext|>
- name : Terry Lace Trimming T-Shirts - Light Green | season : SS24 | brand : kuhoplus | color : Light Green | pattern/print : 자수 | style : 티셔츠 | fabric_style : 테리 <|endoftext|>
+ name : 폴리 트윌 테이퍼드 핏 셋업 슬랙스 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | material : 폴리 | style : 슬랙스 <|endoftext|>
+ name : ❄️시즌오프❄️ Og Logo Sport Cap - Wine | season : FW23 | brand : beaker | color : Wine | pattern/print : 자수, 로고 | material : 폴리 <|endoftext|>
+ name : [Green] 베이직 반소매 티셔츠 - 화이트 | season : SS24 | brand : beanpole | color : 화이트 | material : 면 | style : 반소매 티셔츠 | fit : H라인 | pattern/print : 자수 | sleeves_length : 반소매 <|endoftext|>
+ name : Lacoste x le FLEUR Jacquard Twill Jacket - Brown | season : FW23 | brand : beaker | color : Brown | fabric_style : 자카드 | material : 레이온 혼방 | pattern/print : 로고, 체크 | style : 재킷 <|endoftext|>
+ name : 코튼 레이온 슬림셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | material : 코튼, 레이온 혼방 | style : 셔츠 | neck_detail : 칼라 <|endoftext|>
+ name : Terry Lace Trimming T-Shirts - Light Green | season : SS24 | brand : kuhoplus | color : Light Green | style : 티셔츠 | pattern/print : 자수 | length : 짧은 기장 | fabric_style : 테리 | fit : 레귤러핏 <|endoftext|>
  name : 페이크레더 미니 스커트 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 스커트 <|endoftext|>
- name : 플리츠 미니 스커트 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 스커트 | length : 짧은 기장 <|endoftext|>
+ name : 플리츠 미니 스커트 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | length : 짧은 기장 | style : 스커트 <|endoftext|>
  name : 케이블 라운드넥 반소매 풀오버 - 그린 | season : FW23 | brand : 8seconds | color : 그린 | neck_detail : 라운드넥 | sleeves_length : 반소매 <|endoftext|>
- name : 헤어리 슬리브리스 풀오버 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | sleeves_length : 민소매 | style : 재킷 <|endoftext|>
- name : Poly Blend High Neck Zip-Up Shirt - Beige | season : SS24 | brand : kuho | color : Beige | neck_detail : 하이넥 | style : 셔츠 <|endoftext|>
- name : 코튼 티어드 원피스 - 스카이블루 | season : FW23 | brand : 8seconds | color : 스카이블루 | style : 원피스 | material : 면, 코튼 | gender : 여성 <|endoftext|>
+ name : 헤어리 슬리브리스 풀오버 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | sleeves_length : 민소매 <|endoftext|>
+ name : Poly Blend High Neck Zip-Up Shirt - Beige | season : SS24 | brand : kuho | color : Beige | style : 셔츠 | neck_detail : 하이넥 <|endoftext|>
+ name : 코튼 티어드 원피스 - 스카이블루 | season : FW23 | brand : 8seconds | color : 스카이블루 | material : 면, 코튼 | style : 티어드 원피스 | gender : 여성 <|endoftext|>
  name : H.D. Pant - Black | season : FW23 | brand : beaker | color : Black | material : 코튼 | style : 팬츠 <|endoftext|>
- name : 90S Easy Tee Love Mysteries - White | season : SS24 | brand : beaker | color : White | style : 티셔츠 | material : 면 <|endoftext|>
- name : Semi Overfit Volume Trench Coat - Brown | season : FW23 | brand : kuho | color : Brown | material : 울, 폴리, 면 혼방 | pattern/print : 체크 | gender : 여성 <|endoftext|>
- name : Lapelless Shirt Jacket - Black | season : SS24 | brand : beaker | color : Black | style : 재킷 | pattern/print : 헤링본 <|endoftext|>
- name : ❄️시즌오프❄️ Women Wool Balmacaan Coat - Brown | season : FW23 | brand : beaker | color : Brown | style : 코트 | material : 울 <|endoftext|>
- name : Nerdbear Light Pants - Navy | season : Seasonless | brand : beaker | color : Navy | pattern/print : 자수 | style : 셔츠 <|endoftext|>
- name : 스티치 포인트 와이드 데님 팬츠 - 블랙 | season : SS24 | brand : beanpole | color : 블랙 | fit : 와이드핏 | material : 데님 | style : 팬츠 <|endoftext|>
- name : 셔츠 칼라 루즈핏 스웨트 셔츠 - 아이보리 | season : SS24 | brand : beanpole | color : 아이보리 | neck_detail : 칼라 | style : 셔츠 <|endoftext|>
- name : [edit] Button-Up Collar-Neck Knit Cardigan - Black | season : FW23 | brand : kuho | color : Black | style : 카디건 | neck_detail : 칼라 | material : 울, 실크 <|endoftext|>
- name : Knit Block Long Down Coat - Brown | season : FW23 | brand : kuho | color : Brown | material : 퍼 | neck_detail : 칼라 | style : 코트 | fit : 오버핏, A라인 <|endoftext|>
- name : Single Breasted Wool Jacket - Navy | season : SS23 | brand : kuhoplus | color : Navy | style : 재킷 | button_zipper : 싱글 버튼 | material : 울 | length : 크롭 기장 | pattern/print : 트위드 <|endoftext|>
- name : Wool Blouson Jacket - Black | season : SS24 | brand : kuhoplus | color : Black | style : 블루종 | pattern/print : 스트라이프 | material : 울 <|endoftext|>
- name : Cashmere Whole Garment Basic Pullover - Ash | season : FW23 | brand : kuho | color : Ash |  <|endoftext|>
+ name : 90S Easy Tee Love Mysteries - White | season : SS24 | brand : beaker | color : White | material : 면 | style : 티셔츠 <|endoftext|>
+ name : Semi Overfit Volume Trench Coat - Brown | season : FW23 | brand : kuho | color : Brown | material : 울, 폴리, 면 혼방 | gender : 여성 | pattern/print : 체크 <|endoftext|>
+ name : Lapelless Shirt Jacket - Black | season : SS24 | brand : beaker | color : Black | pattern/print : 헤링본 | style : 재킷 <|endoftext|>
+ name : ❄️시즌오프❄️ Women Wool Balmacaan Coat - Brown | season : FW23 | brand : beaker | color : Brown | style : 발마칸 코트 | material : 울 <|endoftext|>
+ name : Nerdbear Light Pants - Navy | season : Seasonless | brand : beaker | color : Navy | pattern/print : 자수 <|endoftext|>
+ name : 스티치 포인트 와이드 데님 팬츠 - 블랙 | season : SS24 | brand : beanpole | color : 블랙 | style : 데님 팬츠 | material : 데님 | fit : 와이드핏 <|endoftext|>
+ name : 셔츠 칼라 루즈핏 스웨트 셔츠 - 아이보리 | season : SS24 | brand : beanpole | color : 아이보리 | style : 셔츠 | pattern/print : 자수 | neck_detail : 칼라 <|endoftext|>
+ name : [edit] Button-Up Collar-Neck Knit Cardigan - Black | season : FW23 | brand : kuho | color : Black | material : 울, 실크 | neck_detail : 칼라 | style : 카디건 <|endoftext|>
+ name : Knit Block Long Down Coat - Brown | season : FW23 | brand : kuho | color : Brown | style : 코트 | fit : A라인, 오버핏 | neck_detail : 칼라 | material : 퍼 <|endoftext|>
+ name : Single Breasted Wool Jacket - Navy | season : SS23 | brand : kuhoplus | color : Navy | material : 울, 데님 | length : 크롭 기장 | pattern/print : 트위드 | button_zipper : 싱글 버튼 | style : 재킷 <|endoftext|>
+ name : Wool Blouson Jacket - Black | season : SS24 | brand : kuhoplus | color : Black | material : 울 | pattern/print : 스트라이프 | style : 블루종 <|endoftext|>
+ name : Cashmere Whole Garment Basic Pullover - Ash | season : FW23 | brand : kuho | color : Ash | gender : 여성 <|endoftext|>
  name : 코튼 레터링 풀오버 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | material : 면, 코튼 | pattern/print : 레터링 <|endoftext|>
- name : ❄️시즌오프❄️ Balmacaan Coat - Taupe | season : FW23 | brand : beaker | color : Taupe | pattern/print : 로고 | neck_detail : 칼라, 하이넥 | material : 울, 모헤어 | style : 코트 | fit : H라인 <|endoftext|>
+ name : ❄️시즌오프❄️ Balmacaan Coat - Taupe | season : FW23 | brand : beaker | color : Taupe | style : 코트 | material : 울, 모헤어 | fit : H라인 | neck_detail : 칼라, 하이넥 | pattern/print : 로고 <|endoftext|>
  name : 헤어리 라운드넥 풀오버 - 라이트핑크 | season : SS24 | brand : 8seconds | color : 라이트핑크 | neck_detail : 라운드넥 <|endoftext|>
  name : 나일론 밑단 스트링 롱스커트 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | gender : 여성 | material : 나일론 <|endoftext|>
- name : Wool Blend V-Neck Sleeveless Dress - Navy | season : FW23 | brand : kuho | color : Navy | neck_detail : 브이넥 | style : 원피스 | pattern/print : 자수 | fit : H라인 <|endoftext|>
- name : The Varsity Cardigan - Green | season : SS24 | brand : beaker | color : Green | style : 카디건 | neck_detail : 브이넥 | material : 캐시미어 | fit : 오버핏 <|endoftext|>
- name : 베이지 컬러 블록 풀 집업 카디건 | season : FW22 | brand : beanpole | style : 카디건 <|endoftext|>
- name : Loose Fit Half-Down Outer - Navy | season : FW23 | brand : kuho | color : Navy | material : 벨벳 | filling : 구스 <|endoftext|>
- name : 칼라넥 카디건 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | style : 카디건 | neck_detail : 칼라 <|endoftext|>
- name : ❄️시즌오프❄️ Crossover Jean - Blue | season : FW23 | brand : beaker | color : Blue | style : 베스트 | material : 데님 <|endoftext|>
+ name : Wool Blend V-Neck Sleeveless Dress - Navy | season : FW23 | brand : kuho | color : Navy | neck_detail : 브이넥 | style : 원피스 | fit : H라인 | pattern/print : 자수 <|endoftext|>
+ name : The Varsity Cardigan - Green | season : SS24 | brand : beaker | color : Green | neck_detail : 브이넥 | material : 캐시미어 | fit : 오버핏 | style : 카디건 <|endoftext|>
+ name : 베이지 컬러 블록 풀 집업 카디건 | season : FW22 | brand : beanpole | style : 집업 카디건 <|endoftext|>
+ name : Loose Fit Half-Down Outer - Navy | season : FW23 | brand : kuho | color : Navy | filling : 구스 | length : 크롭 기장 | material : 벨벳 <|endoftext|>
+ name : 칼라넥 카디건 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | neck_detail : 칼라 | style : 카디건 <|endoftext|>
+ name : ❄️시즌오프❄️ Crossover Jean - Blue | season : FW23 | brand : beaker | color : Blue | style : 베스트 | pattern/print : 자수 | material : 데님 <|endoftext|>
  name : ❄️시즌오프❄️ Worker Shirts - Black | season : FW23 | brand : beaker | color : Black | material : 면 | style : 셔츠 <|endoftext|>
- name : Wool Jersey Knit Patch High-Neck T-Shirt - Light Grey | season : FW23 | brand : kuho | color : Light Grey | neck_detail : 하이넥 | material : 울 혼방 | style : 티셔츠 <|endoftext|>
+ name : Wool Jersey Knit Patch High-Neck T-Shirt - Light Grey | season : FW23 | brand : kuho | color : Light Grey | material : 울 혼방 | style : 티셔츠 | neck_detail : 하이넥 <|endoftext|>
  name : ❄️시즌오프❄️ Bra Skirt - Ash | season : FW23 | brand : beaker | color : Ash | material : 울 혼방 | style : 스커트 | length : 긴 기장 <|endoftext|>
- name : 니트라이크 솔리드 칼라 티셔츠 - 베이지 | season : FW23 | brand : beanpole | color : 베이지 | neck_detail : 칼라 | pattern/print : 솔리드 | style : 티셔츠 <|endoftext|>
+ name : 니트라이크 솔리드 칼라 티셔츠 - 베이지 | season : FW23 | brand : beanpole | color : 베이지 | pattern/print : 솔리드 | style : 티셔츠 | neck_detail : 칼라 <|endoftext|>
  name : Super Fine Funnel - Light Grey | season : SS24 | brand : beaker | color : Light Grey | gauge : 하이 게이지 | gender : 여성 <|endoftext|>
- name : 페이크레더 집업 패딩 재킷 - 애쉬 | season : SS24 | brand : 8seconds | color : 애쉬 | filling : 패딩 | material : 가죽 | style : 패딩 재킷 <|endoftext|>
- name : 18mm O형 고리 벨트 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 원피스 <|endoftext|>
- name : The Cropped Veteran Jacket - Blue | season : SS24 | brand : beaker | color : Blue | material : 데님, 폴리우레탄 혼방 | style : 재킷 | pattern/print : 스트라이프 <|endoftext|>
+ name : 페이크레더 집업 패딩 재킷 - 애쉬 | season : SS24 | brand : 8seconds | color : 애쉬 | material : 가죽 | length : 크롭 기장 | style : 점퍼, 패딩 재킷 | fit : 오버핏 | filling : 패딩 <|endoftext|>
+ name : 18mm O형 고리 벨트 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 |  <|endoftext|>
+ name : The Cropped Veteran Jacket - Blue | season : SS24 | brand : beaker | color : Blue | material : 데님, 폴리우레탄 혼방 | pattern/print : 스트라이프 | style : 데님 재킷 <|endoftext|>
  name : 케이블 투버튼 후드 풀오버 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | neck_detail : 후드 <|endoftext|>
  name : ❄️시즌오프❄️ Ny Racquet Club Crewneck - Ivory | season : FW23 | brand : beaker | color : Ivory | style : 셔츠 <|endoftext|>
  name : Gunte - Khaki | season : FW23 | brand : beaker | color : Khaki | material : 울 <|endoftext|>
  name : 코튼 스트레이트 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | material : 코튼 | style : 팬츠 <|endoftext|>
- name : 니트라이크 카라 럭비티 - 애쉬 | season : SS24 | brand : 8seconds | color : 애쉬 |  <|endoftext|>
+ name : 니트라이크 카라 럭비티 - 애쉬 | season : SS24 | brand : 8seconds | color : 애쉬 | neck_detail : 칼라 <|endoftext|>
  name : 밴딩 스웨트 숏팬츠 - 라이트 그레이 | season : FW23 | brand : 8seconds | color : 라이트 그레이 | style : 팬츠 <|endoftext|>
- name : 턱디테일 반소매 셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | sleeves_length : 반소매 | style : 셔츠 <|endoftext|>
- name : 니트라이크 경량 패딩점퍼 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | filling : 패딩 | style : 경량 패딩 | material : 나일론 <|endoftext|>
+ name : 턱디테일 반소매 셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | style : 셔츠 | sleeves_length : 반소매 <|endoftext|>
+ name : 니트라이크 경량 패딩점퍼 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | style : 점퍼, 경량 패딩 | material : 나일론 | filling : 패딩 <|endoftext|>
  name : ❄️시즌오프❄️ Cuff Rib Glove - Black | season : FW23 | brand : beaker | color : Black | material : 캐시미어 <|endoftext|>
  name : 조직변형 헨리넥 긴팔 티셔츠 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | style : 티셔츠 | neck_detail : 헨리넥 <|endoftext|>
- name : 스카시 볼륨 소매 반소매 풀오버 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | sleeves_length : 반소매 <|endoftext|>
- name : ❄️시즌오프❄️ Toile De Jouy Print Tight High Neck Top - White | season : FW23 | brand : beaker | color : White | style : 탑 <|endoftext|>
- name : 바시티 그래픽 스웨트셔츠 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | style : 셔츠 | material : 코튼 <|endoftext|>
- name : 울 H라인 스커트 - 오트밀 | season : FW23 | brand : beanpole | color : 오트밀 | style : 스커트 | fit : H라인 | material : 울 <|endoftext|>
- name : [Essential] Unisex 핑크 울 베럴 B 카디건 | season : FW22 | brand : beanpole | style : 카디건 | material : 울, 캐시미어 <|endoftext|>
+ name : 스카시 볼륨 소매 반소매 풀오버 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | sleeves_length : 반소매 | gender : 여성 <|endoftext|>
+ name : ❄️시즌오프❄️ Toile De Jouy Print Tight High Neck Top - White | season : FW23 | brand : beaker | color : White | style : 탑 | material : 데님 <|endoftext|>
+ name : 바시티 그래픽 스웨트셔츠 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | material : 코튼, 데님 | style : 스웨트셔츠 <|endoftext|>
+ name : 울 H라인 스커트 - 오트밀 | season : FW23 | brand : beanpole | color : 오트밀 | material : 울 | fit : H라인 | style : 스커트 | gender : 여성 <|endoftext|>
+ name : [Essential] Unisex 핑크 울 베럴 B 카디건 | season : FW22 | brand : beanpole | material : 울, 캐시미어 | style : 카디건 <|endoftext|>
  name : 코튼 혼방 솔리드 골지 삭스 - 베이지 | season : SS23 | brand : 8seconds | color : 베이지 | pattern/print : 솔리드 | material : 코튼 <|endoftext|>
- name : Wool Blend Tweed Tailored Jacket - Beige | season : FW23 | brand : kuho | color : Beige | neck_detail : 칼라 | pattern/print : 트위드 <|endoftext|>
- name : ❄️시즌오프❄️ Varsity Jacket - Green | season : FW23 | brand : beaker | color : Green | material : 퍼, 데님 | neck_detail : 칼라 | washing : 워싱 | style : 재킷 <|endoftext|>
+ name : Wool Blend Tweed Tailored Jacket - Beige | season : FW23 | brand : kuho | color : Beige | material : 울 | neck_detail : 칼라 | pattern/print : 트위드 <|endoftext|>
+ name : ❄️시즌오프❄️ Varsity Jacket - Green | season : FW23 | brand : beaker | color : Green | washing : 워싱 | material : 퍼, 데님 | neck_detail : 칼라 | style : 데님 재킷 <|endoftext|>
  name : 나일론 밑단 스트링 벌룬 팬츠 - 카키 | season : FW23 | brand : 8seconds | color : 카키 | style : 팬츠 | material : 나일론 <|endoftext|>
- name : [UNI8] 데미지 데님 숏 팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | washing : 워싱 | material : 데님 | style : 팬츠 <|endoftext|>
- name : Meshed Mohair Cardigan - Grey | season : FW21 | brand : beaker | color : Grey | gender : 남성 | style : 카디건 | material : 모헤어 <|endoftext|>
- name : Wool Pleats Detail Long Dress - Black | season : FW23 | brand : kuho | color : Black | material : 울, 가죽 | style : 원피스 <|endoftext|>
- name : [EDITION8] 울 스티치 플리츠 스커트 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | style : 스커트 | length : 미디 기장 | material : 울 <|endoftext|>
- name : ❄️시즌오프❄️ Women Cashmere Blended Midi Coat - Ivory | season : FW23 | brand : beaker | color : Ivory | material : 캐시미어 혼방 | style : 재킷 <|endoftext|>
+ name : [UNI8] 데미지 데님 숏 팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | washing : 워싱 | style : 팬츠 | material : 데님 <|endoftext|>
+ name : Meshed Mohair Cardigan - Grey | season : FW21 | brand : beaker | color : Grey | gender : 남성 | material : 모헤어 <|endoftext|>
+ name : Wool Pleats Detail Long Dress - Black | season : FW23 | brand : kuho | color : Black | material : 울, 퍼, 가죽 | style : 원피스 | gender : 여성 <|endoftext|>
+ name : [EDITION8] 울 스티치 플리츠 스커트 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | length : 미디 기장 | material : 울 | style : 스커트 <|endoftext|>
+ name : ❄️시즌오프❄️ Women Cashmere Blended Midi Coat - Ivory | season : FW23 | brand : beaker | color : Ivory | style : 코트, 재킷 | material : 캐시미어 혼방 <|endoftext|>
  name : 알파카혼방 바라클라바 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | material : 울 <|endoftext|>
- name : 피치코튼 피그먼트 와이드 팬츠 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | fit : 와이드핏 | material : 면 | style : 팬츠 <|endoftext|>
+ name : 피치코튼 피그먼트 와이드 팬츠 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | washing : 워싱 | material : 면 | style : 팬츠 | fit : 와이드핏 <|endoftext|>
  name : 하이넥 반집업 니트 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | neck_detail : 하이넥 <|endoftext|>
- name : ❄️시즌오프❄️ Via Hines Wool Jacket - Navy | season : FW23 | brand : beaker | color : Navy | style : 블루종 | material : 울 <|endoftext|>
+ name : ❄️시즌오프❄️ Via Hines Wool Jacket - Navy | season : FW23 | brand : beaker | color : Navy | material : 울 | style : 블루종 <|endoftext|>
  name : Raphia Sun Visor - Beige | season : SS23 | brand : kuhoplus | color : Beige | gender : 여성 <|endoftext|>
  name : Men Zip-Up Melange Hoodie - Grey | season : SS24 | brand : beaker | color : Grey | neck_detail : 후드 <|endoftext|>
- name : 울라이크 체크 아우터형 셔켓 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | style : 재킷 | pattern/print : 체크 | material : 울 <|endoftext|>
- name : [Icon] Cashmere Double Half Coat - Light Grey | season : FW23 | brand : kuho | color : Light Grey | material : 캐시미어 | length : 하프 기장 | style : 코트 | fit : 오버핏 <|endoftext|>
+ name : 울라이크 체크 아우터형 셔켓 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | material : 울 | style : 셔츠, 재킷 | pattern/print : 체크 <|endoftext|>
+ name : [Icon] Cashmere Double Half Coat - Light Grey | season : FW23 | brand : kuho | color : Light Grey | style : 코트 | length : 하프 기장 | material : 캐시미어 | neck_detail : 칼라 | fit : 오버핏 <|endoftext|>
  name : [좋은건하나더] 넓은 골지 양말 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 |  <|endoftext|>
  name : ❄️시즌오프❄️ 23Wbm-P10233 - Grey | season : FW23 | brand : beaker | color : Grey | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Single Pleat Corduroy Trouser - Brown | season : FW23 | brand : beaker | color : Brown | material : 코듀로이 | fit : 스트레이트핏 | style : 팬츠 <|endoftext|>
- name : Robe Geneviève - Light Pink | season : SS23 | brand : beaker | color : Light Pink | style : 원피스 | sleeves_length : 반소매 | pattern/print : 스트라이프 | material : 코튼 <|endoftext|>
- name : ❄️시즌오프❄️ Twinsun Rollneck - Brown | season : FW23 | brand : beaker | color : Brown | style : 스웨터 | pattern/print : 자수, 레터링 | material : 면, 코튼 <|endoftext|>
- name : 오버핏 플란넬 체크 셔츠 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | style : 티셔츠 | pattern/print : 체크 | fit : 오버핏 <|endoftext|>
- name : 날개사 브이넥 집업 카디건 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 카디건 | neck_detail : 브이넥 <|endoftext|>
+ name : ❄️시즌오프❄️ Single Pleat Corduroy Trouser - Brown | season : FW23 | brand : beaker | color : Brown | style : 팬츠 | fit : 스트레이트핏 | material : 코듀로이 <|endoftext|>
+ name : Robe Geneviève - Light Pink | season : SS23 | brand : beaker | color : Light Pink | material : 코튼 | style : 원피스 | neck_detail : 칼라 | pattern/print : 스트라이프 | sleeves_length : 반소매 <|endoftext|>
+ name : ❄️시즌오프❄️ Twinsun Rollneck - Brown | season : FW23 | brand : beaker | color : Brown | material : 면, 코튼 | pattern/print : 자수, 레터링 | style : 스웨터 <|endoftext|>
+ name : 오버핏 플란넬 체크 셔츠 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | style : 셔츠 | fit : 오버핏 | pattern/print : 체크 <|endoftext|>
+ name : 날개사 브이넥 집업 카디건 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | neck_detail : 브이넥 | style : 집업 카디건 <|endoftext|>
  name : Multi Zipper Ma-1 Jacket - Khaki | season : FW23 | brand : beaker | color : Khaki | style : 재킷 <|endoftext|>
- name : 플리츠 랩 미니 스커트팬츠 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | style : 랩스커트 <|endoftext|>
- name : Signature Mac Trench Coat - Beige | season : FW22 | brand : kuhoplus | color : Beige | pattern/print : 체크 | material : 코튼 | button_zipper : 히든 버튼 <|endoftext|>
- name : 젠틀 칼라 티핑 니트 - 네이비 | season : SS23 | brand : beanpole | color : 네이비 | neck_detail : 칼라 | material : 면 <|endoftext|>
- name : 코튼모달 볼륨 소매 셔츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | neck_detail : 칼라 | style : 셔츠 | material : 모달, 코튼 | gender : 여성 <|endoftext|>
- name : Riviera Crew Neck T-Shirt - White | season : SS23 | brand : beaker | color : White | style : 티셔츠 | material : 코튼 <|endoftext|>
+ name : 플리츠 랩 미니 스커트팬츠 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | style : 랩스커트, 스커트 팬츠 | length : 짧은 기장 <|endoftext|>
+ name : Signature Mac Trench Coat - Beige | season : FW22 | brand : kuhoplus | color : Beige | button_zipper : 히든 버튼 | material : 코튼 | pattern/print : 체크 <|endoftext|>
+ name : 젠틀 칼라 티핑 니트 - 네이비 | season : SS23 | brand : beanpole | color : 네이비 | neck_detail : 오픈칼라 | material : 면 <|endoftext|>
+ name : 코튼모달 볼륨 소매 셔츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | material : 모달, 코튼 | style : 셔츠 | neck_detail : 칼라 | gender : 여성 <|endoftext|>
+ name : Riviera Crew Neck T-Shirt - White | season : SS23 | brand : beaker | color : White | material : 코튼, 데님 | style : 티셔츠 | fit : 레귤러핏 <|endoftext|>
  name : 헤비코튼 그래픽 스웨트셔츠 - 아이보리 | season : SS24 | brand : 8seconds | color : 아이보리 | material : 면 | style : 스웨트셔츠 <|endoftext|>
  name : 30mm 버클 촉 벨트 - 실버 | season : FW23 | brand : 8seconds | color : 실버 |  <|endoftext|>
- name : 백오픈 니트 풀오버 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 |  <|endoftext|>
+ name : 백오픈 니트 풀오버 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | material : 데님 <|endoftext|>
  name : N-626 - Silver | season : FW23 | brand : beaker | color : Silver |  <|endoftext|>
  name : Tobu Volume Wool Knit - Ash Gray | season : SS24 | brand : beaker | color : Ash Gray | material : 울, 아크릴 <|endoftext|>
- name : 벌룬핏 워싱 데님  팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | washing : 워싱 | material : 데님 | style : 팬츠 <|endoftext|>
- name : 가먼트다잉 쇼츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | washing : 워싱 | style : 팬츠 <|endoftext|>
+ name : 벌룬핏 워싱 데님  팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | washing : 워싱 | style : 데님 팬츠 | material : 데님 <|endoftext|>
+ name : 가먼트다잉 쇼츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | washing : 워싱 <|endoftext|>
  name : Leather Tailored Jacket - Black | season : FW23 | brand : beaker | color : Black | material : 양가죽 | style : 재킷 <|endoftext|>
  name : ❄️시즌오프❄️ 3Pleated Wide Trousers - Black | season : FW23 | brand : beaker | color : Black | material : 울 <|endoftext|>
  name : Women Muffler - Navy | season : FW23 | brand : beaker | color : Navy | material : 울, 캐시미어 혼방 | pattern/print : 체크 <|endoftext|>
  name : ❄️시즌오프❄️ Men Fz-Fox - Navy | season : FW23 | brand : beaker | color : Navy | neck_detail : 후드 <|endoftext|>
- name : 집업 데님 블루종 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | style : 블루종 | neck_detail : 칼라 | length : 짧은 기장 | material : 데님 <|endoftext|>
+ name : 집업 데님 블루종 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | length : 짧은 기장 | material : 데님 | neck_detail : 칼라 | style : 블루종 <|endoftext|>
  name : [매일슬랙스] 슬림 슬랙스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 슬랙스 <|endoftext|>
- name : ❄️시즌오프❄️ Lennox Blue Check Ruched Shrit Dress - Blue | season : FW23 | brand : beaker | color : Blue | pattern/print : 체크 | gender : 여성 <|endoftext|>
+ name : ❄️시즌오프❄️ Lennox Blue Check Ruched Shrit Dress - Blue | season : FW23 | brand : beaker | color : Blue | gender : 여성 | pattern/print : 체크 <|endoftext|>
  name : 헤어리 스퀘어넥 반소매 풀오버 - 라벤더 | season : FW23 | brand : 8seconds | color : 라벤더 | sleeves_length : 반소매 | neck_detail : 스퀘어넥 <|endoftext|>
- name : ❄️시즌오프❄️ Fulflan Pants - Grey | season : FW23 | brand : beaker | color : Grey | material : 폴리 | style : 팬츠 <|endoftext|>
+ name : ❄️시즌오프❄️ Fulflan Pants - Grey | season : FW23 | brand : beaker | color : Grey | style : 팬츠 | material : 폴리 <|endoftext|>
  name : 헤어리 스트라이프 니트 풀오버 - 화이트 | season : SS24 | brand : 8seconds | color : 화이트 | pattern/print : 스트라이프 <|endoftext|>
- name : 에센셜 레귤러핏 데님 팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | fit : 레귤러핏 | washing : 워싱 | material : 데님 | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Classic Ss T-Shirt - Pink | season : FW23 | brand : beaker | color : Pink | style : 티셔츠 | material : 면 <|endoftext|>
- name : Corduroy Skirt - Ivory | season : FW19 | brand : kuhoplus | color : Ivory | material : 코듀로이 | style : 스커트 <|endoftext|>
- name : 기모 원턱 와이드핏 데님 팬츠 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | fit : 와이드핏 | tuck : 원턱 | material : 데님 | style : 팬츠 <|endoftext|>
- name : 아워글래스 오버핏 재킷 - 그레이 | season : SS24 | brand : 8seconds | color : 그레이 | style : 재킷 | gender : 여성 | fit : 오버핏 <|endoftext|>
- name : 크랙 페이크레더 숏 무스탕 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 무스탕 | material : 퍼 | neck_detail : 칼라 <|endoftext|>
+ name : 에센셜 레귤러핏 데님 팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | washing : 워싱 | style : 데님 팬츠 | material : 데님 | fit : 레귤러핏 <|endoftext|>
+ name : ❄️시즌오프❄️ Classic Ss T-Shirt - Pink | season : FW23 | brand : beaker | color : Pink | material : 면 | style : 티셔츠 <|endoftext|>
+ name : Corduroy Skirt - Ivory | season : FW19 | brand : kuhoplus | color : Ivory | fit : A라인 | material : 코듀로이 | style : 코듀로이 스커트 <|endoftext|>
+ name : 기모 원턱 와이드핏 데님 팬츠 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | tuck : 원턱 | style : 데님 팬츠 | material : 데님 | fit : 와이드핏 <|endoftext|>
+ name : 아워글래스 오버핏 재킷 - 그레이 | season : SS24 | brand : 8seconds | color : 그레이 | material : 데님 | fit : 오버핏 | gender : 여성 | style : 재킷 <|endoftext|>
+ name : 크랙 페이크레더 숏 무스탕 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 재킷, 무스탕 | material : 퍼, 가죽, 데님 | neck_detail : 칼라 <|endoftext|>
  name : ❄️비이커 단독 시즌오프❄️ Alpaca Blend Round Pullover - Purple | season : FW23 | brand : beaker | color : Purple | material : 울 <|endoftext|>
  name : ❄️시즌오프❄️ Asymmetric Knit Shirt - Melange Charcoal Grey | season : FW23 | brand : beaker | color : Melange Charcoal Grey | neck_detail : 칼라, 브이넥 | material : 울 혼방 | style : 셔츠 <|endoftext|>
- name : 골드 단추 라운드넥 재킷 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | neck_detail : 라운드넥 | style : 재킷 | gender : 여성 <|endoftext|>
- name : Signature Summer Semi Wide Denim Pants - Blue | season : SS23 | brand : kuhoplus | color : Blue | fit : 와이드핏 | tuck : 원턱 | material : 데님 | style : 팬츠 <|endoftext|>
+ name : 골드 단추 라운드넥 재킷 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | neck_detail : 라운드넥 | gender : 여성 | style : 재킷 <|endoftext|>
+ name : Signature Summer Semi Wide Denim Pants - Blue | season : SS23 | brand : kuhoplus | color : Blue | tuck : 원턱 | style : 데님 팬츠 | material : 데님 | fit : 와이드핏 <|endoftext|>
  name : Delfina Necklace - Yellow | season : SS23 | brand : beaker | color : Yellow |  <|endoftext|>
  name : [Golf] Solid Bootcut Pants - Navy | season : FW23 | brand : kuho | color : Navy | style : 부츠컷 팬츠 <|endoftext|>
- name : Wool Blend Wide Pants - Black | season : FW23 | brand : kuho | color : Black | material : 울 혼방 | style : 팬츠 <|endoftext|>
+ name : Wool Blend Wide Pants - Black | season : FW23 | brand : kuho | color : Black | style : 팬츠 | material : 울 혼방 <|endoftext|>
  name : 900 Silver Stamp Ring (W-321A) - Silver | season : FW23 | brand : beaker | color : Silver | pattern/print : 도트 <|endoftext|>
  name : ❄️시즌오프❄️ Gfx Hoodie - Black | season : FW23 | brand : beaker | color : Black | pattern/print : 로고 <|endoftext|>
- name : [RDS인증] 네이비 울 폴리 후드 파카 구스 다운 점퍼 | season : FW22 | brand : beanpole | filling : 다운, 구스 | style : 다운 점퍼 | material : 울, 폴리 | neck_detail : 후드 | washing : 코팅 <|endoftext|>
- name : ❄️시즌오프❄️ Louis Patchwork Lslv Jacket - Khaki | season : FW23 | brand : beaker | color : Khaki | neck_detail : 칼라 | style : 재킷 | material : 면 <|endoftext|>
- name : Fuzzy Banding Bootcut Pants - Black | season : FW23 | brand : beaker | color : Black | material : 저지 | style : 팬츠 <|endoftext|>
+ name : [RDS인증] 네이비 울 폴리 후드 파카 구스 다운 점퍼 | season : FW22 | brand : beanpole | style : 다운 점퍼 | washing : 코팅 | filling : 구스, 다운 | material : 울, 폴리 | neck_detail : 후드 <|endoftext|>
+ name : ❄️시즌오프❄️ Louis Patchwork Lslv Jacket - Khaki | season : FW23 | brand : beaker | color : Khaki | material : 면 | neck_detail : 칼라 | style : 재킷 <|endoftext|>
+ name : Fuzzy Banding Bootcut Pants - Black | season : FW23 | brand : beaker | color : Black | material : 퍼, 저지 | style : 팬츠 <|endoftext|>
  name : 코튼 벌룬 와이드 팬츠 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | tuck : 원턱 | material : 면, 코튼 | style : 팬츠 <|endoftext|>
  name : 조거 스웨트팬츠 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | style : 팬츠 <|endoftext|>
- name : 에센셜 테이퍼드핏 데님 팬츠 - 블루 | season : SS24 | brand : 8seconds | color : 블루 | fit : 테이퍼드핏 | material : 데님 | style : 팬츠 <|endoftext|>
- name : Denim Sleeveless Dress - Black | season : SS23 | brand : kuhoplus | color : Black | sleeves_length : 민소매 | material : 데님 <|endoftext|>
- name : 백 레터링 집업 카디건 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | style : 카디건 | pattern/print : 자수, 레터링 <|endoftext|>
- name : 플레인 칼라넥 카디건 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | style : 카디건 | neck_detail : 칼라 <|endoftext|>
- name : 퀼티드 패딩 오버핏 셔켓 - 브라운 | season : FW23 | brand : 8seconds | color : 브라운 | filling : 패딩 | fit : 오버핏 <|endoftext|>
- name : 워크웨어 와이드핏 데님 팬츠 - 애쉬 | season : SS24 | brand : 8seconds | color : 애쉬 | fit : 와이드핏 | material : 데님 | style : 팬츠 <|endoftext|>
- name : Polka Dot Jersey Top - Print Cream | season : FW23 | brand : beaker | color : Print Cream | pattern/print : 자수 | fit : 슬림핏 | style : 탑 | material : 저지 <|endoftext|>
+ name : 에센셜 테이퍼드핏 데님 팬츠 - 블루 | season : SS24 | brand : 8seconds | color : 블루 | style : 데님 팬츠 | material : 데님 | neck_detail : 후드 | fit : 테이퍼드핏 <|endoftext|>
+ name : Denim Sleeveless Dress - Black | season : SS23 | brand : kuhoplus | color : Black | sleeves_length : 민소매 | material : 데님 | gender : 여성 <|endoftext|>
+ name : 백 레터링 집업 카디건 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | pattern/print : 자수, 레터링 | style : 집업 카디건 <|endoftext|>
+ name : 플레인 칼라넥 카디건 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | neck_detail : 칼라 | style : 카디건 <|endoftext|>
+ name : 퀼티드 패딩 오버핏 셔켓 - 브라운 | season : FW23 | brand : 8seconds | color : 브라운 | fit : 오버핏 | filling : 패딩 <|endoftext|>
+ name : 워크웨어 와이드핏 데님 팬츠 - 애쉬 | season : SS24 | brand : 8seconds | color : 애쉬 | style : 데님 팬츠 | material : 데님 | fit : 와이드핏 <|endoftext|>
+ name : Polka Dot Jersey Top - Print Cream | season : FW23 | brand : beaker | color : Print Cream | material : 저지 | fit : 슬림핏 | style : 탑 | pattern/print : 자수 <|endoftext|>
  name : [셀럽's pick] Belted Pleats Midi Skirt - Grey | season : FW23 | brand : kuhoplus | color : Grey | material : 울 혼방 | style : 스커트 <|endoftext|>
- name : 벨벳 리본 스크런치 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | material : 벨벳 <|endoftext|>
+ name : 벨벳 리본 스크런치 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | neck_detail : 보트넥 | material : 벨벳 <|endoftext|>
  name : 반핸드메이드 싱글 체스터 코트 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | style : 체스터 코트 | material : 울 <|endoftext|>
- name : ❄️비이커 단독 시즌오프❄️ Down Jumper - Black | season : FW23 | brand : beaker | color : Black | filling : 다운, 구스 | style : 다운 점퍼 <|endoftext|>
+ name : ❄️비이커 단독 시즌오프❄️ Down Jumper - Black | season : FW23 | brand : beaker | color : Black | style : 다운 점퍼 | filling : 구스, 다운 | neck_detail : 후드 <|endoftext|>
  name : Twister Orange Blue Necklace - Orange | season : SS23 | brand : beaker | color : Orange |  <|endoftext|>
- name : Rayon Blend Glossy Hood Short Padding - Ivory | season : SS24 | brand : kuho | color : Ivory | filling : 패딩 | neck_detail : 후드 | washing : 코팅 <|endoftext|>
- name : ❄️시즌오프❄️ V-Neck Mohair Knit - Baby Blue | season : FW23 | brand : beaker | color : Baby Blue | material : 모헤어 <|endoftext|>
- name : 도트 패턴 자카드 라운드넥 카디건 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | fabric_style : 자카드 | pattern/print : 도트 | neck_detail : 라운드넥 | style : 카디건 <|endoftext|>
+ name : Rayon Blend Glossy Hood Short Padding - Ivory | season : SS24 | brand : kuho | color : Ivory | washing : 코팅 | neck_detail : 후드 | filling : 패딩 <|endoftext|>
+ name : ❄️시즌오프❄️ V-Neck Mohair Knit - Baby Blue | season : FW23 | brand : beaker | color : Baby Blue | material : 모헤어 | neck_detail : 브이넥 | fit : 오버핏 <|endoftext|>
+ name : 도트 패턴 자카드 라운드넥 카디건 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | neck_detail : 라운드넥 | pattern/print : 도트 | fabric_style : 자카드 | style : 카디건 <|endoftext|>
  name : 부츠컷 코듀로이 팬츠 - 카키 | season : FW23 | brand : beanpole | color : 카키 | material : 코튼, 코듀로이 | style : 코듀로이 팬츠 | gender : 여성 <|endoftext|>
- name : 발포 그래픽 반소매 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | sleeves_length : 반소매 | style : 티셔츠 | pattern/print : 레터링 <|endoftext|>
+ name : 발포 그래픽 반소매 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | material : 코튼 | style : 반소매 티셔츠 | pattern/print : 레터링 | sleeves_length : 반소매 <|endoftext|>
  name : 이중직 버튼 카디건 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 카디건 <|endoftext|>
  name : Ribbed Velvet Layered Volume Blouse - Ash | season : FW23 | brand : kuho | color : Ash | style : 블라우스 | material : 벨벳 | gender : 여성 <|endoftext|>
  name : ❄️시즌오프❄️ Regina Faux Fur Collar Cardigan - Ivory | season : FW23 | brand : beaker | color : Ivory | material : 퍼 | style : 카디건 <|endoftext|>
- name : 워싱 기모 와이드 데님 팬츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | washing : 워싱 | material : 데님 | style : 팬츠 | length : 긴 기장 <|endoftext|>
+ name : 워싱 기모 와이드 데님 팬츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | washing : 워싱 | style : 데님 팬츠 | material : 데님 | length : 긴 기장 <|endoftext|>
  name : 베이직 골지 비니 - 그린 | season : FW23 | brand : 8seconds | color : 그린 | length : 짧은 기장 <|endoftext|>
  name : 컷오프 풀오버 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 |  <|endoftext|>
- name : ❄️시즌오프❄️ Uniform Top - Charcoal | season : FW23 | brand : beaker | color : Charcoal | material : 면 | style : 셔츠 <|endoftext|>
+ name : ❄️시즌오프❄️ Uniform Top - Charcoal | season : FW23 | brand : beaker | color : Charcoal | material : 면 | style : 셔츠, 베스트 <|endoftext|>
  name : 30mm 엘라스틴 웨빙 벨트 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 |  <|endoftext|>
  name : ❄️시즌오프❄️ Ouma - Brown | season : FW23 | brand : beaker | color : Brown | material : 소가죽 | pattern/print : 로고 <|endoftext|>
  name : Mhl Simple T-Shirt - Light Green | season : FW23 | brand : beaker | color : Light Green | material : 면, 리넨 혼방 | style : 티셔츠 <|endoftext|>
- name : Fleece Snap Pullover - Navy | season : FW23 | brand : beaker | color : Navy | material : 폴리, 레이온 혼방 | fabric_style : 플리스 <|endoftext|>
+ name : Fleece Snap Pullover - Navy | season : FW23 | brand : beaker | color : Navy | fabric_style : 플리스 | material : 폴리, 레이온 혼방 <|endoftext|>
  name : 도트패턴 옆셔링 원피스 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | sleeves_length : 민소매 | pattern/print : 도트 | style : 원피스 | gender : 여성 <|endoftext|>
- name : 두 겹 칼라 타탄 체크 턱 디테일 셔츠형 원피스 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | neck_detail : 칼라 | style : 원피스 | material : 면 | pattern/print : 체크 | gender : 여성 <|endoftext|>
- name : ❄️시즌오프❄️ Parker Easy Straight Jean - Sky Blue | season : FW23 | brand : beaker | color : Sky Blue | material : 면, 데님 | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Men Hood Detachable Safari Down Parka - Black | season : FW23 | brand : beaker | color : Black | filling : 다운 | material : 나일론 <|endoftext|>
+ name : 두 겹 칼라 타탄 체크 턱 디테일 셔츠형 원피스 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | material : 면 | style : 셔츠, 원피스 | neck_detail : 칼라 | gender : 여성 | pattern/print : 체크 <|endoftext|>
+ name : ❄️시즌오프❄️ Parker Easy Straight Jean - Sky Blue | season : FW23 | brand : beaker | color : Sky Blue | material : 면, 데님 | style : 데님 팬츠 | length : 크롭 기장 <|endoftext|>
+ name : ❄️시즌오프❄️ Men Hood Detachable Safari Down Parka - Black | season : FW23 | brand : beaker | color : Black | neck_detail : 후드 | filling : 다운 | material : 나일론 <|endoftext|>
  name : 보더 스트라이프 칼라넥 니트 - 그린 | season : FW23 | brand : 8seconds | color : 그린 | neck_detail : 칼라 | pattern/print : 스트라이프 <|endoftext|>
- name : Cotton Blend Shirring Detail Shirt - White | season : FW23 | brand : kuho | color : White | style : 블라우스 | gender : 여성 <|endoftext|>
+ name : Cotton Blend Shirring Detail Shirt - White | season : FW23 | brand : kuho | color : White | style : 셔츠 | gender : 여성 <|endoftext|>
  name : Palome - Black | season : SS24 | brand : beaker | color : Black | style : 스커트 | length : 긴 기장 <|endoftext|>
- name : Women T-Shirt - White | season : SS24 | brand : beaker | color : White | pattern/print : 자수 | style : 티셔츠 | material : 면 <|endoftext|>
- name : ❄️시즌오프❄️ The Pleated Double Dip Puddle - Sky Blue | season : FW23 | brand : beaker | color : Sky Blue | material : 데님 | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Finx Dungarees Polocollar Shirt - Blue | season : FW23 | brand : beaker | color : Blue | filling : 다운 | neck_detail : 칼라 | material : 면 | style : 셔츠 <|endoftext|>
- name : [Essential] 배기 기모 데님 팬츠 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | material : 면, 데님 | style : 팬츠 <|endoftext|>
- name : Essential Big Pocket Shirts - Navy | season : FW23 | brand : kuhoplus | color : Navy | pattern/print : 자수 | style : 셔츠 | material : 코튼 <|endoftext|>
- name : [Essential] 헤릿 체크 레귤러핏 셔츠 - 네이비 | season : SS24 | brand : beanpole | color : 네이비 | fit : 레귤러핏 | material : 면 | pattern/print : 체크 | style : 셔츠 <|endoftext|>
- name : [UNI8] 가먼트다잉 크롭 후드 티셔츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | pattern/print : 로고, 자수 | style : 티셔츠 | length : 짧은 기장 | neck_detail : 후드 <|endoftext|>
- name : 케이블 풀집업 카디건 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | neck_detail : 풀집업 | style : 카디건 | material : 울 <|endoftext|>
+ name : Women T-Shirt - White | season : SS24 | brand : beaker | color : White | material : 면 | style : 티셔츠 | pattern/print : 자수 <|endoftext|>
+ name : ❄️시즌오프❄️ The Pleated Double Dip Puddle - Sky Blue | season : FW23 | brand : beaker | color : Sky Blue | style : 데님 팬츠 | material : 데님 <|endoftext|>
+ name : ❄️시즌오프❄️ Finx Dungarees Polocollar Shirt - Blue | season : FW23 | brand : beaker | color : Blue | material : 면 | style : 셔츠 | neck_detail : 칼라 | filling : 다운 <|endoftext|>
+ name : [Essential] 배기 기모 데님 팬츠 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | material : 면, 데님 | style : 데님 팬츠 <|endoftext|>
+ name : Essential Big Pocket Shirts - Navy | season : FW23 | brand : kuhoplus | color : Navy | material : 코튼 | style : 셔츠 | pattern/print : 자수 | gender : 여성 <|endoftext|>
+ name : [Essential] 헤릿 체크 레귤러핏 셔츠 - 네이비 | season : SS24 | brand : beanpole | color : 네이비 | material : 면, 데님 | style : 셔츠 | fit : 레귤러핏 | pattern/print : 체크 <|endoftext|>
+ name : [UNI8] 가먼트다잉 크롭 후드 티셔츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | style : 후드 티셔츠 | pattern/print : 자수, 로고 | length : 짧은 기장 | neck_detail : 후드 <|endoftext|>
+ name : 케이블 풀집업 카디건 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | neck_detail : 칼라, 풀집업 | material : 울 | style : 집업 카디건 | pattern/print : 스트라이프 <|endoftext|>
  name : Cut-out Mini Dress - Apple Green | season : SS23 | brand : kuhoplus | color : Apple Green | material : 나일론 코튼 혼방 <|endoftext|>
- name : 칼라넥 크롭 카디건 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 카디건 | neck_detail : 칼라 | length : 짧은 기장 <|endoftext|>
+ name : 칼라넥 크롭 카디건 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | length : 짧은 기장 | neck_detail : 칼라 | style : 카디건 <|endoftext|>
  name : ❄️시즌오프❄️ ★김수현 착용★ Flat-Front Trousers - Navy | season : FW23 | brand : beaker | color : Navy | material : 면 | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Elisas - Yellow | season : FW23 | brand : beaker | color : Yellow | style : 스커트 | material : 실크 <|endoftext|>
- name : 바시티 그래픽 스웨트셔츠 - 스카이 블루 | season : FW23 | brand : 8seconds | color : 스카이 블루 | style : 스웨트셔츠 <|endoftext|>
- name : Pleat Skirt - Grey | season : FW23 | brand : beaker | color : Grey | style : 스커트 | material : 울 <|endoftext|>
+ name : ❄️시즌오프❄️ Elisas - Yellow | season : FW23 | brand : beaker | color : Yellow | material : 실크 | style : 스커트 <|endoftext|>
+ name : 바시티 그래픽 스웨트셔츠 - 스카이 블루 | season : FW23 | brand : 8seconds | color : 스카이 블루 | material : 데님 | style : 스웨트셔츠 <|endoftext|>
+ name : Pleat Skirt - Grey | season : FW23 | brand : beaker | color : Grey | material : 울 | style : 스커트 <|endoftext|>
  name : Balloon Army Pants - Khaki | season : SS24 | brand : beaker | color : Khaki | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Annika Jacket - Navy Cotton | season : FW23 | brand : beaker | color : Navy Cotton | material : 코듀로이 | style : 재킷 | button_zipper : 싱글 버튼 <|endoftext|>
- name : [Essential] 남녀공용 케이블 라운드 니트 - 베이지 | season : FW23 | brand : beanpole | color : 베이지 | style : 티셔츠 | material : 캐시미어 혼방 | gender : 남녀공용 <|endoftext|>
+ name : ❄️시즌오프❄️ Annika Jacket - Navy Cotton | season : FW23 | brand : beaker | color : Navy Cotton | material : 코듀로이 | button_zipper : 싱글 버튼 | style : 재킷 <|endoftext|>
+ name : [Essential] 남녀공용 케이블 라운드 니트 - 베이지 | season : FW23 | brand : beanpole | color : 베이지 | gender : 남녀공용 | material : 캐시미어 혼방 <|endoftext|>
  name : 버튼 데님 미니스커트 - 스카이블루 | season : FW23 | brand : 8seconds | color : 스카이블루 | washing : 워싱 | material : 데님 <|endoftext|>
  name : ❄️시즌오프❄️ Color Block Lst - Teal Green | season : FW23 | brand : beaker | color : Teal Green |  <|endoftext|>
  name : Rib Overankle Socks - Yellow | season : SS24 | brand : beaker | color : Yellow | material : 코튼 <|endoftext|>
- name : [RDS인증] 애쉬 코튼 혼방 하이넥 구스 다운 코트 | season : FW22 | brand : beanpole | filling : 다운, 구스 | style : 스웨터 | neck_detail : 하이넥 | material : 코튼 <|endoftext|>
- name : 울 캐시미어 핸드메이드 쇼트 코트 - 카키 | season : FW23 | brand : beanpole | color : 카키 | neck_detail : 칼라 | material : 울 캐시미어 혼방 | style : 재킷 <|endoftext|>
- name : ❄️시즌오프❄️ Jesse Carpenter Short - Ivory | season : FW23 | brand : beaker | color : Ivory | material : 데님 | style : 팬츠 <|endoftext|>
- name : 코튼 볼륨 블라우스 - 스카이 블루 | season : FW23 | brand : 8seconds | color : 스카이 블루 | style : 블라우스 | material : 코튼 <|endoftext|>
+ name : [RDS인증] 애쉬 코튼 혼방 하이넥 구스 다운 코트 | season : FW22 | brand : beanpole | style : 스웨터, 다운 코트 | material : 코튼 | filling : 구스, 다운 | neck_detail : 하이넥 <|endoftext|>
+ name : 울 캐시미어 핸드메이드 쇼트 코트 - 카키 | season : FW23 | brand : beanpole | color : 카키 | style : 코트, 재킷 | fit : A라인 | material : 울 캐시미어 혼방 | neck_detail : 칼라 <|endoftext|>
+ name : ❄️시즌오프❄️ Jesse Carpenter Short - Ivory | season : FW23 | brand : beaker | color : Ivory | style : 데님 팬츠 | material : 데님 <|endoftext|>
+ name : 코튼 볼륨 블라우스 - 스카이 블루 | season : FW23 | brand : 8seconds | color : 스카이 블루 | material : 코튼 | style : 블라우스 <|endoftext|>
  name : Back Point Layered Dress - Black | season : SS23 | brand : kuhoplus | color : Black | material : 나일론 혼방 <|endoftext|>
- name : Pocket Detail Overfit Jacket - Navy | season : SS24 | brand : kuhoplus | color : Navy | pattern/print : 자수 | material : 울 혼방 | style : 재킷 | fit : 오버핏 <|endoftext|>
+ name : Pocket Detail Overfit Jacket - Navy | season : SS24 | brand : kuhoplus | color : Navy | material : 울 혼방 | pattern/print : 자수 | fit : 오버핏 | style : 재킷 <|endoftext|>
  name : 네이비 울 우븐패치 T칼라 니트 | season : FW22 | brand : beanpole | material : 울 <|endoftext|>
- name : ❄️시즌오프❄️ Women Wool Set-Up Pants - Black | season : FW23 | brand : beaker | color : Black | material : 울 혼방 | style : 팬츠 <|endoftext|>
+ name : ❄️시즌오프❄️ Women Wool Set-Up Pants - Black | season : FW23 | brand : beaker | color : Black | style : 팬츠 | material : 울 혼방 <|endoftext|>
  name : 카고 벌룬 스커트 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | style : 스커트 <|endoftext|>
- name : 울 블렌디드 스타디움 점퍼 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | style : 점퍼 | material : 울 <|endoftext|>
- name : 울 후드 집업 카디건 - 그레이 | season : FW23 | brand : beanpole | color : 그레이 | style : 카디건 | pattern/print : 자수 | neck_detail : 후드 | material : 울 <|endoftext|>
+ name : 울 블렌디드 스타디움 점퍼 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | material : 울 | style : 점퍼 <|endoftext|>
+ name : 울 후드 집업 카디건 - 그레이 | season : FW23 | brand : beanpole | color : 그레이 | material : 울 | pattern/print : 자수 | style : 집업 카디건 | neck_detail : 후드 <|endoftext|>
  name : 레이어드 트임 풀오버 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 |  <|endoftext|>
- name : [4Way Stretch] 릴렉스핏 밴딩 슬랙스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 슬랙스 <|endoftext|>
- name : ❄️시즌오프❄️ Denim Mixed Skirt - Black | season : FW23 | brand : beaker | color : Black | style : 스커트 | material : 데님 <|endoftext|>
- name : [Green] 배색 V넥 베스트 - 화이트 | season : SS24 | brand : beanpole | color : 화이트 | pattern/print : 자수 | material : 면 | style : 베스트 <|endoftext|>
- name : Balmacaan Coat - Black | season : FW23 | brand : beaker | color : Black | material : 울 혼방 | style : 코트 <|endoftext|>
- name : Haus Selvedge Denim Pants - Blue | season : FW23 | brand : beaker | color : Blue | pattern/print : 로고, 자수 | material : 가죽, 데님 | style : 팬츠 <|endoftext|>
- name : Round Neck Half Jacket - Navy | season : SS23 | brand : kuhoplus | color : Navy | material : 코튼 리넨 혼방 | style : 재킷 | gender : 여성 <|endoftext|>
- name : 💛기간한정+추가할인💛 코튼트윌 빅헤릿 체크 리버서블 버킷햇 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | pattern/print : 로고, 체크 | material : 면 <|endoftext|>
- name : Essential Big Pocket Shirts - Lemon | season : SS23 | brand : kuhoplus | color : Lemon | pattern/print : 자수 | style : 셔츠 | material : 코튼 <|endoftext|>
- name : High Waisted Wide Leg Pants - Black | season : FW21 | brand : beaker | color : Black | style : 스커트 | gender : 여성 <|endoftext|>
- name : 에센셜 와이드핏 데님 팬츠 - 스카이블루 | season : FW23 | brand : 8seconds | color : 스카이블루 | fit : 와이드핏 | washing : 워싱 | material : 데님 | style : 팬츠 <|endoftext|>
+ name : [4Way Stretch] 릴렉스핏 밴딩 슬랙스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 팬츠, 슬랙스 <|endoftext|>
+ name : ❄️시즌오프❄️ Denim Mixed Skirt - Black | season : FW23 | brand : beaker | color : Black | material : 데님 | style : 스커트 <|endoftext|>
+ name : [Green] 배색 V넥 베스트 - 화이트 | season : SS24 | brand : beanpole | color : 화이트 | material : 면 | style : 베스트 | pattern/print : 자수 <|endoftext|>
+ name : Balmacaan Coat - Black | season : FW23 | brand : beaker | color : Black | style : 발마칸 코트 | material : 울 혼방 | length : 긴 기장 <|endoftext|>
+ name : Haus Selvedge Denim Pants - Blue | season : FW23 | brand : beaker | color : Blue | style : 팬츠 | material : 가죽, 데님 | pattern/print : 자수, 로고 <|endoftext|>
+ name : Round Neck Half Jacket - Navy | season : SS23 | brand : kuhoplus | color : Navy | material : 코튼 리넨 혼방 | gender : 여성 | style : 재킷 <|endoftext|>
+ name : 💛기간한정+추가할인💛 코튼트윌 빅헤릿 체크 리버서블 버킷햇 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | material : 면 | pattern/print : 로고, 체크 <|endoftext|>
+ name : Essential Big Pocket Shirts - Lemon | season : SS23 | brand : kuhoplus | color : Lemon | material : 코튼 | style : 셔츠 | pattern/print : 자수 | gender : 여성 <|endoftext|>
+ name : High Waisted Wide Leg Pants - Black | season : FW21 | brand : beaker | color : Black | gender : 여성 <|endoftext|>
+ name : 에센셜 와이드핏 데님 팬츠 - 스카이블루 | season : FW23 | brand : 8seconds | color : 스카이블루 | washing : 워싱 | style : 데님 팬츠 | material : 데님 | fit : 와이드핏 <|endoftext|>
  name : Knit Shorts - Navy | season : SS23 | brand : beaker | color : Navy | style : 팬츠 <|endoftext|>
- name : Slit Sleeve Knit Top - Beige | season : FW22 | brand : beaker | color : Beige | style : 탑 | gender : 여성 <|endoftext|>
+ name : Slit Sleeve Knit Top - Beige | season : FW22 | brand : beaker | color : Beige | gender : 여성 <|endoftext|>
  name : Halter Wrap Blouse - Navy | season : FW23 | brand : beaker | color : Navy | style : 블라우스 | material : 리넨, 레이온 혼방 | neck_detail : 홀터넥 <|endoftext|>
  name : ❄️시즌오프❄️ City Night Box Tee - Purple | season : FW23 | brand : beaker | color : Purple | style : 티셔츠 | material : 레이온 <|endoftext|>
  name : ❄️시즌오프❄️ Via Lucas Baggy Pants - Beige | season : FW23 | brand : beaker | color : Beige |  <|endoftext|>
- name : 빈티지워싱 원턱 와이드 데님팬츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | fit : 와이드핏 | washing : 워싱 | tuck : 원턱 | material : 데님 | style : 팬츠 <|endoftext|>
- name : 방풍안감 풀집업 니트 - 애쉬 | season : FW23 | brand : beanpole | color : 애쉬 | neck_detail : 풀집업 | style : 카디건 | material : 울 <|endoftext|>
- name : Women Velvet Corduroy Easy Pants - Ivory | season : SS23 | brand : beaker | color : Ivory | material : 벨벳, 코듀로이 | style : 밴딩 팬츠 <|endoftext|>
- name : 코튼 하이넥 야상형 점퍼 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | neck_detail : 하이넥 | length : 짧은 기장 | material : 면, 코튼 | style : 점퍼 <|endoftext|>
+ name : 빈티지워싱 원턱 와이드 데님팬츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | tuck : 원턱 | washing : 워싱 | style : 데님 팬츠 | material : 데님 | fit : 와이드핏 <|endoftext|>
+ name : 방풍안감 풀집업 니트 - 애쉬 | season : FW23 | brand : beanpole | color : 애쉬 | neck_detail : 풀집업 | material : 울 | style : 카디건 <|endoftext|>
+ name : Women Velvet Corduroy Easy Pants - Ivory | season : SS23 | brand : beaker | color : Ivory | style : 밴딩 팬츠 | material : 벨벳, 코듀로이 <|endoftext|>
+ name : 코튼 하이넥 야상형 점퍼 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | material : 면, 코튼 | length : 짧은 기장 | neck_detail : 하이넥 | style : 점퍼 <|endoftext|>
  name : Cotton Jacquard Volume Top Blouse - Black | season : FW23 | brand : kuho | color : Black | fabric_style : 자카드 | style : 블라우스 <|endoftext|>
- name : Flower Denim Long Skirt - Blue | season : SS24 | brand : beaker | color : Blue | material : 가죽, 데님 | style : 스커트 | washing : 워싱 | length : 긴 기장 <|endoftext|>
- name : [BIKE WE LIKE] 블랙 긴팔 그래픽 라운드 티셔츠 | season : FW22 | brand : beanpole | style : 티셔츠 | material : 코튼 <|endoftext|>
+ name : Flower Denim Long Skirt - Blue | season : SS24 | brand : beaker | color : Blue | washing : 워싱 | material : 가죽, 데님 | pattern/print : 자수 | style : 데님 스커트 | length : 긴 기장 <|endoftext|>
+ name : [BIKE WE LIKE] 블랙 긴팔 그래픽 라운드 티셔츠 | season : FW22 | brand : beanpole | material : 코튼 | style : 티셔츠 <|endoftext|>
  name : [좋은건하나더] 스트라이프 골지 양말 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | pattern/print : 스트라이프 <|endoftext|>
- name : 양면지 트리플 레터링 반소매 티셔츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | sleeves_length : 반소매 | style : 티셔츠 | pattern/print : 레터링 <|endoftext|>
+ name : 양면지 트리플 레터링 반소매 티셔츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | style : 반소매 티셔츠 | pattern/print : 레터링 | sleeves_length : 반소매 <|endoftext|>
  name : 니트 베스트 - 라이트 핑크 | season : FW23 | brand : 8seconds | color : 라이트 핑크 | style : 베스트 <|endoftext|>
- name : Graphic Point T-Shirts - White | season : SS23 | brand : kuhoplus | color : White | sleeves_length : 반소매 | style : 티셔츠 | material : 저지, 코튼 <|endoftext|>
+ name : Graphic Point T-Shirts - White | season : SS23 | brand : kuhoplus | color : White | material : 저지, 코튼 | style : 반소매 티셔츠 | sleeves_length : 반소매 <|endoftext|>
  name : Ultima Dress - Light Pink | season : SS24 | brand : beaker | color : Light Pink |  <|endoftext|>
  name : 코듀로이 오버핏 셔켓 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | material : 코듀로이 | fit : 오버핏 <|endoftext|>
  name : 파일 바닥 스포츠 삭스 - 블랙 | season : SS22 | brand : 8seconds | color : 블랙 |  <|endoftext|>
- name : 버튼 디테일 브이넥 카디건 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | style : 카디건 | neck_detail : 브이넥 <|endoftext|>
- name : ❄️시즌오프❄️ Logo Tape Pant - Hazel | season : FW23 | brand : beaker | color : Hazel | pattern/print : 로고 | style : 슬랙스 | length : 긴 기장 <|endoftext|>
+ name : 버튼 디테일 브이넥 카디건 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | neck_detail : 브이넥 | style : 카디건 <|endoftext|>
+ name : ❄️시즌오프❄️ Logo Tape Pant - Hazel | season : FW23 | brand : beaker | color : Hazel | style : 팬츠, 슬랙스 | length : 긴 기장 | pattern/print : 로고 <|endoftext|>
  name : [좋은건하나더] 스포티 레터링 양말 - 화이트 | season : SS24 | brand : 8seconds | color : 화이트 | pattern/print : 레터링 | length : 긴 기장 <|endoftext|>
- name : ❄️시즌오프❄️ Paneled Denim Pants - Indigo | season : FW23 | brand : beaker | color : Indigo | material : 면, 데님 | style : 팬츠 <|endoftext|>
- name : 레이어드 미니 원피스 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | style : 원피스 | washing : 워싱 <|endoftext|>
- name : [UNI8] 데님 집업 블루종 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | style : 블루종 | washing : 워싱 | material : 데님 <|endoftext|>
+ name : ❄️시즌오프❄️ Paneled Denim Pants - Indigo | season : FW23 | brand : beaker | color : Indigo | material : 면, 데님 | style : 데님 팬츠 <|endoftext|>
+ name : 레이어드 미니 원피스 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | style : 뷔스티에 원피스 | neck_detail : 터틀넥, 라운드넥 | washing : 워싱 | fit : 슬림핏 <|endoftext|>
+ name : [UNI8] 데님 집업 블루종 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | washing : 워싱 | material : 데님 | style : 블루종 <|endoftext|>
  name : 부클 자수 풀오버 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | pattern/print : 자수 <|endoftext|>
  name : Kx-014 - Silver | season : FW23 | brand : beaker | color : Silver |  <|endoftext|>
- name : Sp Processing Fleece Big Size Crew - Red | season : FW23 | brand : beaker | color : Red | washing : 워싱 | material : 면 | style : 셔츠 <|endoftext|>
- name : 스티치 라운드넥 재킷 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | neck_detail : 라운드넥 | style : 재킷 <|endoftext|>
+ name : Sp Processing Fleece Big Size Crew - Red | season : FW23 | brand : beaker | color : Red | washing : 워싱 | material : 면 | style : 셔츠 | length : 짧은 기장 <|endoftext|>
+ name : 스티치 라운드넥 재킷 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | neck_detail : 라운드넥 | length : 짧은 기장 | style : 재킷 <|endoftext|>
  name : Signature Mac Trench Coat - Beige | season : SS23 | brand : kuhoplus | color : Beige | material : 코튼 <|endoftext|>
- name : 신슐레이트 하이넥 롱 패딩코트 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | filling : 패딩 | neck_detail : 하이넥 | style : 코트 <|endoftext|>
- name : V-Neck Regular Fit Knit Vest - Navy | season : FW23 | brand : kuho | color : Navy | pattern/print : 로고, 자수 | style : 베스트 <|endoftext|>
- name : 헤리티지 복주머니 참 장식 - 네이비 체크 | season : FW23 | brand : beanpole | color : 네이비 체크 | pattern/print : 로고, 체크 | material : 가죽 <|endoftext|>
+ name : 신슐레이트 하이넥 롱 패딩코트 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 코트 | length : 긴 기장 | neck_detail : 하이넥 | filling : 패딩 <|endoftext|>
+ name : V-Neck Regular Fit Knit Vest - Navy | season : FW23 | brand : kuho | color : Navy | style : 베스트 | pattern/print : 자수, 로고 <|endoftext|>
+ name : 헤리티지 복주머니 참 장식 - 네이비 체크 | season : FW23 | brand : beanpole | color : 네이비 체크 | material : 가죽 | pattern/print : 로고, 체크 <|endoftext|>
  name : 30mm 베이직 사각버클 벨트 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 |  <|endoftext|>
- name : 절개 트임 스트레이트 데님 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | material : 데님 | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Women Ribbed Bolero/Muffler - Black | season : FW23 | brand : beaker | color : Black | style : 카디건 <|endoftext|>
+ name : 절개 트임 스트레이트 데님 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 데님 팬츠 | material : 데님 | length : 긴 기장 <|endoftext|>
+ name : ❄️시즌오프❄️ Women Ribbed Bolero/Muffler - Black | season : FW23 | brand : beaker | color : Black |  <|endoftext|>
  name : 골지 뷔스티에 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 뷔스티에 | material : 저지 <|endoftext|>
- name : Cropped T-Shirt - Khaki | season : SS24 | brand : beaker | color : Khaki | style : 티셔츠 | length : 짧은 기장 | material : 모달, 코튼 <|endoftext|>
- name : [UNI8] 크롭 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | style : 티셔츠 | material : 저지 <|endoftext|>
+ name : Cropped T-Shirt - Khaki | season : SS24 | brand : beaker | color : Khaki | material : 모달, 코튼 | style : 티셔츠 | length : 짧은 기장 <|endoftext|>
+ name : [UNI8] 크롭 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | material : 저지 | style : 티셔츠 | pattern/print : 로고 <|endoftext|>
  name : [좋은건하나더] 플라워 패턴 양말 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | length : 긴 기장 <|endoftext|>
- name : 기모 코튼 롱 스커트 - 브라운 | season : FW23 | brand : 8seconds | color : 브라운 | style : 스커트 | material : 면, 코튼 <|endoftext|>
- name : Parker And Hachi Slouch Drawstring Pants - Blue | season : FW23 | brand : beaker | color : Blue | material : 데님 | style : 팬츠 | fit : 배기핏 <|endoftext|>
+ name : 기모 코튼 롱 스커트 - 브라운 | season : FW23 | brand : 8seconds | color : 브라운 | material : 면, 코튼 | style : 스커트 <|endoftext|>
+ name : Parker And Hachi Slouch Drawstring Pants - Blue | season : FW23 | brand : beaker | color : Blue | style : 데님 팬츠 | material : 데님 | fit : 배기핏 <|endoftext|>
  name : N-642A - Silver | season : FW23 | brand : beaker | color : Silver |  <|endoftext|>
  name : [edit] Wool Slit Detail Basic Skirt - Black | season : FW23 | brand : kuho | color : Black | style : 스커트 <|endoftext|>
  name : Coach Shirt S/S - Charcoal | season : FW23 | brand : beaker | color : Charcoal | material : 면 | style : 셔츠 <|endoftext|>
- name : 코튼 그래픽 크롭 반소매 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | sleeves_length : 반소매 | style : 티셔츠 | material : 코튼 | length : 크롭 기장 <|endoftext|>
- name : 롱 스트레이트 퍼티그 데님 팬츠 - 네이비 | season : SS24 | brand : 8seconds | color : 네이비 | material : 퍼, 데님 | style : 팬츠 | length : 긴 기장 <|endoftext|>
+ name : 코튼 그래픽 크롭 반소매 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | material : 코튼, 데님 | style : 반소매 티셔츠 | length : 크롭 기장 | sleeves_length : 반소매 <|endoftext|>
+ name : 롱 스트레이트 퍼티그 데님 팬츠 - 네이비 | season : SS24 | brand : 8seconds | color : 네이비 | style : 데님 팬츠 | material : 퍼, 데님 | neck_detail : 후드 | length : 긴 기장 <|endoftext|>
  name : ❄️시즌오프❄️ Sweat Pants - Purple | season : FW23 | brand : beaker | color : Purple | material : 면 | style : 팬츠 <|endoftext|>
  name : [좋은건하나더] 코튼혼방 솔리드 골지 양말 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | pattern/print : 솔리드 | material : 면 혼방 <|endoftext|>
  name : Standard Collar Shirt Dress - Navy | season : SS24 | brand : kuho | color : Navy | style : 셔츠 원피스 | material : 폴리 <|endoftext|>
- name : Washing Cutting Cropped Denim Pants - Blue | season : FW23 | brand : kuho | color : Blue | material : 데님 | style : 팬츠 <|endoftext|>
- name : 사이드 스트링 티셔츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | sleeves_length : 반소매 | style : 티셔츠 <|endoftext|>
+ name : Washing Cutting Cropped Denim Pants - Blue | season : FW23 | brand : kuho | color : Blue | washing : 워싱 | style : 데님 팬츠 | material : 데님 <|endoftext|>
+ name : 사이드 스트링 티셔츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 반소매 티셔츠 | material : 데님 | sleeves_length : 반소매 | gender : 여성 <|endoftext|>
  name : 조직감 니트 풀오버 - 카키 | season : SS24 | brand : 8seconds | color : 카키 |  <|endoftext|>
- name : 폴리 오픈 칼라 반소매 블라우스 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | neck_detail : 오픈칼라 | style : 블라우스 | sleeves_length : 반소매 | material : 폴리 <|endoftext|>
- name : Women Easy Pants - Brown | season : FW23 | brand : beaker | color : Brown | style : 베스트 | material : 울 <|endoftext|>
+ name : 폴리 오픈 칼라 반소매 블라우스 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | neck_detail : 오픈칼라 | style : 블라우스 | material : 폴리, 데님 | sleeves_length : 반소매 <|endoftext|>
+ name : Women Easy Pants - Brown | season : FW23 | brand : beaker | color : Brown | style : 팬츠, 베스트 | material : 울 <|endoftext|>
  name : R13 Crewneck W/R13 Stamp - Black | season : FW23 | brand : beaker | color : Black | style : 셔츠 <|endoftext|>
  name : ❄️시즌오프❄️ Men Trademark Distortion Cap - Black | season : FW23 | brand : beaker | color : Black | pattern/print : 자수 <|endoftext|>
- name : ❄️비이커 단독 시즌오프❄️ Cashmere Blend High Neck Pullover - Ivory | season : FW23 | brand : beaker | color : Ivory | material : 캐시미어 혼방 | neck_detail : 터틀넥 <|endoftext|>
+ name : ❄️비이커 단독 시즌오프❄️ Cashmere Blend High Neck Pullover - Ivory | season : FW23 | brand : beaker | color : Ivory | neck_detail : 터틀넥 | material : 캐시미어 혼방 <|endoftext|>
  name : 경량 포켓 카고 팬츠 - 카키 | season : FW23 | brand : 8seconds | color : 카키 | style : 팬츠 | material : 나일론 <|endoftext|>
  name : Women Super Soft Wool Sheer Jersey Turtle - Charcoal | season : FW23 | brand : beaker | color : Charcoal | neck_detail : 터틀넥 | material : 울 <|endoftext|>
- name : ❄️시즌오프❄️ Track Jacket Piping - Grey | season : FW23 | brand : beaker | color : Grey | neck_detail : 칼라 | fit : 레귤러핏 | length : 짧은 기장 | style : 재킷 <|endoftext|>
+ name : ❄️시즌오프❄️ Track Jacket Piping - Grey | season : FW23 | brand : beaker | color : Grey | length : 짧은 기장 | neck_detail : 칼라 | fit : 레귤러핏 | style : 재킷 <|endoftext|>
  name : ❄️시즌오프❄️ ★황찬성 착용★ All Cashmere Crewneck Pullover - Beige | season : FW23 | brand : beaker | color : Beige | material : 캐시미어 <|endoftext|>
  name : 패턴 반소매 원피스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | neck_detail : 브이넥 | style : 원피스 | sleeves_length : 반소매 <|endoftext|>
  name : 폴리 혼방 슬림핏 팬츠 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | material : 폴리 혼방 | fit : 슬림핏 | style : 팬츠 <|endoftext|>
  name : ❄️시즌오프❄️ Villa T Shirt - Green | season : FW23 | brand : beaker | color : Green | style : 티셔츠 | fit : 오버핏 <|endoftext|>
- name : [UNI8] 가먼트다잉 크롭 스웨트셔츠 - 핑크 그레이 | season : FW23 | brand : 8seconds | color : 핑크 그레이 | material : 저지 | style : 스웨트셔츠 <|endoftext|>
+ name : [UNI8] 가먼트다잉 크롭 스웨트셔츠 - 핑크 그레이 | season : FW23 | brand : 8seconds | color : 핑크 그레이 | material : 저지 | style : 스웨트셔츠 | pattern/print : 로고 <|endoftext|>
  name : ❄️시즌오프❄️ Boucle Rolled Beanie - Blue | season : FW23 | brand : beaker | color : Blue |  <|endoftext|>
- name : 립배색 그래픽 반소매 티셔츠 - 라이트그레이 | season : FW23 | brand : 8seconds | color : 라이트그레이 | sleeves_length : 반소매 | style : 티셔츠 | material : 데님, 코튼 | pattern/print : 레터링 <|endoftext|>
+ name : 립배색 그래픽 반소매 티셔츠 - 라이트그레이 | season : FW23 | brand : 8seconds | color : 라이트그레이 | material : 코튼, 데님 | style : 반소매 티셔츠 | pattern/print : 레터링 | sleeves_length : 반소매 <|endoftext|>
  name : [edit] Knit Point Round-Type Blouse - Ivory | season : SS24 | brand : kuho | color : Ivory | style : 블라우스 | gender : 여성 <|endoftext|>
- name : ❄️시즌오프❄️ Pellet - Green | season : FW23 | brand : beaker | color : Green | material : 코듀로이 | style : 팬츠 <|endoftext|>
- name : [보라끌레르 착용] Ribbed Point Slim T-Shirts - Mint | season : SS23 | brand : kuhoplus | color : Mint | sleeves_length : 반소매 | material : 면, 저지 | style : 탑 <|endoftext|>
- name : Volume Wool Jacket - Ivory | season : SS23 | brand : kuhoplus | color : Ivory | style : 재킷 | pattern/print : 헤링본 | material : 울 | length : 크롭 기장 <|endoftext|>
+ name : ❄️시즌오프❄️ Pellet - Green | season : FW23 | brand : beaker | color : Green | style : 팬츠 | material : 코듀로이 <|endoftext|>
+ name : [보라끌레르 착용] Ribbed Point Slim T-Shirts - Mint | season : SS23 | brand : kuhoplus | color : Mint | material : 면, 저지 | style : 탑 | sleeves_length : 반소매 <|endoftext|>
+ name : Volume Wool Jacket - Ivory | season : SS23 | brand : kuhoplus | color : Ivory | material : 울 | length : 크롭 기장 | pattern/print : 헤링본 | style : 재킷 <|endoftext|>
  name : 니트 소매 패치 원피스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 원피스 <|endoftext|>
- name : 코튼 배색 스티치 볼륨 원피스 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | style : 원피스 | material : 코튼 | gender : 여성 <|endoftext|>
- name : 타탄 체크 셔츠형 플레어 원피스 - 그린 | season : FW23 | brand : beanpole | color : 그린 | style : 원피스 | pattern/print : 체크 | gender : 여성 <|endoftext|>
- name : 부클 라운드넥 롱 재킷 - 그레이 | season : SS24 | brand : 8seconds | color : 그레이 | neck_detail : 라운드넥 | style : 재킷 | gender : 여성 | length : 미디 기장 <|endoftext|>
- name : 울 혼방 A라인 니트 스커트 - 브라운 | season : FW23 | brand : beanpole | color : 브라운 | material : 울 혼방 | style : 스커트 | gender : 여성 | fit : A라인 <|endoftext|>
+ name : 코튼 배색 스티치 볼륨 원피스 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | material : 코튼 | style : 원피스 | gender : 여성 <|endoftext|>
+ name : 타탄 체크 셔츠형 플레어 원피스 - 그린 | season : FW23 | brand : beanpole | color : 그린 | style : 셔츠, 플레어 원피스 | gender : 여성 | pattern/print : 체크 <|endoftext|>
+ name : 부클 라운드넥 롱 재킷 - 그레이 | season : SS24 | brand : 8seconds | color : 그레이 | neck_detail : 라운드넥 | style : 코트, 재킷 | length : 미디 기장 | gender : 여성 <|endoftext|>
+ name : 울 혼방 A라인 니트 스커트 - 브라운 | season : FW23 | brand : beanpole | color : 브라운 | fit : A라인 | material : 울 혼방 | style : 스커트 | gender : 여성 <|endoftext|>
  name : 스웨이드 집업 점퍼 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | style : 점퍼 <|endoftext|>
- name : [TAPERED FIT] 애쉬 코튼 조직 치노 팬츠 | season : FW22 | brand : beanpole | fit : 테이퍼드핏 | material : 코튼 | style : 팬츠 <|endoftext|>
+ name : [TAPERED FIT] 애쉬 코튼 조직 치노 팬츠 | season : FW22 | brand : beanpole | material : 코튼 | style : 팬츠 | fit : 테이퍼드핏 <|endoftext|>
  name : 반집업 반소매 칼라 니트 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | neck_detail : 칼라 | sleeves_length : 반소매 <|endoftext|>
  name : 오픈 칼라넥 스웨트 셔츠  - 베이지 | season : SS23 | brand : beanpole | color : 베이지 | neck_detail : 오픈칼라 | material : 면 | style : 셔츠 <|endoftext|>
  name : 💛기간한정+추가할인💛 흑착 부분 체크 자동 버클 벨트 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | pattern/print : 체크 <|endoftext|>
  name : Megan - Navy | season : FW22 | brand : beaker | color : Navy | material : 양가죽, 울 혼방 <|endoftext|>
  name : Earflap Cap - Black | season : FW23 | brand : kuho | color : Black | material : 퍼 <|endoftext|>
- name : [Essential] 베이직 베스트 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | pattern/print : 로고, 자수 | material : 캐시미어 | style : 베스트 <|endoftext|>
+ name : [Essential] 베이직 베스트 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | style : 베스트 | material : 캐시미어 | pattern/print : 자수, 로고 <|endoftext|>
  name : 체커보드 모티브 삭스 - 화이트 | season : SS22 | brand : 8seconds | color : 화이트 |  <|endoftext|>
  name : CLUB 자카드 골지 삭스 - 화이트 | season : FW22 | brand : 8seconds | color : 화이트 | fabric_style : 자카드 | pattern/print : 레터링 <|endoftext|>
- name : 모던피케 레이어드넥 티셔츠 - 라이트 그린 | season : SS23 | brand : beanpole | color : 라이트 그린 | sleeves_length : 반소매 | style : 티셔츠 | fabric_style : 피케 <|endoftext|>
- name : 모달 터틀넥 티셔츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | style : 티셔츠 | neck_detail : 터틀넥 | material : 모달 <|endoftext|>
+ name : 모던피케 레이어드넥 티셔츠 - 라이트 그린 | season : SS23 | brand : beanpole | color : 라이트 그린 | style : 반소매 티셔츠 | sleeves_length : 반소매 | fabric_style : 피케 <|endoftext|>
+ name : 모달 터틀넥 티셔츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | material : 모달 | neck_detail : 터틀넥 | style : 티셔츠 <|endoftext|>
  name : Signature Unbalance Knit Pullover - White | season : SS23 | brand : kuhoplus | color : White | material : 코튼 <|endoftext|>
- name : 시어서커 솔리드 반소매 슬림핏 셔츠 - 네이비 | season : SS23 | brand : beanpole | color : 네이비 | pattern/print : 솔리드 | sleeves_length : 반소매 | fabric_style : 시어서커 | fit : 슬림핏 | style : 셔츠 <|endoftext|>
- name : Women Inner Down Vest - Black | season : FW22 | brand : beaker | color : Black | filling : 패딩, 다운 | style : 베스트 | gender : 여성 <|endoftext|>
+ name : 시어서커 솔리드 반소매 슬림핏 셔츠 - 네이비 | season : SS23 | brand : beanpole | color : 네이비 | pattern/print : 솔리드 | fit : 슬림핏 | style : 셔츠 | sleeves_length : 반소매 | fabric_style : 시어서커 <|endoftext|>
+ name : Women Inner Down Vest - Black | season : FW22 | brand : beaker | color : Black | gender : 여성 | filling : 다운, 패딩 <|endoftext|>
  name : 코튼 슬림 크롭 셔츠 - 스카이블루 | season : FW23 | brand : 8seconds | color : 스카이블루 | material : 면, 코튼 | style : 셔츠 <|endoftext|>
- name : 강아지 자카드 라운드넥 풀오버 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | fabric_style : 자카드 | neck_detail : 라운드넥 <|endoftext|>
- name : Velvet Wide Pants - Black | season : FW23 | brand : kuho | color : Black | material : 벨벳 | style : 팬츠 <|endoftext|>
- name : Unisex 그린 모헤어 체크 패턴 카디건 | season : FW22 | brand : beanpole | style : 카디건 | material : 모헤어 | pattern/print : 체크 <|endoftext|>
+ name : 강아지 자카드 라운드넥 풀오버 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | neck_detail : 라운드넥 | fabric_style : 자카드 <|endoftext|>
+ name : Velvet Wide Pants - Black | season : FW23 | brand : kuho | color : Black | style : 팬츠 | material : 벨벳 <|endoftext|>
+ name : Unisex 그린 모헤어 체크 패턴 카디건 | season : FW22 | brand : beanpole | material : 모헤어 | style : 카디건 | pattern/print : 체크 <|endoftext|>
  name : Tailored Jacket - Black | season : SS24 | brand : beaker | color : Black | style : 재킷 <|endoftext|>
- name : 폴리 원버튼 테일러드 재킷 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 재킷 | material : 폴리 <|endoftext|>
- name : [Green] 변형 조직 라운드넥 베스트 - 네이비 | season : SS24 | brand : beanpole | color : 네이비 | neck_detail : 라운드넥 | pattern/print : 자수 | material : 면 | style : 베스트 <|endoftext|>
+ name : 폴리 원버튼 테일러드 재킷 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | material : 폴리 | style : 재킷 <|endoftext|>
+ name : [Green] 변형 조직 라운드넥 베스트 - 네이비 | season : SS24 | brand : beanpole | color : 네이비 | neck_detail : 라운드넥 | material : 면 | style : 베스트 | pattern/print : 자수 <|endoftext|>
  name : 크롭 집업 셔츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 셔츠 <|endoftext|>
  name : 페이크 스웨이드 오버핏 셔츠 - 애쉬 | season : SS24 | brand : 8seconds | color : 애쉬 | style : 셔츠 | fit : 오버핏 <|endoftext|>
- name : 랩 데님 미니 스커트 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | style : 스커트 | washing : 워싱 | material : 데님 <|endoftext|>
+ name : 랩 데님 미니 스커트 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | washing : 워싱 | material : 데님 | style : 데님 스커트 <|endoftext|>
  name : Velvet Square Neck Blouse - Black | season : FW23 | brand : kuhoplus | color : Black | style : 블라우스 | material : 벨벳 | gender : 여성 <|endoftext|>
  name : ❄️시즌오프❄️ Men Felted Wool Knit P/O - Red | season : FW23 | brand : beaker | color : Red |  <|endoftext|>
- name : 하이넥 퀼티드 유광 숏 패딩 - 브라운 | season : FW23 | brand : 8seconds | color : 브라운 | filling : 패딩 | neck_detail : 하이넥 | style : 점퍼 <|endoftext|>
- name : 23Fw Pin-Tuck Cargo Pants - Black | season : FW23 | brand : beaker | color : Black | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Coat Alvaro - 500 Avorio | season : FW23 | brand : beaker | color : 500 Avorio | style : 재킷 | pattern/print : 체크 <|endoftext|>
- name : ❄️시즌오프❄️ University Jacket Wool Serge - Navy | season : FW23 | brand : beaker | color : Navy | style : 재킷 | material : 울 <|endoftext|>
+ name : 하이넥 퀼티드 유광 숏 패딩 - 브라운 | season : FW23 | brand : 8seconds | color : 브라운 | neck_detail : 하이넥 | filling : 패딩 | style : 점퍼 <|endoftext|>
+ name : 23Fw Pin-Tuck Cargo Pants - Black | season : FW23 | brand : beaker | color : Black | style : 팬츠 | pattern/print : 로고 <|endoftext|>
+ name : ❄️시즌오프❄️ Coat Alvaro - 500 Avorio | season : FW23 | brand : beaker | color : 500 Avorio | style : 재킷, 베스트 | material : 데님 | pattern/print : 체크 <|endoftext|>
+ name : ❄️시즌오프❄️ University Jacket Wool Serge - Navy | season : FW23 | brand : beaker | color : Navy | material : 울 | style : 재킷 <|endoftext|>
  name : ❄️시즌오프❄️ Keira Diamond Geo Print Dress - Black | season : FW23 | brand : beaker | color : Black | material : 레이온 <|endoftext|>
- name : Women Cashmere Blended Knit Pants - Ash | season : FW23 | brand : beaker | color : Ash | fit : 와이드핏 | material : 울, 캐시미어 혼방 | style : 팬츠 <|endoftext|>
+ name : Women Cashmere Blended Knit Pants - Ash | season : FW23 | brand : beaker | color : Ash | style : 팬츠 | material : 울, 캐시미어 혼방 | fit : 와이드핏 <|endoftext|>
  name : 코튼 블렌드 루즈핏 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | style : 긴소매 티셔츠 | material : 코튼, 면 혼방 | sleeves_length : 긴소매 <|endoftext|>
- name : 폴리 혼방 기본핏 재킷 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | style : 재킷 | material : 폴리 혼방 <|endoftext|>
+ name : 폴리 혼방 기본핏 재킷 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | material : 데님, 폴리 혼방 | style : 재킷 <|endoftext|>
  name : ❄️시즌오프❄️ Zipper Knee Multi Pocket Pants - Dark Grey | season : FW23 | brand : beaker | color : Dark Grey | material : 코튼 | style : 팬츠 <|endoftext|>
  name : 울 자전거 컬러자수 솔리드 머플러 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | pattern/print : 자수, 솔리드 | material : 울 <|endoftext|>
- name : 가로수길 그래픽 반소매 티셔츠 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | sleeves_length : 반소매 | style : 티셔츠 | material : 면 | pattern/print : 타이포그래피 <|endoftext|>
- name : ❄️시즌오프❄️ Rus Collar Jumper - Beige | season : FW23 | brand : beaker | color : Beige | neck_detail : 칼라 | style : 점퍼 | fit : 오버핏 | material : 나일론 <|endoftext|>
- name : Betina Beaded Jeans - Blue | season : SS24 | brand : beaker | color : Blue | material : 데님 | style : 팬츠 <|endoftext|>
- name : Signature Highneck Knit Cardigan - Sky Blue | season : FW23 | brand : kuhoplus | color : Sky Blue | style : 카디건 | neck_detail : 하이넥 | gender : 여성 | material : 울 | length : 크롭 기장 <|endoftext|>
+ name : 가로수길 그래픽 반소매 티셔츠 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | material : 면 | style : 반소매 티셔츠 | sleeves_length : 반소매 | pattern/print : 타이포그래피 <|endoftext|>
+ name : ❄️시즌오프❄️ Rus Collar Jumper - Beige | season : FW23 | brand : beaker | color : Beige | neck_detail : 칼라 | fit : 오버핏 | material : 나일론 | style : 점퍼 <|endoftext|>
+ name : Betina Beaded Jeans - Blue | season : SS24 | brand : beaker | color : Blue | style : 데님 팬츠 | material : 데님 <|endoftext|>
+ name : Signature Highneck Knit Cardigan - Sky Blue | season : FW23 | brand : kuhoplus | color : Sky Blue | neck_detail : 칼라, 터틀넥, 하이넥 | material : 울 | length : 크롭 기장 | gender : 여성 | style : 카디건 <|endoftext|>
  name : Heart Bell Pants - Ivory | season : SS24 | brand : beaker | color : Ivory | material : 코튼 | style : 팬츠 <|endoftext|>
- name : 스트라이프 반소매 티셔츠 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | sleeves_length : 반소매 | style : 티셔츠 | material : 면 | pattern/print : 스트라이프 <|endoftext|>
- name : 빅 퀼티드 다운 재킷 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | style : 다운 재킷 | filling : 다운 | length : 짧은 기장 <|endoftext|>
- name : [Essential] 나일론 다이아 퀼팅 롱 재킷 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | style : 퀼팅 재킷 | material : 나일론 | length : 긴 기장 <|endoftext|>
- name : 사각 퀼팅 패딩 아우터 - 카키 | season : FW23 | brand : beanpole | color : 카키 | filling : 패딩 | neck_detail : 하이넥 <|endoftext|>
+ name : 스트라이프 반소매 티셔츠 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | material : 면, 데님 | style : 반소매 티셔츠 | pattern/print : 스트라이프 | sleeves_length : 반소매 <|endoftext|>
+ name : 빅 퀼티드 다운 재킷 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | style : 다운 재킷 | length : 짧은 기장 | filling : 다운 <|endoftext|>
+ name : [Essential] 나일론 다이아 퀼팅 롱 재킷 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | style : 퀼팅 재킷 | material : 나일론, 코듀로이 | neck_detail : 칼라 | length : 긴 기장 | pattern/print : 체크 <|endoftext|>
+ name : 사각 퀼팅 패딩 아우터 - 카키 | season : FW23 | brand : beanpole | color : 카키 | neck_detail : 하이넥 | filling : 패딩 <|endoftext|>
  name : Static Windbreaker - Olive | season : FW23 | brand : beaker | color : Olive | style : 재킷 <|endoftext|>
- name : 레이스 슬리브리스 탑 - 라이트 그레이 | season : FW23 | brand : 8seconds | color : 라이트 그레이 | sleeves_length : 민소매 | style : 티셔츠 | gender : 여성 <|endoftext|>
- name : ❄️시즌오프❄️ Arne Bd 5031 - White | season : FW23 | brand : beaker | color : White | filling : 다운 | material : 수피마 코튼 | style : 셔츠 <|endoftext|>
- name : 부클 트위드 카디건 - 스카이블루 | season : SS24 | brand : 8seconds | color : 스카이블루 | style : 카디건 | pattern/print : 트위드 <|endoftext|>
+ name : 레이스 슬리브리스 탑 - 라이트 그레이 | season : FW23 | brand : 8seconds | color : 라이트 그레이 | sleeves_length : 민소매 | style : 탑, 티셔츠 | gender : 여성 <|endoftext|>
+ name : ❄️시즌오프❄️ Arne Bd 5031 - White | season : FW23 | brand : beaker | color : White | material : 수피마 코튼 | style : 셔츠 | filling : 다운 | fit : 레귤러핏 <|endoftext|>
+ name : 부클 트위드 카디건 - 스카이블루 | season : SS24 | brand : 8seconds | color : 스카이블루 | pattern/print : 트위드 | style : 카디건 <|endoftext|>
  name : [Reorder]Cashmere Crewneck Sweater - Ocean Blue | season : FW23 | brand : beaker | color : Ocean Blue | neck_detail : 라운드넥 <|endoftext|>
- name : 스트라이프 라운드넥 풀오버 - 아이보리 | season : SS24 | brand : 8seconds | color : 아이보리 | neck_detail : 라운드넥 | pattern/print : 스트라이프 <|endoftext|>
+ name : 스트라이프 라운드넥 풀오버 - 아이보리 | season : SS24 | brand : 8seconds | color : 아이보리 | neck_detail : 라운드넥 | material : 데님 | pattern/print : 스트라이프 <|endoftext|>
  name : 나일론 반집업 반소매 아노락 - 스카이블루 | season : FW23 | brand : 8seconds | color : 스카이블루 | sleeves_length : 반소매 | style : 아노락 | material : 나일론 <|endoftext|>
  name : ❄️시즌오프❄️ Classic Fit Easy Pants - Black | season : FW23 | brand : beaker | color : Black | style : 팬츠 <|endoftext|>
- name : Signature Semi Wide Denim Pants - Light Blue | season : SS24 | brand : kuhoplus | color : Light Blue | fit : 와이드핏 | material : 데님, 코튼 | style : 팬츠 <|endoftext|>
- name : 자수 포인트 기모 반집업 스웨트셔츠 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | pattern/print : 자수 | style : 셔츠 <|endoftext|>
- name : Jumbo Coat - Black | season : FW23 | brand : beaker | color : Black | neck_detail : 칼라 | style : 코트 | material : 울 | length : 긴 기장 <|endoftext|>
- name : ❄️시즌오프❄️ Vatnajokull Retro W Hoodie - Black | season : FW23 | brand : beaker | color : Black | filling : 패딩 | style : 경량 패딩 <|endoftext|>
- name : Unbalance Ribbed Knit Cardigan - Grey | season : FW23 | brand : kuhoplus | color : Grey | style : 카디건 | material : 울 혼방 <|endoftext|>
- name : ❄️시즌오프❄️ Over Motion Logo Hoodie Zip-Up - Blue | season : FW23 | brand : beaker | color : Blue | pattern/print : 로고 | fit : 오버핏 | neck_detail : 후드 <|endoftext|>
- name : Ssb L/S T-Shirt - White | season : FW23 | brand : beaker | color : White | pattern/print : 로고 | style : 티셔츠 <|endoftext|>
+ name : Signature Semi Wide Denim Pants - Light Blue | season : SS24 | brand : kuhoplus | color : Light Blue | material : 코튼, 데님 | style : 팬츠 | fit : 와이드핏 <|endoftext|>
+ name : 자수 포인트 기모 반집업 스웨트셔츠 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | style : 스웨트셔츠 | pattern/print : 자수 | material : 데님 <|endoftext|>
+ name : Jumbo Coat - Black | season : FW23 | brand : beaker | color : Black | style : 코트 | material : 울 | neck_detail : 칼라 | length : 긴 기장 <|endoftext|>
+ name : ❄️시즌오프❄️ Vatnajokull Retro W Hoodie - Black | season : FW23 | brand : beaker | color : Black | style : 경량 패딩 | filling : 패딩 <|endoftext|>
+ name : Unbalance Ribbed Knit Cardigan - Grey | season : FW23 | brand : kuhoplus | color : Grey | material : 울 혼방 | gender : 여성 | style : 카디건 <|endoftext|>
+ name : ❄️시즌오프❄️ Over Motion Logo Hoodie Zip-Up - Blue | season : FW23 | brand : beaker | color : Blue | fit : 오버핏 | neck_detail : 후드 | pattern/print : 로고 <|endoftext|>
+ name : Ssb L/S T-Shirt - White | season : FW23 | brand : beaker | color : White | material : 코튼 | style : 티셔츠 | pattern/print : 로고 <|endoftext|>
  name : ❄️시즌오프❄️ Graffiti Down Jacket - Blue | season : FW23 | brand : beaker | color : Blue | filling : 다운 | style : 재킷 <|endoftext|>
- name : 코튼 변형 캐주얼 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 캐주얼 팬츠 | material : 면, 코튼 <|endoftext|>
+ name : 코튼 변형 캐주얼 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 캐주얼 팬츠 | material : 면, 코튼 | neck_detail : 후드 <|endoftext|>
  name : 볼륨 실루엣 블라우스 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | style : 블라우스 <|endoftext|>
- name : 골지 브이넥 카디건형 티셔츠 - 그린 | season : FW23 | brand : 8seconds | color : 그린 | style : 카디건 | neck_detail : 브이넥 <|endoftext|>
- name : ❄️시즌오프❄️ Over Shirt Jumper - Black | season : FW23 | brand : beaker | color : Black | pattern/print : 로고 | style : 셔츠 | material : 나일론 <|endoftext|>
- name : 탑스티치 오버핏 데님 셔츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 데님 셔츠 | material : 데님 | fit : 오버핏 <|endoftext|>
- name : 울 캐시미어 핸드메이드 싱글 코트 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | material : 울 캐시미어 혼방 | style : 코트 | fit : H라인 <|endoftext|>
+ name : 골지 브이넥 카디건형 티셔츠 - 그린 | season : FW23 | brand : 8seconds | color : 그린 | neck_detail : 브이넥 | style : 티셔츠, 카디건 | length : 크롭 기장 | material : 데님 <|endoftext|>
+ name : ❄️시즌오프❄️ Over Shirt Jumper - Black | season : FW23 | brand : beaker | color : Black | style : 셔츠, 점퍼 | button_zipper : 투웨이 지퍼 | material : 나일론 | pattern/print : 로고 <|endoftext|>
+ name : 탑스티치 오버핏 데님 셔츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 탑, 데님 셔츠 | material : 데님 | fit : 오버핏 <|endoftext|>
+ name : 울 캐시미어 핸드메이드 싱글 코트 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | style : 코트 | material : 울 캐시미어 혼방 | fit : H라인 <|endoftext|>
  name : 울혼방 쁘띠 머플러 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | material : 면, 울, 캐시미어 혼방 <|endoftext|>
- name : [Capsule] 버터플라이 반소매 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | sleeves_length : 반소매 | style : 티셔츠 <|endoftext|>
- name : ❄️시즌오프❄️ Tindur Down Jacket - Blue | season : FW23 | brand : beaker | color : Blue | filling : 패딩, 다운 | style : 다운 패딩 <|endoftext|>
- name : ❄️시즌오프❄️ Cs - Purple | season : FW23 | brand : beaker | color : Purple | style : 티셔츠 | material : 면 <|endoftext|>
- name : 알파카 헤링본 하프 코트 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | style : 코트 | pattern/print : 헤링본 <|endoftext|>
+ name : [Capsule] 버터플라이 반소매 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | style : 반소매 티셔츠 | sleeves_length : 반소매 | material : 나일론 <|endoftext|>
+ name : ❄️시즌오프❄️ Tindur Down Jacket - Blue | season : FW23 | brand : beaker | color : Blue | style : 다운 패딩 | filling : 다운, 패딩 <|endoftext|>
+ name : ❄️시즌오프❄️ Cs - Purple | season : FW23 | brand : beaker | color : Purple | material : 면 | style : 티셔츠 <|endoftext|>
+ name : 알파카 헤링본 하프 코트 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | style : 코트 | material : 울 혼방 | pattern/print : 헤링본 <|endoftext|>
  name : 알파카 혼방 집업 쇼트 코트 - 아이보리 | season : FW23 | brand : beanpole | color : 아이보리 | neck_detail : 라운드넥 | style : 코트 | material : 울 <|endoftext|>
  name : Button Point Curved Tuck Pants - Brown | season : FW22 | brand : kuhoplus | color : Brown | material : 폴리 혼방 | style : 팬츠 <|endoftext|>
- name : 배색 플리스 카고 밴딩 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 밴딩 팬츠 | fabric_style : 플리스 <|endoftext|>
+ name : 배색 플리스 카고 밴딩 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 밴딩 팬츠 | fabric_style : 플리스 | neck_detail : 후드 <|endoftext|>
  name : 헤릿체크 숏 더플 코트 - 그린 | season : FW23 | brand : beanpole | color : 그린 | style : 더플 코트 | length : 짧은 기장 | pattern/print : 체크 <|endoftext|>
- name : 배색 스티치 데님 팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | style : 티셔츠 | material : 데님 <|endoftext|>
- name : [ESSENCORE] 카고 버뮤다 데님 쇼츠 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | material : 데님 | style : 버뮤다팬츠 <|endoftext|>
- name : Pintuck Detail Open Blouse - Lime | season : FW23 | brand : kuho | color : Lime | style : 블라우스 <|endoftext|>
- name : 울 블렌디드 크롭 스타디움 점퍼 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | style : 점퍼 | material : 울 <|endoftext|>
- name : ❄️시즌오프❄️ Vatnajokull Powerfill Vest - Black | season : FW23 | brand : beaker | color : Black | material : 폴리 | style : 베스트 <|endoftext|>
+ name : 배색 스티치 데님 팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | style : 데님 팬츠 | material : 데님 <|endoftext|>
+ name : [ESSENCORE] 카고 버뮤다 데님 쇼츠 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | material : 데님 <|endoftext|>
+ name : Pintuck Detail Open Blouse - Lime | season : FW23 | brand : kuho | color : Lime | style : 셔츠, 블라우스 <|endoftext|>
+ name : 울 블렌디드 크롭 스타디움 점퍼 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | material : 울 | style : 점퍼 <|endoftext|>
+ name : ❄️시즌오프❄️ Vatnajokull Powerfill Vest - Black | season : FW23 | brand : beaker | color : Black | style : 베스트 | material : 폴리 <|endoftext|>
  name : 라운드 니트햇 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 |  <|endoftext|>
- name : Field Thai Pants - Navy | season : SS24 | brand : beaker | color : Navy | fit : 와이드핏 | material : 리넨, 레이온 | style : 팬츠 <|endoftext|>
- name : Pocket Detail Shirts - Grey | season : FW19 | brand : kuhoplus | color : Grey | neck_detail : 칼라 | material : 울 혼방 | style : 셔츠 <|endoftext|>
+ name : Field Thai Pants - Navy | season : SS24 | brand : beaker | color : Navy | style : 팬츠 | material : 리넨, 레이온 | fit : 와이드핏 <|endoftext|>
+ name : Pocket Detail Shirts - Grey | season : FW19 | brand : kuhoplus | color : Grey | material : 울 혼방 | style : 셔츠 | neck_detail : 칼라 | gender : 여성 <|endoftext|>
  name : ❄️시즌오프❄️ Scion Reversible Garden Vest - Brown | season : FW23 | brand : beaker | color : Brown | material : 면 | style : 베스트 <|endoftext|>
- name : 브러쉬드 울코튼 체크 셔츠 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | pattern/print : 체크 | style : 셔츠 | material : 울 <|endoftext|>
- name : Women Waves Summer Cotton Shirt - Sky Blue | season : FW23 | brand : beaker | color : Sky Blue | material : 면, 나일론 혼방 | style : 셔츠 | pattern/print : 스트라이프 <|endoftext|>
+ name : 브러쉬드 울코튼 체크 셔츠 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | material : 울 | style : 셔츠 | fit : 레귤러핏 | pattern/print : 체크 <|endoftext|>
+ name : Women Waves Summer Cotton Shirt - Sky Blue | season : FW23 | brand : beaker | color : Sky Blue | material : 면, 나일론 혼방 | style : 셔츠 | pattern/print : 자수, 스트라이프 <|endoftext|>
  name : 울 혼방 롱 더플 코트 - 레드 | season : FW23 | brand : beanpole | color : 레드 | style : 더플 코트 | material : 울 혼방 | fit : 오버핏 | neck_detail : 후드 <|endoftext|>
- name : 블루종 오픈 셔츠 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | style : 블루종 <|endoftext|>
- name : ❄️시즌오프❄️ Y-3 Cl L Belt - Black | season : FW23 | brand : beaker | color : Black | pattern/print : 로고, 레터링 | style : 베스트 <|endoftext|>
- name : 스트라이프 사각 스카프 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | pattern/print : 스트라이프 | material : 실크 <|endoftext|>
+ name : 블루종 오픈 셔츠 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | style : 셔츠, 블루종 <|endoftext|>
+ name : ❄️시즌오프❄️ Y-3 Cl L Belt - Black | season : FW23 | brand : beaker | color : Black | pattern/print : 로고, 레터링 <|endoftext|>
+ name : 스트라이프 사각 스카프 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | material : 실크 | pattern/print : 스트라이프 <|endoftext|>
  name : 플레인 칼라넥 포켓 풀오버 - 라이트핑크 | season : FW23 | brand : 8seconds | color : 라이트핑크 | neck_detail : 칼라 <|endoftext|>
- name : 버튼 크롭 카디건 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | style : 카디건 | neck_detail : 칼라 | length : 짧은 기장 <|endoftext|>
- name : Nerdbear V Neck Cardigan - Navy | season : Seasonless | brand : beaker | color : Navy | style : 카디건 | neck_detail : 브이넥 | pattern/print : 자수 <|endoftext|>
- name : 사이드 배색 와이드핏 데님 팬츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | fit : 와이드핏 | material : 면, 데님 | style : 팬츠 <|endoftext|>
+ name : 버튼 크롭 카디건 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | length : 짧은 기장 | neck_detail : 칼라 | style : 카디건 <|endoftext|>
+ name : Nerdbear V Neck Cardigan - Navy | season : Seasonless | brand : beaker | color : Navy | neck_detail : 브이넥 | pattern/print : 자수 <|endoftext|>
+ name : 사이드 배색 와이드핏 데님 팬츠 - 블루 | season : FW23 | brand : 8seconds | color : 블루 | material : 면, 데님 | style : 데님 팬츠 | fit : 와이드핏 <|endoftext|>
  name : 코르사주 디테일 풀오버 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | fit : 슬림핏 | sleeves_length : 긴소매 <|endoftext|>
  name : Cashmere Knit Gloves - Grey | season : FW23 | brand : kuho | color : Grey | material : 캐시미어 <|endoftext|>
  name : ❄️시즌오프❄️ Low Rise Loose Tailored Trousers - Beige | season : FW23 | brand : beaker | color : Beige | style : 팬츠 <|endoftext|>
  name : 💛기간한정+추가할인💛 남녀공용 버티컬 스트라이프 중목 양말 - 라이트 그레이 | season : FW23 | brand : beanpole | color : 라이트 그레이 | pattern/print : 스트라이프 <|endoftext|>
  name : ❄️시즌오프❄️ Health Ivy Crewneck - Blue | season : FW23 | brand : beaker | color : Blue | style : 셔츠 | fit : 오버핏 <|endoftext|>
- name : 케이블 보더 스트라이프 니트 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | pattern/print : 스트라이프 | material : 울 <|endoftext|>
- name : 모노피케 히든버튼 칼라 티셔츠 - 애쉬 | season : SS23 | brand : beanpole | color : 애쉬 | neck_detail : 칼라 | style : 티셔츠 | button_zipper : 히든 버튼 <|endoftext|>
- name : Cashmere Blend Basic Knit Skirt - Beige | season : SS24 | brand : kuho | color : Beige | style : 스커트 | material : 데님, 캐시미어 <|endoftext|>
+ name : 케이블 보더 스트라이프 니트 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | material : 울 | pattern/print : 스트라이프 <|endoftext|>
+ name : 모노피케 히든버튼 칼라 티셔츠 - 애쉬 | season : SS23 | brand : beanpole | color : 애쉬 | button_zipper : 히든 버튼 | style : 티셔츠 | neck_detail : 칼라 <|endoftext|>
+ name : Cashmere Blend Basic Knit Skirt - Beige | season : SS24 | brand : kuho | color : Beige | material : 데님, 캐시미어 | style : 스커트 <|endoftext|>
  name : 리버시블 사각 버클 벨트 - 블랙 | season : SS24 | brand : beanpole | color : 블랙 | pattern/print : 체크 <|endoftext|>
  name : ❄️시즌오프❄️ Marrian - Black | season : FW23 | brand : beaker | color : Black | material : 면, 폴리 <|endoftext|>
- name : Curved Arm Cardigan - Pink | season : SS24 | brand : beaker | color : Pink | style : 카디건 | neck_detail : 브이넥 <|endoftext|>
- name : Women Essential Turtleneck - Black | season : FW23 | brand : beaker | color : Black | style : 티셔츠 | neck_detail : 터틀넥 <|endoftext|>
- name : 뷔스티에 패치 긴소매 티셔츠 - 블루 | season : SS24 | brand : 8seconds | color : 블루 | style : 긴소매 티셔츠 | sleeves_length : 긴소매 <|endoftext|>
+ name : Curved Arm Cardigan - Pink | season : SS24 | brand : beaker | color : Pink | neck_detail : 브이넥 | style : 카디건 <|endoftext|>
+ name : Women Essential Turtleneck - Black | season : FW23 | brand : beaker | color : Black | neck_detail : 터틀넥 | style : 티셔츠 <|endoftext|>
+ name : 뷔스티에 패치 긴소매 티셔츠 - 블루 | season : SS24 | brand : 8seconds | color : 블루 | style : 뷔스티에, 긴소매 티셔츠 | sleeves_length : 긴소매 <|endoftext|>
  name : Women Color Block Socks - Navy | season : FW23 | brand : beaker | color : Navy | material : 울 혼방 <|endoftext|>
- name : Boyfriend Jean (Levi S) - Black | season : FW23 | brand : beaker | color : Black | material : 데님 | style : 팬츠 <|endoftext|>
- name : Drawing T-Shirt Unisex - Cream | season : SS24 | brand : beaker | color : Cream | fit : 레귤러핏 | pattern/print : 자수 | style : 티셔츠 | material : 코튼 <|endoftext|>
- name : Initial R Boucle Polo Sweater - Grey | season : FW23 | brand : beaker | color : Grey | pattern/print : 로고 | style : 스웨터 | material : 나일론 <|endoftext|>
- name : 숏기장 오버핏 다운 푸퍼 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | filling : 다운 | fit : 오버핏 | neck_detail : 후드 <|endoftext|>
- name : [Green] 빈폴X시드키퍼 그래픽 라운드 스웨트 셔츠 - 브라운 | season : FW23 | brand : beanpole | color : 브라운 | pattern/print : 자수 | style : 셔츠 | material : 코튼 <|endoftext|>
- name : ❄️시즌오프❄️ Women Milled Yak Cashmere Knit Tee - Sky Blue | season : FW23 | brand : beaker | color : Sky Blue | sleeves_length : 반소매 | material : 캐시미어 혼방 <|endoftext|>
+ name : Boyfriend Jean (Levi S) - Black | season : FW23 | brand : beaker | color : Black | washing : 워싱 | style : 팬츠 | material : 데님 <|endoftext|>
+ name : Drawing T-Shirt Unisex - Cream | season : SS24 | brand : beaker | color : Cream | material : 코튼 | style : 티셔츠 | pattern/print : 자수 | fit : 레귤러핏 <|endoftext|>
+ name : Initial R Boucle Polo Sweater - Grey | season : FW23 | brand : beaker | color : Grey | style : 스웨터 | material : 나일론 | pattern/print : 로고 <|endoftext|>
+ name : 숏기장 오버핏 다운 푸퍼 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | fit : 오버핏 | neck_detail : 후드 | filling : 다운 <|endoftext|>
+ name : [Green] 빈폴X시드키퍼 그래픽 라운드 스웨트 셔츠 - 브라운 | season : FW23 | brand : beanpole | color : 브라운 | material : 코튼 | style : 셔츠 | pattern/print : 자수 <|endoftext|>
+ name : ❄️시즌오프❄️ Women Milled Yak Cashmere Knit Tee - Sky Blue | season : FW23 | brand : beaker | color : Sky Blue | material : 데님, 캐시미어 혼방 | length : 짧은 기장 | sleeves_length : 반소매 <|endoftext|>
  name : [좋은건하나더] [3PCS] 베이직 스니커즈 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 |  <|endoftext|>
- name : ❄️시즌오프❄️ Knitted Jacket - Charcoal | season : FW23 | brand : beaker | color : Charcoal | style : 재킷 | material : 면 <|endoftext|>
+ name : ❄️시즌오프❄️ Knitted Jacket - Charcoal | season : FW23 | brand : beaker | color : Charcoal | material : 면 | style : 재킷 <|endoftext|>
  name : Denim Like Tweed Detail H-Line Skirt - Navy | season : FW23 | brand : kuho | color : Navy | pattern/print : 자수 | material : 데님 <|endoftext|>
- name : Winona Denim Skirt - Black | season : FW23 | brand : beaker | color : Black | pattern/print : 로고 | style : 스커트 | washing : 워싱 | material : 데님 | fit : H라인 <|endoftext|>
+ name : Winona Denim Skirt - Black | season : FW23 | brand : beaker | color : Black | washing : 워싱 | fit : H라인 | material : 데님 | style : 데님 스커트 | pattern/print : 로고 <|endoftext|>
  name : 부클 루즈핏 후드 풀오버 - 스카이블루 | season : SS24 | brand : 8seconds | color : 스카이블루 | neck_detail : 후드 <|endoftext|>
- name : 스카시 풀오버 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 |  <|endoftext|>
- name : 토글 버튼 후드 카디건 - 베이지 | season : SS24 | brand : 8seconds | color : 베이지 | style : 카디건 | neck_detail : 후드 | length : 크롭 기장 <|endoftext|>
+ name : 스카시 풀오버 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | pattern/print : 스트라이프 <|endoftext|>
+ name : 토글 버튼 후드 카디건 - 베이지 | season : SS24 | brand : 8seconds | color : 베이지 | length : 크롭 기장 | style : 후드 카디건 | neck_detail : 후드 <|endoftext|>
  name : Hooded Jacket - Navy | season : SS24 | brand : beaker | color : Navy | washing : 워싱 | material : 면, 폴리 | fit : 오버핏 | neck_detail : 후드 <|endoftext|>
- name : 하이넥 구스 다운 코트 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | filling : 다운, 구스 | neck_detail : 하이넥 | material : 면 | style : 다운 코트 <|endoftext|>
- name : 벨벳라이크 페이크레더 숏 패딩 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | filling : 패딩 | neck_detail : 하이넥 | material : 벨벳 | style : 점퍼 <|endoftext|>
- name : [셀럽's pick] Signature Semi Overfit Jacket - Beige | season : FW23 | brand : kuhoplus | color : Beige | neck_detail : 칼라 | pattern/print : 자수, 체크, 스트라이프 | style : 재킷 | fit : 세미오버핏 | material : 울 <|endoftext|>
- name : Women Wool Balmacaan Coat - Khaki | season : FW23 | brand : beaker | color : Khaki | style : 코트 | material : 울 <|endoftext|>
- name : ❄️시즌오프❄️ Cropped Long Sleeve - Ivory | season : FW23 | brand : beaker | color : Ivory | style : 티셔츠 | length : 짧은 기장 | material : 면 <|endoftext|>
- name : Women Tc Inner T-Shirt - Sky Blue | season : SS23 | brand : beaker | color : Sky Blue | pattern/print : 로고 | style : 티셔츠 | material : 저지, 코튼 폴리 혼방 <|endoftext|>
+ name : 하이넥 구스 다운 코트 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | style : 다운 코트 | material : 면 | filling : 구스, 다운 | neck_detail : 하이넥 <|endoftext|>
+ name : 벨벳라이크 페이크레더 숏 패딩 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | material : 벨벳 | neck_detail : 하이넥 | filling : 패딩 | style : 점퍼 <|endoftext|>
+ name : [셀럽's pick] Signature Semi Overfit Jacket - Beige | season : FW23 | brand : kuhoplus | color : Beige | material : 울 | pattern/print : 자수, 체크, 스트라이프 | neck_detail : 칼라 | fit : 세미오버핏 | style : 재킷 <|endoftext|>
+ name : Women Wool Balmacaan Coat - Khaki | season : FW23 | brand : beaker | color : Khaki | style : 발마칸 코트 | material : 울 <|endoftext|>
+ name : ❄️시즌오프❄️ Cropped Long Sleeve - Ivory | season : FW23 | brand : beaker | color : Ivory | material : 면, 데님 | style : 티셔츠 | length : 짧은 기장 <|endoftext|>
+ name : Women Tc Inner T-Shirt - Sky Blue | season : SS23 | brand : beaker | color : Sky Blue | neck_detail : 라운드넥 | material : 저지, 코튼 폴리 혼방 | style : 티셔츠 | pattern/print : 로고 <|endoftext|>
  name : ❄️시즌오프❄️ Drawstring Shirt - Sand | season : FW23 | brand : beaker | color : Sand | material : 면, 나일론 혼방 | style : 셔츠 <|endoftext|>
  name : Karuishi Hoody - Black | season : FW22 | brand : beaker | color : Black | gender : 남성 | fabric_style : 플리스 | neck_detail : 후드 <|endoftext|>
  name : 🎀 이번주 신상 🎀 엘라스틱 라운드 버클 벨트 - 네이비 | season : SS24 | brand : beanpole | color : 네이비 | material : 가죽 <|endoftext|>
  name : ❄️시즌오프❄️ Raw Turtleneck - White | season : FW23 | brand : beaker | color : White | neck_detail : 터틀넥 | material : 울 <|endoftext|>
  name : 써커 솔리드 테이퍼드핏 슬랙스 - 블랙 | season : SS23 | brand : beanpole | color : 블랙 | pattern/print : 솔리드 | fit : 테이퍼드핏 | style : 슬랙스 <|endoftext|>
- name : [Golf] Denim Like Jogger Pants - Ivory | season : FW23 | brand : kuho | color : Ivory | material : 데님, 저지 | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Og Logo Full Zip Hoodie - Grey | season : FW23 | brand : beaker | color : Grey | material : 면, 폴리 | neck_detail : 후드 <|endoftext|>
- name : Naval Watch Cap (Non Seasonal) - Orange | season : FW23 | brand : beaker | color : Orange | pattern/print : 로고 | material : 울 <|endoftext|>
- name : 리브드 브이넥 카디건 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 카디건 | neck_detail : 브이넥 <|endoftext|>
- name : 체크 이중지 더플 코트 - 옐로이시 브라운 | season : FW23 | brand : beanpole | color : 옐로이시 브라운 | style : 더플 코트 | pattern/print : 체크 | material : 울 <|endoftext|>
+ name : [Golf] Denim Like Jogger Pants - Ivory | season : FW23 | brand : kuho | color : Ivory | material : 저지, 데님 | style : 팬츠 <|endoftext|>
+ name : ❄️시즌오프❄️ Og Logo Full Zip Hoodie - Grey | season : FW23 | brand : beaker | color : Grey | material : 면, 폴리 | neck_detail : 후드 | pattern/print : 로고 <|endoftext|>
+ name : Naval Watch Cap (Non Seasonal) - Orange | season : FW23 | brand : beaker | color : Orange | material : 울 | pattern/print : 로고 <|endoftext|>
+ name : 리브드 브이넥 카디건 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | neck_detail : 브이넥 | style : 카디건 <|endoftext|>
+ name : 체크 이중지 더플 코트 - 옐로이시 브라운 | season : FW23 | brand : beanpole | color : 옐로이시 브라운 | style : 더플 코트 | material : 울, 데님 | filling : 패딩 | pattern/print : 체크 <|endoftext|>
  name : [🐼바오 패밀리] 그래픽 니트 풀오버 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 |  <|endoftext|>
  name : 체크 미디스커트 - 브라운 | season : FW23 | brand : 8seconds | color : 브라운 | pattern/print : 체크 <|endoftext|>
  name : 베이지 글리터 롱 삭스 | season : SS22 | brand : 8seconds | material : 면 혼방 <|endoftext|>
- name : [Green] 버뮤다 쇼트 데님 팬츠 - 아이보리 | season : SS23 | brand : beanpole | color : 아이보리 | material : 데님, 면 혼방 | style : 팬츠 <|endoftext|>
- name : 울 캐시미어 미디엄 코트 - 카멜 | season : FW23 | brand : beanpole | color : 카멜 | material : 울, 캐시미어 | style : 코트 <|endoftext|>
- name : Mustang Duffel Coat - Brown | season : FW23 | brand : beaker | color : Brown | washing : 워싱 | fit : 오버핏 | length : 긴 기장 <|endoftext|>
- name : Signature Layered Sleeveless Top - Black | season : SS23 | brand : kuhoplus | color : Black | material : 폴리 | style : 탑 <|endoftext|>
- name : Men Solid Blue Shirt - Blue | season : FW23 | brand : beaker | color : Blue | material : 폴리, 코튼 | style : 셔츠 <|endoftext|>
+ name : [Green] 버뮤다 쇼트 데님 팬츠 - 아이보리 | season : SS23 | brand : beanpole | color : 아이보리 | material : 데님, 면 혼방 | style : 데님 팬츠 <|endoftext|>
+ name : 울 캐시미어 미디엄 코트 - 카멜 | season : FW23 | brand : beanpole | color : 카멜 | style : 코트 | material : 울, 데님, 캐시미어 | gender : 여성 <|endoftext|>
+ name : Mustang Duffel Coat - Brown | season : FW23 | brand : beaker | color : Brown | washing : 워싱 | fit : 오버핏 | neck_detail : 후드 | material : 퍼 | length : 긴 기장 | pattern/print : 로고 <|endoftext|>
+ name : Signature Layered Sleeveless Top - Black | season : SS23 | brand : kuhoplus | color : Black | style : 탑 | material : 폴리 <|endoftext|>
+ name : Men Solid Blue Shirt - Blue | season : FW23 | brand : beaker | color : Blue | material : 코튼, 폴리 | style : 셔츠 <|endoftext|>
  name : [UNI8] 페이크 레더 숏 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 팬츠 <|endoftext|>
- name : Drawing Parachute Pants - Print Cream | season : SS24 | brand : beaker | color : Print Cream | fit : 와이드핏 | style : 팬츠 | material : 나일론 <|endoftext|>
- name : [Essential] 남녀공용 코튼 케이블 라운드 니트 - 그린 | season : SS24 | brand : beanpole | color : 그린 | style : 티셔츠 | material : 면, 코튼 | gender : 남녀공용 <|endoftext|>
- name : [RDS인증] 네이비 나일론 옥스포드 조직 구스 다운 집업 베스트 | season : FW22 | brand : beanpole | filling : 다운, 구스 | style : 베스트 | neck_detail : 후드 | material : 나일론 <|endoftext|>
+ name : Drawing Parachute Pants - Print Cream | season : SS24 | brand : beaker | color : Print Cream | style : 팬츠 | fit : 와이드핏 | material : 나일론 <|endoftext|>
+ name : [Essential] 남녀공용 코튼 케이블 라운드 니트 - 그린 | season : SS24 | brand : beanpole | color : 그린 | gender : 남녀공용 | material : 면, 코튼 | fit : 레귤러핏 <|endoftext|>
+ name : [RDS인증] 네이비 나일론 옥스포드 조직 구스 다운 집업 베스트 | season : FW22 | brand : beanpole | style : 베스트 | filling : 구스, 다운 | neck_detail : 후드 | material : 나일론 <|endoftext|>
  name : Back Button Knit Pullover - Light Green | season : SS20 | brand : kuhoplus | color : Light Green | fit : 레귤러핏 <|endoftext|>
- name : Cotton Blend Knit Point Regular Fit Sweatshirt - Purple | season : FW23 | brand : kuho | color : Purple | neck_detail : 보트넥 | style : 셔츠 | fabric_style : 저지 원단 | material : 저지 <|endoftext|>
+ name : Cotton Blend Knit Point Regular Fit Sweatshirt - Purple | season : FW23 | brand : kuho | color : Purple | neck_detail : 보트넥 | material : 저지 | style : 셔츠 | fabric_style : 저지 원단 <|endoftext|>
  name : 밴딩 플레어 스커트 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | style : 플레어 스커트 <|endoftext|>
  name : Lunar Zip Hoodie - Brown | season : FW23 | brand : beaker | color : Brown | neck_detail : 후드 <|endoftext|>
- name : [Maison de eight] 저지 디테일 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | style : 티셔츠 | material : 저지 | gender : 여성 <|endoftext|>
+ name : [Maison de eight] 저지 디테일 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | material : 저지 | style : 티셔츠 | gender : 여성 <|endoftext|>
  name : [좋은건하나더] 플라워 골지 양말 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | length : 긴 기장 <|endoftext|>
  name : 옥스포드 스트라이프 오버핏 셔츠 - 라이트 그린 | season : FW23 | brand : 8seconds | color : 라이트 그린 | washing : 워싱 | style : 셔츠 | pattern/print : 스트라이프 | fit : 오버핏 <|endoftext|>
- name : 모달 샌드워싱 밴딩 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | material : 모달, 저지 | style : 밴딩 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Boots Cut Corduroy Denim - Ash Blue | season : FW23 | brand : beaker | color : Ash Blue | material : 퍼, 데님, 코듀로이 | pattern/print : 로고 | washing : 코팅, 바이오 워싱 | style : 팬츠 <|endoftext|>
- name : Short Sleeve Classic Crew Neck T-Shirt - White | season : SS22 | brand : beaker | color : White | gender : 남성 | style : 티셔츠 | material : 코튼 <|endoftext|>
- name : [Essential] 남녀공용 베이직 라운드넥 티셔츠 - 화이트 | season : SS23 | brand : beanpole | color : 화이트 | neck_detail : 라운드넥 | material : 수피마 코튼 | style : 티셔츠 | gender : 남녀공용 <|endoftext|>
- name : 배색 집업 카디건 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 카디건 <|endoftext|>
+ name : 모달 샌드워싱 밴딩 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 밴딩 팬츠 | material : 저지, 모달 <|endoftext|>
+ name : ❄️시즌오프❄️ Boots Cut Corduroy Denim - Ash Blue | season : FW23 | brand : beaker | color : Ash Blue | washing : 코팅, 바이오 워싱 | style : 데님 팬츠 | material : 퍼, 데님, 코듀로이 | pattern/print : 로고 <|endoftext|>
+ name : Short Sleeve Classic Crew Neck T-Shirt - White | season : SS22 | brand : beaker | color : White | gender : 남성 | material : 코튼, 데님 <|endoftext|>
+ name : [Essential] 남녀공용 베이직 라운드넥 티셔츠 - 화이트 | season : SS23 | brand : beanpole | color : 화이트 | material : 수피마 코튼 | neck_detail : 라운드넥 | gender : 남녀공용 | style : 티셔츠 <|endoftext|>
+ name : 배색 집업 카디건 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | neck_detail : 라운드넥 | style : 집업 카디건 <|endoftext|>
  name : Fayeh Ls - White | season : SS24 | brand : beaker | color : White |  <|endoftext|>
- name : Nerdbear R Neck Pullover - Beige | season : Seasonless | brand : beaker | color : Beige | pattern/print : 자수 | material : 울 <|endoftext|>
- name : Love Nounou Tee - White | season : Seasonless | brand : beaker | color : White | style : 티셔츠 <|endoftext|>
- name : [ESSENCORE] 로라이즈 데님 팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | washing : 워싱 | material : 데님 | style : 팬츠 <|endoftext|>
- name : [B-Cycle] Unisex 네이비 패디드 더플 코트 | season : FW22 | brand : beanpole | style : 더플 코트 | material : 폴리, 코튼, 나일론 혼방 | pattern/print : 체크 <|endoftext|>
+ name : Nerdbear R Neck Pullover - Beige | season : Seasonless | brand : beaker | color : Beige | gender : 남성, 여성 | material : 울 | pattern/print : 자수 <|endoftext|>
+ name : Love Nounou Tee - White | season : Seasonless | brand : beaker | color : White |  <|endoftext|>
+ name : [ESSENCORE] 로라이즈 데님 팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | style : 데님 팬츠 | length : 크롭 기장 | material : 데님 <|endoftext|>
+ name : [B-Cycle] Unisex 네이비 패디드 더플 코트 | season : FW22 | brand : beanpole | style : 더플 코트 | material : 코튼, 폴리, 나일론 혼방 | filling : 패딩 | pattern/print : 체크 <|endoftext|>
  name : [좋은건하나더] 코튼혼방 솔리드 양말 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | pattern/print : 솔리드 | material : 면 <|endoftext|>
- name : ❄️시즌오프❄️ Glass Skirt - Orange | season : FW23 | brand : beaker | color : Orange | pattern/print : 도트 | style : 스커트 <|endoftext|>
- name : 코튼 반소매 원피스 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | style : 원피스 | sleeves_length : 반소매 | material : 면, 코튼 | gender : 여성 <|endoftext|>
- name : The Dodger Ankle - Ivory | season : SS24 | brand : beaker | color : Ivory | material : 데님, 폴리우레탄 혼방 | style : 팬츠 <|endoftext|>
+ name : ❄️시즌오프❄️ Glass Skirt - Orange | season : FW23 | brand : beaker | color : Orange | pattern/print : 도트 | style : 스커트 | length : 긴 기장 <|endoftext|>
+ name : 코튼 반소매 원피스 - 네이비 | season : FW23 | brand : 8seconds | color : 네이비 | material : 면, 코튼 | style : 셔츠, 원피스 | sleeves_length : 반소매 | gender : 여성 <|endoftext|>
+ name : The Dodger Ankle - Ivory | season : SS24 | brand : beaker | color : Ivory | material : 데님, 폴리우레탄 혼방 | style : 데님 팬츠 <|endoftext|>
  name : 강연 라운드넥 니트 베스트 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | neck_detail : 라운드넥 | style : 베스트 <|endoftext|>
- name : Men Down Hooded Jacket - Olive | season : FW23 | brand : beaker | color : Olive | style : 다운 재킷 | filling : 다운 | material : 폴리 <|endoftext|>
- name : Single Breasted Regular Fit Jacket - White | season : SS23 | brand : kuhoplus | color : White | style : 재킷 | material : 코튼 <|endoftext|>
+ name : Men Down Hooded Jacket - Olive | season : FW23 | brand : beaker | color : Olive | style : 다운 재킷 | material : 폴리 | filling : 다운 <|endoftext|>
+ name : Single Breasted Regular Fit Jacket - White | season : SS23 | brand : kuhoplus | color : White | material : 코튼 | style : 재킷 <|endoftext|>
  name : 23Fw Panelded Sweat Pants - Blue | season : FW23 | brand : beaker | color : Blue | style : 팬츠 <|endoftext|>
  name : 코듀로이 자수 볼캡 - 스카이 블루 | season : FW23 | brand : 8seconds | color : 스카이 블루 | material : 코듀로이 | pattern/print : 자수 <|endoftext|>
- name : BEAKER x TASTY FRANCE Graphic Short Sleeve - White | season : Seasonless | brand : beaker | color : White | sleeves_length : 반소매 | style : 티셔츠 <|endoftext|>
- name : Nerdbear Pants - White | season : Seasonless | brand : beaker | color : White | pattern/print : 자수 | style : 팬츠 <|endoftext|>
- name : 카라 배색 패딩 점퍼 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | filling : 패딩 | neck_detail : 칼라 | style : 점퍼 | washing : 코팅 <|endoftext|>
- name : 티어드 반소매 블라우스 - 스카이블루 | season : FW23 | brand : 8seconds | color : 스카이블루 | style : 블라우스 | sleeves_length : 반소매 <|endoftext|>
+ name : BEAKER x TASTY FRANCE Graphic Short Sleeve - White | season : Seasonless | brand : beaker | color : White | gender : 남성, 여성 | style : 반소매 티셔츠 | sleeves_length : 반소매 | fit : 레귤러핏 <|endoftext|>
+ name : Nerdbear Pants - White | season : Seasonless | brand : beaker | color : White | pattern/print : 자수 | neck_detail : 후드 <|endoftext|>
+ name : 카라 배색 패딩 점퍼 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | washing : 코팅 | neck_detail : 칼라 | filling : 패딩 | style : 점퍼 <|endoftext|>
+ name : 티어드 반소매 블라우스 - 스카이블루 | season : FW23 | brand : 8seconds | color : 스카이블루 | style : 블라우스 | sleeves_length : 반소매 | gender : 여성 <|endoftext|>
  name : Flow Jacket - Black | season : SS24 | brand : beaker | color : Black | style : 재킷 <|endoftext|>
- name : ❄️시즌오프❄️ Oversied Trouser Jean - Blue | season : FW23 | brand : beaker | color : Blue | washing : 워싱 | material : 데님 | style : 팬츠 <|endoftext|>
+ name : ❄️시즌오프❄️ Oversied Trouser Jean - Blue | season : FW23 | brand : beaker | color : Blue | washing : 워싱 | style : 팬츠 | material : 데님 <|endoftext|>
  name : [좋은건하나더] 백 레터링 자카드 양말 - 화이트 | season : SS24 | brand : 8seconds | color : 화이트 | fabric_style : 자카드 | pattern/print : 자수, 레터링 | length : 긴 기장 <|endoftext|>
  name : ❄️시즌오프❄️ Flat Front Trousers - Black | season : FW23 | brand : beaker | color : Black | style : 팬츠 | material : 울 <|endoftext|>
  name : [edit] Cap-Sleeve Blouse - Ivory | season : FW23 | brand : kuho | color : Ivory | style : 블라우스 | material : 폴리 | gender : 여성 <|endoftext|>
- name : Flora Trouser Jean - Blue | season : SS24 | brand : beaker | color : Blue | material : 데님, 폴리우레탄 혼방 | style : 팬츠 | length : 긴 기장 <|endoftext|>
+ name : Flora Trouser Jean - Blue | season : SS24 | brand : beaker | color : Blue | material : 데님, 폴리우레탄 혼방 | style : 데님 팬츠 | length : 긴 기장 <|endoftext|>
  name : ❄️시즌오프❄️ Skirt - Black | season : FW23 | brand : beaker | color : Black | style : 스커트 <|endoftext|>
- name : Outpocket Denim Jacket - Navy | season : SS24 | brand : kuhoplus | color : Navy | pattern/print : 자수 | washing : 워싱 | style : 재킷 | material : 데님 <|endoftext|>
- name : 💛기간한정+추가할인💛 코튼 트윌 로고 워싱 볼캡 - 퍼플 | season : FW23 | brand : beanpole | color : 퍼플 | material : 퍼, 면, 가죽 | pattern/print : 로고, 자수 | washing : 워싱 <|endoftext|>
+ name : Outpocket Denim Jacket - Navy | season : SS24 | brand : kuhoplus | color : Navy | washing : 워싱 | pattern/print : 자수 | material : 데님 | style : 데님 재킷 <|endoftext|>
+ name : 💛기간한정+추가할인💛 코튼 트윌 로고 워싱 볼캡 - 퍼플 | season : FW23 | brand : beanpole | color : 퍼플 | washing : 워싱 | material : 면, 퍼, 가죽 | pattern/print : 자수, 로고 <|endoftext|>
  name : Silver Croissant Necklace - Silver | season : FW23 | brand : beaker | color : Silver | pattern/print : 로고 <|endoftext|>
- name : Hand Stitch Single Coat - Camel | season : SS24 | brand : beaker | color : Camel | style : 코트 <|endoftext|>
- name : Women Giubbotto Solomon - Khaki | season : FW23 | brand : beaker | color : Khaki | material : 폴리 | style : 점퍼 | neck_detail : 후드 <|endoftext|>
- name : 레이스 칼라 핏 앤 플레어 니트 원피스 - 네이비 | season : SS24 | brand : beanpole | color : 네이비 | neck_detail : 칼라 | style : 원피스 | gender : 여성 <|endoftext|>
+ name : Hand Stitch Single Coat - Camel | season : SS24 | brand : beaker | color : Camel | style : 코트 | pattern/print : 로고 <|endoftext|>
+ name : Women Giubbotto Solomon - Khaki | season : FW23 | brand : beaker | color : Khaki | material : 폴리 | neck_detail : 후드 | style : 점퍼 <|endoftext|>
+ name : 레이스 칼라 핏 앤 플레어 니트 원피스 - 네이비 | season : SS24 | brand : beanpole | color : 네이비 | style : 니트 원피스 | neck_detail : 칼라 | gender : 여성 <|endoftext|>
  name : 리넨 혼방 하운드투스 재킷 - 베이지 | season : SS23 | brand : beanpole | color : 베이지 | pattern/print : 하운드투스 | material : 데님, 리넨 혼방 | style : 재킷 <|endoftext|>
  name : Oversized Half-Zip Knit - Dark Green | season : FW22 | brand : beaker | color : Dark Green | neck_detail : 칼라, 터틀넥 | material : 코튼, 울 혼방 | gender : 여성 <|endoftext|>
- name : [매일슬랙스] 베이직 테이퍼드핏 슬랙스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | fit : 테이퍼드핏 | style : 슬랙스 <|endoftext|>
- name : [Essential] 남녀공용 스웨트 후드 티셔츠 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | material : 수피마 코튼 | style : 티셔츠 | gender : 남녀공용 | neck_detail : 후드 <|endoftext|>
- name : 그래픽 크롭 반소매 티셔츠 - 다크그레이 | season : FW23 | brand : 8seconds | color : 다크그레이 | sleeves_length : 반소매 | style : 티셔츠 | material : 코튼 <|endoftext|>
- name : ❄️시즌오프❄️ V Neck Sweater - Pink | season : FW23 | brand : beaker | color : Pink | neck_detail : 칼라, 브이넥 | style : 스웨터 | material : 울 혼방 <|endoftext|>
+ name : [매일슬랙스] 베이직 테이퍼드핏 슬랙스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 팬츠, 슬랙스 | fit : 테이퍼드핏 <|endoftext|>
+ name : [Essential] 남녀공용 스웨트 후드 티셔츠 - 네이비 | season : FW23 | brand : beanpole | color : 네이비 | material : 수피마 코튼 | gender : 남녀공용 | style : 후드 티셔츠 | neck_detail : 후드 <|endoftext|>
+ name : 그래픽 크롭 반소매 티셔츠 - 다크그레이 | season : FW23 | brand : 8seconds | color : 다크그레이 | material : 코튼 | style : 반소매 티셔츠 | length : 짧은 기장 | sleeves_length : 반소매 <|endoftext|>
+ name : ❄️시즌오프❄️ V Neck Sweater - Pink | season : FW23 | brand : beaker | color : Pink | neck_detail : 칼라, 브이넥 | material : 울 혼방 | style : 스웨터 <|endoftext|>
  name : Low Slung Baggy - Black | season : SS24 | brand : beaker | color : Black | material : 데님 <|endoftext|>
- name : 카고 스웻 팬츠 - 그레이 | season : SS24 | brand : 8seconds | color : 그레이 | style : 팬츠 <|endoftext|>
+ name : 카고 스웻 팬츠 - 그레이 | season : SS24 | brand : 8seconds | color : 그레이 | style : 팬츠 | neck_detail : 후드 <|endoftext|>
  name : Denim Western Shirt - Black | season : FW23 | brand : beaker | color : Black | washing : 워싱 | style : 셔츠 | material : 데님 <|endoftext|>
- name : [ESSENCORE] 데님 롱 스커트 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | style : 스커트 | material : 데님 | length : 긴 기장 <|endoftext|>
- name : Device Jkt - Ash | season : FW22 | brand : beaker | color : Ash | gender : 남성 | style : 재킷 <|endoftext|>
- name : Bear Kenny - Black | season : FW23 | brand : beaker | color : Black | style : 다운 재킷 | filling : 다운 | length : 짧은 기장 | neck_detail : 후드 <|endoftext|>
- name : 텐셀 블렌드 긴소매 티셔츠 - 스카이블루 | season : SS24 | brand : 8seconds | color : 스카이블루 | material : 텐셀 | style : 긴소매 티셔츠 | sleeves_length : 긴소매 <|endoftext|>
- name : ❄️시즌오프❄️ Italic Logo V-Neck Vest - Ivory | season : FW23 | brand : beaker | color : Ivory | pattern/print : 로고 | neck_detail : 브이넥 | style : 베스트 | material : 코튼 <|endoftext|>
- name : 포켓 셔츠형 블라우스 - 블랙 | season : SS24 | brand : beanpole | color : 블랙 | style : 블라우스 <|endoftext|>
+ name : [ESSENCORE] 데님 롱 스커트 - 아이보리 | season : FW23 | brand : 8seconds | color : 아이보리 | material : 데님 | style : 스커트 | length : 긴 기장 <|endoftext|>
+ name : Device Jkt - Ash | season : FW22 | brand : beaker | color : Ash | gender : 남성 <|endoftext|>
+ name : Bear Kenny - Black | season : FW23 | brand : beaker | color : Black | style : 다운 재킷 | length : 짧은 기장 | neck_detail : 후드 | filling : 다운 <|endoftext|>
+ name : 텐셀 블렌드 긴소매 티셔츠 - 스카이블루 | season : SS24 | brand : 8seconds | color : 스카이블루 | style : 긴소매 티셔츠 | material : 텐셀 | sleeves_length : 긴소매 <|endoftext|>
+ name : ❄️시즌오프❄️ Italic Logo V-Neck Vest - Ivory | season : FW23 | brand : beaker | color : Ivory | material : 코튼, 데님 | neck_detail : 브이넥 | style : 베스트 | pattern/print : 로고 <|endoftext|>
+ name : 포켓 셔츠형 블라우스 - 블랙 | season : SS24 | brand : beanpole | color : 블랙 | material : 레이온, 나일론 혼방 | style : 셔츠, 블라우스 <|endoftext|>
  name : 페이크 레더 리본 집게핀 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | material : 가죽 <|endoftext|>
- name : 해리스 트위드 미니 체크 재킷 - 카키 | season : FW23 | brand : beanpole | color : 카키 | material : 가죽, 데님 | style : 재킷 | pattern/print : 체크, 트위드 <|endoftext|>
- name : [RDS인증] 블랙 니트 소매 경량 구스 다운 | season : FW22 | brand : beanpole | filling : 다운, 구스 | material : 나일론 <|endoftext|>
- name : Cocoon Fit Jeans - Navy | season : SS24 | brand : beaker | color : Navy | fit : 와이드핏 | washing : 워싱 | material : 면, 데님 | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Short Mill Coat - Ash | season : FW23 | brand : beaker | color : Ash | length : 짧은 기장 | material : 폴리 | style : 코트 <|endoftext|>
- name : 버튼 포인트 니트 원피스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | neck_detail : 라운드넥 | style : 원피스 <|endoftext|>
- name : ❄️시즌오프❄️ Alpaca Sports Coat - Black | season : FW23 | brand : beaker | color : Black | style : 재킷 <|endoftext|>
- name : 캐주얼 다운 베스트 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | filling : 다운 | style : 다운 베스트 <|endoftext|>
- name : 집업 후드 스웨트셔츠 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | pattern/print : 로고 | style : 스웨트셔츠 | neck_detail : 후드 <|endoftext|>
- name : Better B 풀집업 카디건 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | neck_detail : 풀집업 | style : 카디건 | pattern/print : 스트라이프 | material : 울 <|endoftext|>
- name : Holy Wool Roll-Neck Sweater - Orange | season : FW23 | brand : beaker | color : Orange | style : 스웨터 | material : 울 혼방 <|endoftext|>
+ name : 해리스 트위드 미니 체크 재킷 - 카키 | season : FW23 | brand : beanpole | color : 카키 | material : 데님 | pattern/print : 체크, 트위드 | style : 재킷 <|endoftext|>
+ name : [RDS인증] 블랙 니트 소매 경량 구스 다운 | season : FW22 | brand : beanpole | filling : 구스, 다운 | material : 나일론 <|endoftext|>
+ name : Cocoon Fit Jeans - Navy | season : SS24 | brand : beaker | color : Navy | washing : 워싱 | material : 면, 데님 | style : 데님 팬츠 | fit : 와이드핏 <|endoftext|>
+ name : ❄️시즌오프❄️ Short Mill Coat - Ash | season : FW23 | brand : beaker | color : Ash | style : 코트 | material : 폴리 | length : 짧은 기장 <|endoftext|>
+ name : 버튼 포인트 니트 원피스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 니트 원피스 | neck_detail : 터틀넥, 라운드넥 <|endoftext|>
+ name : ❄️시즌오프❄️ Alpaca Sports Coat - Black | season : FW23 | brand : beaker | color : Black | button_zipper : 투웨이 지퍼 | style : 재킷 <|endoftext|>
+ name : 캐주얼 다운 베스트 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | style : 다운 베스트 | filling : 다운 <|endoftext|>
+ name : 집업 후드 스웨트셔츠 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | style : 스웨트셔츠 | neck_detail : 후드 | pattern/print : 로고 <|endoftext|>
+ name : Better B 풀집업 카디건 - 블랙 | season : FW23 | brand : beanpole | color : 블랙 | neck_detail : 풀집업 | material : 울 | pattern/print : 스트라이프 | style : 카디건 <|endoftext|>
+ name : Holy Wool Roll-Neck Sweater - Orange | season : FW23 | brand : beaker | color : Orange | material : 울 혼방 | style : 스웨터 <|endoftext|>
  name : Wallet Shorts Resort - Black | season : SS23 | brand : beaker | color : Black | style : 팬츠 <|endoftext|>
  name : Mountain Pants2 - Grey | season : FW23 | brand : beaker | color : Grey | material : 면, 나일론 | style : 팬츠 <|endoftext|>
- name : V Neck Volume Blouse - White | season : SS22 | brand : kuhoplus | color : White | style : 블라우스 | material : 코튼 <|endoftext|>
- name : Men Cap - Ivory | season : SS23 | brand : beaker | color : Ivory | pattern/print : 로고 | washing : 스톤 워싱 | material : 면 <|endoftext|>
+ name : V Neck Volume Blouse - White | season : SS22 | brand : kuhoplus | color : White | material : 코튼 | style : 블라우스 <|endoftext|>
+ name : Men Cap - Ivory | season : SS23 | brand : beaker | color : Ivory | washing : 스톤 워싱 | material : 면 | pattern/print : 로고 <|endoftext|>
  name : 기모 와이드 스웨트팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 팬츠 <|endoftext|>
  name : 케이블 칼라넥 반소매 니트 - 그린 | season : FW23 | brand : 8seconds | color : 그린 | neck_detail : 칼라 | sleeves_length : 반소매 <|endoftext|>
- name : 울라이크 루즈핏 블루종 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | style : 블루종 | material : 울 <|endoftext|>
+ name : 울라이크 루즈핏 블루종 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | material : 울 | style : 점퍼, 블루종 <|endoftext|>
  name : 플레인 브이넥 풀오버 - 핑크 | season : FW23 | brand : 8seconds | color : 핑크 | neck_detail : 브이넥 <|endoftext|>
  name : 코튼 뒷밴딩 와이드 팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | style : 캐주얼 팬츠 | material : 면, 코튼 <|endoftext|>
- name : [Golf] Half-Neck Base Layer T-Shirt - Purple | season : FW23 | brand : kuho | color : Purple | neck_detail : 하이넥 | style : 티셔츠 | fit : 슬림핏 <|endoftext|>
- name : Wool Knit Collar Semi-Overfit Blouse - Navy | season : FW23 | brand : kuho | color : Navy | style : 블라우스 | material : 울 <|endoftext|>
+ name : [Golf] Half-Neck Base Layer T-Shirt - Purple | season : FW23 | brand : kuho | color : Purple | fit : 슬림핏 | style : 티셔츠 | pattern/print : 로고 | neck_detail : 하이넥 <|endoftext|>
+ name : Wool Knit Collar Semi-Overfit Blouse - Navy | season : FW23 | brand : kuho | color : Navy | style : 셔츠 블라우스 | material : 울 | gender : 여성 <|endoftext|>
  name : ❄️시즌오프❄️ Dries Velvet Pants - Black | season : FW23 | brand : beaker | color : Black | material : 벨벳 | pattern/print : 페이즐리 <|endoftext|>
  name : Wide Shirt - White | season : SS23 | brand : beaker | color : White | style : 셔츠 | material : 나일론 <|endoftext|>
  name : 새틴 셔링 슬리브리스 원피스 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 원피스 | gender : 여성 <|endoftext|>
- name : ❄️시즌오프❄️ High Waisted Push-Pop Short - Blue | season : FW23 | brand : beaker | color : Blue | washing : 워싱 | material : 데님, 코튼 <|endoftext|>
- name : 모달 피치 오버핏 셔츠 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | style : 셔츠 | material : 모달 | fit : 오버핏 <|endoftext|>
- name : Shearling-Collar Blouson - Black | season : FW23 | brand : beaker | color : Black | style : 재킷 | material : 면 <|endoftext|>
+ name : ❄️시즌오프❄️ High Waisted Push-Pop Short - Blue | season : FW23 | brand : beaker | color : Blue | washing : 워싱 | material : 코튼, 데님 <|endoftext|>
+ name : 모달 피치 오버핏 셔츠 - 그레이 | season : FW23 | brand : 8seconds | color : 그레이 | material : 모달 | style : 셔츠 | fit : 오버핏 <|endoftext|>
+ name : Shearling-Collar Blouson - Black | season : FW23 | brand : beaker | color : Black | material : 면 | style : 재킷 <|endoftext|>
  name : 코튼 허리 조임 롱 셔츠 - 스카이블루 | season : SS24 | brand : 8seconds | color : 스카이블루 | material : 면, 코튼 | style : 셔츠 | length : 긴 기장 <|endoftext|>
- name : 유틸리티 지퍼 카고 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | fit : 와이드핏 | style : 팬츠 <|endoftext|>
- name : Wool Blend Spread Collar Zip-Up Jacket - Grey | season : FW23 | brand : kuho | color : Grey | material : 저지, 레이온, 울 혼방 | style : 재킷 | fabric_style : 저지 원단 <|endoftext|>
- name : 빈티지워싱 원턱 와이드 데님팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | washing : 워싱 | tuck : 원턱 | material : 데님 | style : 팬츠 <|endoftext|>
- name : 아일렛 반소매 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | sleeves_length : 반소매 | style : 티셔츠 | material : 코튼 <|endoftext|>
- name : 피그먼트 코듀로이 부츠컷 팬츠 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | material : 퍼, 코듀로이 | style : 부츠컷 팬츠 <|endoftext|>
- name : 서머 그래픽 라운드 티셔츠 - 화이트 | season : SS23 | brand : beanpole | color : 화이트 | neck_detail : 라운드넥 | style : 티셔츠 <|endoftext|>
- name : Corduroy Bootscut Pants - Black | season : FW23 | brand : beaker | color : Black | material : 퍼, 코듀로이 | style : 팬츠 <|endoftext|>
- name : ❄️시즌오프❄️ Women Ghost Pressure - Green | season : FW23 | brand : beaker | color : Green | material : 울 <|endoftext|>
+ name : 유틸리티 지퍼 카고 팬츠 - 블랙 | season : FW23 | brand : 8seconds | color : 블랙 | style : 팬츠 | fit : 와이드핏 | neck_detail : 후드 <|endoftext|>
+ name : Wool Blend Spread Collar Zip-Up Jacket - Grey | season : FW23 | brand : kuho | color : Grey | material : 저지, 가죽, 레이온, 울 혼방 | fabric_style : 저지 원단 | style : 재킷 <|endoftext|>
+ name : 빈티지워싱 원턱 와이드 데님팬츠 - 애쉬 | season : FW23 | brand : 8seconds | color : 애쉬 | tuck : 원턱 | washing : 워싱 | style : 데님 팬츠 | material : 데님 <|endoftext|>
+ name : 아일렛 반소매 티셔츠 - 화이트 | season : FW23 | brand : 8seconds | color : 화이트 | material : 코튼 | style : 반소매 티셔츠 | sleeves_length : 반소매 <|endoftext|>
+ name : 피그먼트 코듀로이 부츠컷 팬츠 - 베이지 | season : FW23 | brand : 8seconds | color : 베이지 | style : 부츠컷 팬츠 | material : 퍼, 코듀로이 <|endoftext|>
+ name : 서머 그래픽 라운드 티셔츠 - 화이트 | season : SS23 | brand : beanpole | color : 화이트 | neck_detail : 라운드넥 | style : 티셔츠 | length : 짧은 기장 <|endoftext|>
+ name : Corduroy Bootscut Pants - Black | season : FW23 | brand : beaker | color : Black | style : 팬츠 | material : 퍼, 코듀로이 <|endoftext|>
+ name : ❄️시즌오프❄️ Women Ghost Pressure - Green | season : FW23 | brand : beaker | color : Green | material : 울, 코튼, 데님 <|endoftext|>
  name : ❄️시즌오프❄️ Men Stripe Long Sleeve T-Shirt - Black | season : FW23 | brand : beaker | color : Black | style : 티셔츠 | pattern/print : 스트라이프 <|endoftext|>
- name : 페이크 레더 패딩 블루종 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | filling : 패딩 | style : 블루종 | material : 가죽 <|endoftext|>
+ name : 페이크 레더 패딩 블루종 - 블랙 | season : SS24 | brand : 8seconds | color : 블랙 | material : 가죽 | style : 블루종 | filling : 패딩 <|endoftext|>
