@@ -1,0 +1,14 @@
+alpaca/
+dataCrawling/
+*.txt
+e2e-metrics/
+practice/
+pt/
+*lora/
+peft/outputs/lora*
+peft/outputs/peft*
+peft/outputs/ssf-1-saved_test_gold
+peft/outputs/ssf-1-saved_test_sample
+*saved/
+*wandb/
+*.json

@@ -1,0 +1,33 @@
+ group : 가방 | style : 브리프케이스 | gender : 남성 | material : 가죽 | pattern : 솔리드 <|endoftext|>
+ group : 양말 | style : 베이직 | gender : 남녀공용 | material : 면 혼방 | pattern : 도트 <|endoftext|>
+ group : 신발 | style : 옥스퍼드 | gender : 남성 <|endoftext|>
+ group : 래깅스 스타킹 | fit : 슬림 | gender : 여성 | material : 면 | pattern : 플로랄 <|endoftext|>
+ group : 넥타이 | gender : 어린이 | material : 면 | pattern : 스트라이프(세로) <|endoftext|>
+ group : 지갑 | style : 지갑 | gender : 어린이 | material : PVC | pattern : 크로커다일 <|endoftext|>
+ group : 남녀공용 스포츠 신발 | style : 캐주얼(스파이클레스) | gender : 어린이 | material : 혼합 <|endoftext|>
+ group : 수영복 | style : 투피스 | gender : 어린이 | pattern : 체크 <|endoftext|>
+ group : 지갑 | style : 키 케이스 | gender : 남성 | material : 가죽 | pattern : 도트 <|endoftext|>
+ group : 벨트 | gender : 여성 | material : 가죽 | pattern : 컬러 블록 <|endoftext|>
+ group : 보석 | style : 링 | gender : 여성 | material : 금 <|endoftext|>
+ group : 장갑 | style : 롱 | gender : 남녀공용 | material : 캐시미어 <|endoftext|>
+ group : 머플러 | gender : 여성 | pattern : 솔리드 | material : 폴리 <|endoftext|>
+ group : c&s | gender : 여성 | material : 나일론 | print : 그라데이션 | length : 미디엄 | sleeve length : 슬리브리스 | neck detail : 홀터넥 <|endoftext|>
+ group : 풀오버 | style : 라운드 스웨터 | fit : 클래식 | gender : 남성 | material : 폴리 | pattern : 카모플라주 | length : 미디엄 | neck detail : 터틀 <|endoftext|>
+ group : 반바지 | style : 스포츠 팬츠 | fit : 조거 | gender : 어린이 | material : 폴리 레이온 혼방 | pattern : 스트라이프(가로) | print : 로고 | length : 3부 | washing : 워싱 <|endoftext|>
+ group : 블라우스 | style : 시폰 블라우스 | material : 면 | print : 플로럴 | sleeve length : 70 퍼센트 | neck detail : 하이 <|endoftext|>
+ group : 치마 | style : 슬릿 스커트 | fit : H라인 | length : 맥시 | 원단 style : 트위드 <|endoftext|>
+ group : c&s_long | style : 가디건 | fit : 릴렉스 | gender : 여성 | material : 울 혼방 | pattern : 솔리드 | print : 그라데이션 | length : 롱 | sleeve length : 50 퍼센트/하프 <|endoftext|>
+ group : 가죽 아우터 | style : 사파리 | fit : 오버 | gender : 여성 | material : 합성 가죽 | pattern : 매드라스 체크 | print : 타이포그래픽 | button/zipper : 없음 | 충전재 : 구스 | 안감 : 분리 가능 | neck detail : 서플리스 <|endoftext|>
+ group : 셔츠 | style : 블라우스 | fit : 오버 | gender : 여성 | material : 울 혼방 | print : 플로럴 | sleeve length : 90 퍼센트 | button/zipper : 하프 버튼 | neck detail : 세일러 <|endoftext|>
+ group : c&s_short | style : 티셔츠 | gender : 남성 | pattern : 자카드 | length : 미디엄 <|endoftext|>
+ group : 코트 | style : 체스터 코트 | fit : 클래식 | length : 미디엄 | button/zipper : 더블 2 버튼 | 충전재 : 구스 | 모피 종류 : 없음 | 안감 : 분리 가능 | washing : 없음 | neck detail : 터틀 <|endoftext|>
+ group : 원피스 | style : 셔츠 드레스 | fit : H라인 | gender : 여성 | material : 실크 | pattern : 트로피칼 | length : 롱 | sleeve length : 90 퍼센트 | button/zipper : 없음 | neck detail : 초커 <|endoftext|>
+ group : 반팔 | style : 캐주얼 셔츠 | gender : 어린이 | material : 폴리 | pattern : 타탄 체크 | length : 짧음 | sleeve length : 70 퍼센트 | button/zipper : 싱글 <|endoftext|>
+ group : 수트 베스트 | style : 투피스 수트 | gender : 여성 | pattern : 도트 | button/zipper : 싱글 4 버튼 <|endoftext|>
+ group : 다운 패딩 | style : 사파리 재킷 | gender : 남녀공용 | material : 나일론 | pattern : 타탄 체크 | print : 로고 | length : 짧음 | sleeve length : 롱 | button/zipper : 없음 | 충전재 : 구스 <|endoftext|>
+ group : 트렌치코트 | style : 트렌치 코트 | fit : 레귤러 | gender : 여성 | material : 폴리 | pattern : 솔리드 | length : 롱-막시 | button/zipper : 싱글 | 충전재 : 다운 | 안감 : 없음 <|endoftext|>
+ group : 퍼 아우터 | style : 사파리/미리터리/필드 | gender : 어린이 | material : 머스탱 | print : 모노그램 | length : 롱-막시 | sleeve length : 50 퍼센트/하프 | button/zipper : 지퍼 | 충전재 : 다운 | 모피 종류 : 풀 | 안감 : 분리 가능 <|endoftext|>
+ group : 팬츠 | style : 벨티드 팬츠 | fit : 세미 슬림 | gender : 여성 | material : 폴리 | length : 미니(핫) | washing : 컬러드 <|endoftext|>
+ group : 수트 바지 | style : 쓰리피스 수트 | fit : 슬림 스트레이트 | gender : 남성 | material : 폴리 | length : 롱 | tuck : 투턱 <|endoftext|>
+ group : 아우터 | style : 데님 재킷 | fit : 세미 슬림 | gender : 남성 | print : 캐릭터 | length : 미디 | sleeve length : 롱 | button/zipper : 지퍼 <|endoftext|>
+ group : 조끼 | style : 조끼 | fit : 루즈 | gender : 남성 | pattern : 체크 | button/zipper : 풀 버튼 <|endoftext|>
