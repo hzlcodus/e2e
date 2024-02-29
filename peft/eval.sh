@@ -20,7 +20,9 @@
 # python3 ./decode.py "ssf-4.4-saved" "test_extract"
 #python3 ./bleu_eval.py "/home/hzlcodus/codes/peft/outputs/ssf-4.3-saved_test_extract"
 
-python3 ./decode.py "ssf-5.3-saved" "test_ace"
-#python3 ./decode.py "ssf-5.2-saved" "test_extract"
-#python3 ./decode.py "uncon-1-saved" "test_ace" "5"
+python3 ./decode.py "ssf-4.4-saved" "test_extract"
+#python3 ./decode.py "ssf-6.1-saved" "test_ace"
+#python3 ./decode.py "ssf-6.1-saved" "test_extract"
 #python3 ./decode.py "uncon-1-saved" "test_extract" "5"
+#python3 ./decode.py "uncon-1-saved" "test_extract" "5"
+python3 ./decode.py "EleutherAI/polyglot-ko-1.3b" "test_extract" "5"

@@ -260,7 +260,7 @@ class DataCollatorForData2TextLanguageModeling:
 device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 print(device)
 
-checkpoint = "EleutherAI/polyglot-ko-1.3b"
+checkpoint = "EleutherAI/polyglot-ko-3.8b"
 tuning_mode = 'finetune'
 task_mode = 'data2text'
 
@@ -285,7 +285,7 @@ lora_config = LoraConfig(
     lora_alpha=32,
     lora_dropout=0.1,
     task_type=TaskType.CAUSAL_LM,
-    base_model_name_or_path="EleutherAI/polyglot-ko-1.3b"
+    base_model_name_or_path="EleutherAI/polyglot-ko-3.8b"
 )
 
 model = AutoModelForCausalLM.from_pretrained( # jcy
@@ -296,6 +296,8 @@ model = get_peft_model(model, lora_config)
 model.print_trainable_parameters()
 
 block_size = tokenizer.model_max_length = 512
+print('block_size: ', block_size)
+print('tokenizer.model_max_length: ', tokenizer.model_max_length)
 print('adapting the size of the model embedding to include [PAD]')
 print('len(tokenizer) = ', len(tokenizer))
 num_added_tokens = tokenizer.add_special_tokens(
@@ -327,14 +329,14 @@ training_args = TrainingArguments(
     output_dir="ssf",
     evaluation_strategy="no",
     per_device_train_batch_size=1,  # Aligned with DeepSpeed
-    num_train_epochs=1,
+    num_train_epochs=5,
     weight_decay=0.01,  # Aligned with DeepSpeed
     gradient_accumulation_steps=8, 
     learning_rate=0.0002,  # Aligned with DeepSpeed
     warmup_steps=500,  # Aligned with DeepSpeed
     prediction_loss_only=True,
     save_steps=50000,
-    deepspeed='ds_config.json',
+    #deepspeed='ds_config.json',
     report_to="none"
 
 )
@@ -352,7 +354,7 @@ trainer = Trainer(
         )
 
 trainer.train()
-model_path = "ssf-5.3-saved"
+model_path = "uncon-2.1-saved"
 model.save_pretrained(model_path)
 tokenizer.save_pretrained(model_path)
 trainer.save_model(output_dir=f"/home/hzlcodus/model/{model_path}")

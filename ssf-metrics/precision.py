@@ -12,6 +12,14 @@ name : 립배색 그래픽 반소매 티셔츠 - 라이트그레이 | season : F
 
 import sys
 model = sys.argv[1]
+# if exists second argument
+if len(sys.argv) > 2:
+    if sys.argv[2].startswith('-'):
+        post_fix = sys.argv[2]
+    else:
+        post_fix = "_"+sys.argv[2]
+else:
+    post_fix = ''
 
 style_attrs = ['플레어 원피스', '립 스웨터', '볼레로 카디건', '니트패치 셔츠', '밴딩 팬츠', '패딩 코트', '부츠컷 팬츠', '팬츠', '베스트 점퍼', '트렌치 코트', '더플 코트', '트랙재킷', '벨티드 팬츠', '카고 스커트', '스포츠 팬츠', '코듀로이 스커트', '라이더재킷', '퍼 재킷', '후드 티셔츠', '레더 코트', '서스펜더 스커트', '자파리 아우터', '후드 롱 아우터', '심리스 푸퍼', '바이커 스커트', '케이블 카디건', '다운 재킷', '티어드 원피스', '퍼 아우터', '퍼 베스트', '랩 원피스', '후드 카디건', '하이브리드재킷', '조거팬츠', '다운 코트', '캐주얼 팬츠', '하이브리드 셔츠', '무스탕', '데님 원피스', '데님 스커트', '수트 베스트', '시어링 재킷', '테니스 스커트', '트랙팬츠', '코듀로이 팬츠',
 '스웨터 팬츠', '랩스커트', '숏 푸퍼재킷', '포멀 팬츠', '치노팬츠', '셔츠 원피스', '하프터틀넥 스웨터', '숏 점퍼', '스웻팬츠', '케이프 코트', '카 코트', '패러슈트 팬츠', '원피스', '후드 스웨터', '랩 블라우스', '포멀재킷', '셔츠 블라우스', '패딩셔츠', '티어드 스커트', '스커트', '블라우스', '아우터재킷', '바이커 팬츠', '포멀 원피스', '무스탕 코트', '럭비 스웨터', '베스트 스웨터', '로브 코트', '밴딩 스커트', '가죽 재킷', '심리스 재킷', '코르셋', '티셔츠', '맥 코트', '뷔스티에 원피스', '크리켓 스웨터', '레인코트', '주름 원피스', '니트 원피스', '칼라 스웨터', '앙고라 스웨터', '랩 스커트', '스웨터 베스트', 'BDU 재킷', '하이웨스트 팬츠', '케이프 카디건', '밀리터리 패딩',
@@ -49,11 +57,13 @@ def find_attr_in_input(attr, attr_line):
         return True
     return False
 
-def main(gold_or_sample):
+def main(gold_or_sample, ace_or_extract):
     
-    with open(f'/home/hzlcodus/codes/peft/outputs/{model}_test_ace_src', 'r') as f:
+    with open(f'/home/hzlcodus/codes/peft/outputs/{model}_test_{ace_or_extract}_src', 'r') as f:
         attr_lines = f.readlines()
-    with open(f'/home/hzlcodus/codes/peft/outputs/{model}_test_ace_{gold_or_sample}', 'r') as f:
+    if gold_or_sample == 'sample':
+        gold_or_sample+=post_fix
+    with open(f'/home/hzlcodus/codes/peft/outputs/{model}_test_{ace_or_extract}_{gold_or_sample}', 'r') as f:
         desc_lines = f.readlines()
 
     with open('/data/hzlcodus/percentage.txt', 'w') as f:
@@ -92,8 +102,10 @@ def main(gold_or_sample):
                 line_sum += attr_count/total_attr_count
 
 
-    print(gold_or_sample, "Precision :", line_sum/line_count)
+    print(gold_or_sample, " ", ace_or_extract, "Precision :", line_sum/line_count)
 
 if __name__ == "__main__":
-    main(gold_or_sample='gold')
-    main(gold_or_sample='sample_5')
+    #main(gold_or_sample='gold', ace_or_extract='ace')
+    #main(gold_or_sample='sample', ace_or_extract='ace')
+    main(gold_or_sample='gold', ace_or_extract='extract')
+    main(gold_or_sample='sample', ace_or_extract='extract')

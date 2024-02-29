@@ -95,7 +95,8 @@ def main():
         tokenizer.bos_token = tokenizer.eos_token
         print(tokenizer.bos_token, tokenizer.bos_token_id)
     print(len(tokenizer), tokenizer.bos_token, tokenizer.eos_token, tokenizer.pad_token)
-
+    tokenizer.model_max_length = 10000
+    print('tokenizer.model_max_length', tokenizer.model_max_length)
     # config = PeftConfig.from_pretrained(model_name_or_path)
     # print(config)
     model = model_class.from_pretrained(model_name_or_path)
@@ -104,6 +105,7 @@ def main():
     model.to(device)
     #llm.to(device)
     length = adjust_length_to_model(length, max_sequence_length=model.config.max_position_embeddings)
+    print('length', length)
     if 'polyglot' in model_name_or_path:
         embedding_layer = model.resize_token_embeddings(len(tokenizer))
 
@@ -128,7 +130,12 @@ def main():
 
     print("shot_mode", shot_mode)
     # 모델 답, gold 답들, 문제 파일 만드는 코드
-    curr_dir = os.path.join('/home/hzlcodus/codes/peft/outputs', '{}_{}_{}{}'.format(model_name_or_path, split_file, decode_mode, shot_mode))
+    m_n_t = 20
+    if m_n_t != 0:
+        m_n_t_str = "-"+str(m_n_t)
+    else:
+        m_n_t_str = ""
+    curr_dir = os.path.join('/home/hzlcodus/codes/peft/outputs', '{}_{}_{}{}{}'.format(model_name_or_path, split_file, decode_mode, shot_mode, m_n_t_str))
     gold_dir = os.path.join('/home/hzlcodus/codes/peft/outputs', '{}_{}_{}'.format(model_name_or_path, split_file, 'gold'))
     write_e2e_corr(prompt_text_lst, prompt_text_dict, gold_dir) # src prompt 같은 것끼리 그룹화하려고 그 사이에 한 줄씩 띄워서 gold 저장
     src_dir = os.path.join('/home/hzlcodus/codes/peft/outputs', '{}_{}_{}'.format(model_name_or_path, split_file, 'src'))
@@ -171,11 +178,14 @@ def main():
             input_ids = encoded_prompt
         
         #output_sequences = llm.generate(input_ids, sampling_params, length + len(encoded_prompt[0]))
+        
+
 
         output_sequences = model.generate(
                     input_ids=input_ids,
                     emb_match=None, 
                     control_code=None,
+                    min_new_tokens=m_n_t,
                     max_length=length + len(encoded_prompt[0]),
                     temperature=1.0,
                     top_k=0,
@@ -205,6 +215,9 @@ def main():
             #print(text)
             text_output = text[len(tokenizer.decode(encoded_prompt[0], clean_up_tokenization_spaces=True)):]
             idx = text_output.find(tokenizer.eos_token)
+            if idx == 0:
+                print('starting with EOS Token', file=out_handle)
+                continue
             if idx >= 0:
                 text_output = text_output[:idx]
             text_output = text_output.strip()

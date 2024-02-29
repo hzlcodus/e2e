@@ -10,7 +10,7 @@ def commonsubstr(string1, string2): # 공통 substring을 찾는 함수
 def find_common_substr(sentences): 
     substrs = [commonsubstr(*x) for x in combinations(sentences, 2)]
     if not substrs:
-        print("sentences:", sentences)
+        #print("sentences:", sentences)
         return ''
     return max(substrs, key=lambda x: len(x)) # 모든 sentence 쌍 조합 중 가장 긴 substring을 찾아서 반환
 

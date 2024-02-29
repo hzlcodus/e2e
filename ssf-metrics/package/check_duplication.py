@@ -6,7 +6,8 @@ from .eda.analysis_prefix import find_common_prefix
 from .eda.analysis_substr import find_common_substr
 from .eda.split_sentences import split_sentences
 from .find_lrs import find_longest_repeated_substring
-
+import os
+import sys
 
 def check_duplication(desc, attrs=[]):
     desc = desc.replace("'", "")
@@ -51,6 +52,11 @@ def check_duplication(desc, attrs=[]):
         return "inter sentence duplicates: " + str(inter)
 
 if __name__ == "__main__":
+    model = sys.argv[1]
+    gold_or_sample = sys.argv[2]
+    post_fix = sys.argv[3]
+    
+
     attrs = []
     with open("/home/hzlcodus/codes/ssf-metrics/attr_ko_dict.txt", "r") as f:
         attrlines = f.readlines()
@@ -60,14 +66,14 @@ if __name__ == "__main__":
                 line[i] = line[i].strip()
             attrs.extend(line)
     
-    # with open("/home/hzlcodus/codes/peft/outputs/ssf-4.4-saved_test_extract_sample", "r") as f:
-    #     desclines = f.readlines()
-    #     with open("/home/hzlcodus/codes/ssf-metrics/duplication_sample.txt", "w") as wf:
-    #         for desc in desclines:
-    #             desc = desc.strip()
-    #             print(desc, file=wf)
-    #             print(check_duplication(desc, attrs), file=wf)
-    #             print("====================================", file=wf)
+    with open(f"/home/hzlcodus/codes/peft/outputs/{model}_test_extract_{gold_or_sample}{post_fix}", "r") as f:
+        desclines = f.readlines()
+        with open("/home/hzlcodus/codes/ssf-metrics/duplication_sample.txt", "w") as wf:
+            for desc in desclines:
+                desc = desc.strip()
+                print(desc, file=wf)
+                print(check_duplication(desc, attrs), file=wf)
+                print("====================================", file=wf)
 
 
     with open("/home/hzlcodus/codes/ssf-metrics/duplication_sample.txt", "r") as f:
@@ -81,16 +87,16 @@ if __name__ == "__main__":
                     dup_num += 1
         print (f"line_num: {line_num}, dup_num: {dup_num}, duplication rate: {dup_num/line_num*100}%")
 
-    # with open("/home/hzlcodus/codes/peft/outputs/ssf-4.4-saved_test_extract_gold", "r") as f:
-    #     desclines = f.readlines()
-    #     with open("/home/hzlcodus/codes/ssf-metrics/duplication_gold.txt", "w") as wf:
-    #         for desc in desclines:
-    #             if desc.strip() == "":
-    #                 continue
-    #             desc = desc.strip()
-    #             print(desc, file=wf)
-    #             print(check_duplication(desc, attrs), file=wf)
-    #             print("====================================", file=wf)
+    with open(f"/home/hzlcodus/codes/peft/outputs/{model}_test_ace_{gold_or_sample}{post_fix}", "r") as f:
+        desclines = f.readlines()
+        with open("/home/hzlcodus/codes/ssf-metrics/duplication_gold.txt", "w") as wf:
+            for desc in desclines:
+                if desc.strip() == "":
+                    continue
+                desc = desc.strip()
+                print(desc, file=wf)
+                print(check_duplication(desc, attrs), file=wf)
+                print("====================================", file=wf)
     
     with open("/home/hzlcodus/codes/ssf-metrics/duplication_gold.txt", "r") as f:
         lines = f.readlines()
