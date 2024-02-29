@@ -14,6 +14,7 @@ from transformers import (
 )
 import sys, os
 from peft import PeftConfig
+from vllm import LLM, SamplingParams
 
 logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(name)s -   %(message)s",
@@ -81,14 +82,32 @@ def main():
 
     tokenizer = tokenizer_class.from_pretrained(model_name_or_path)
     tokenizer.padding_side = 'left'
-
+    if 'polyglot' in model_name_or_path:
+        print('adapting the size of the model embedding to include [PAD]')
+        print('len(tokenizer) = ', len(tokenizer))
+        num_added_tokens = tokenizer.add_special_tokens(
+            {'pad_token': '[PAD]'})
+        print('len(tokenizer) = ', len(tokenizer))
+        print(tokenizer.eos_token, tokenizer.eos_token_id)
+        tokenizer.bos_token = tokenizer.eos_token
+        print(tokenizer.bos_token, tokenizer.bos_token_id)
     print(len(tokenizer), tokenizer.bos_token, tokenizer.eos_token, tokenizer.pad_token)
-    config = PeftConfig.from_pretrained(model_name_or_path)
-    print(config)
+
+    # config = PeftConfig.from_pretrained(model_name_or_path)
+    # print(config)
     model = model_class.from_pretrained(model_name_or_path)
+    #llm = LLM(model="EleutherAI/polyglot-ko-1.3b")
     #model.config.pad_token_id = tokenizer.eos_token_id
     model.to(device)
+    #llm.to(device)
     length = adjust_length_to_model(length, max_sequence_length=model.config.max_position_embeddings)
+    if 'polyglot' in model_name_or_path:
+        embedding_layer = model.resize_token_embeddings(len(tokenizer))
+
+
+    if "/" in model_name_or_path :
+        model_name_or_path = model_name_or_path.split("/")[-1]
+        
 
     split_file = sys.argv[2]
 
@@ -100,17 +119,47 @@ def main():
     prompt_text_lst = list(prompt_text_dict.keys()) # src들만 모아둠
     decode_mode = "sample"
 
+    if len(sys.argv) > 3:
+        shot_mode = "_"+sys.argv[3] # zero-shot, few-shot
+    else:
+        shot_mode = ""
+
+    print("shot_mode", shot_mode)
     # 모델 답, gold 답들, 문제 파일 만드는 코드
-    curr_dir = os.path.join('/home/hzlcodus/codes/peft/outputs', '{}_{}_{}'.format(model_name_or_path, split_file, decode_mode))
+    curr_dir = os.path.join('/home/hzlcodus/codes/peft/outputs', '{}_{}_{}{}'.format(model_name_or_path, split_file, decode_mode, shot_mode))
     gold_dir = os.path.join('/home/hzlcodus/codes/peft/outputs', '{}_{}_{}'.format(model_name_or_path, split_file, 'gold'))
     write_e2e_corr(prompt_text_lst, prompt_text_dict, gold_dir) # src prompt 같은 것끼리 그룹화하려고 그 사이에 한 줄씩 띄워서 gold 저장
     src_dir = os.path.join('/home/hzlcodus/codes/peft/outputs', '{}_{}_{}'.format(model_name_or_path, split_file, 'src'))
     write_e2e_src(prompt_text_lst, src_dir) # 서로 다른 src들만 쭉 저장
     out_handle = open(curr_dir, 'w')
 
+    few_shot_examples = ""
+    # read shot.txt examples
+    with open('/data/hzlcodus/few_shot.txt', 'r') as f:
+        for i,line in enumerate(f):
+            if len(sys.argv) > 3 and i == sys.argv[3]:
+                break
+            few_shot_example = line.split("||")
+            few_shot_example = f"상품 속성 정보: {few_shot_example[0].strip()}\n설명문: {few_shot_example[1].strip()}\n\n"
+            few_shot_examples += few_shot_example
+            
+    print(few_shot_examples)
+
+    #sampling_params = SamplingParams(temperature=1.0, top_k=0, top_p=0.9, repetition_penalty=1.0, num_beams=10, no_repeat_ngram_size=4, length_penalty=0.9, bad_words_ids=[[628], [198]] if True else None)
+
     for prompt_idx, prompt_text in enumerate(prompt_text_lst):
+        # add task description to prompt
+        #task_description = "Given attributes of a good, generate a 3-sentence explanation for the good"
+        task_description = "입력으로 상품 속성 정보를 받아 출력으로 3문장으로 상품에 대한 설명문을 생성하세요."
+        prompt_text = prompt_text.replace(tokenizer.bos_token, '')
+        if shot_mode == '_0':
+            prompt_text = task_description + ':\n' + prompt_text
+        elif '_' in shot_mode:
+            prompt_text = task_description + ' 다음은 예시입니다:\n' + few_shot_examples + '상품 속성 정보: ' + prompt_text.strip() + '\n설명문: '
+
         if prompt_idx % 10 == 0:
             print(f"prompt_idx {prompt_idx}, prompt_text {prompt_text}")
+        
         encoded_prompt = tokenizer.encode(prompt_text, add_special_tokens=False, return_tensors="pt")
         encoded_prompt = encoded_prompt.to(device)
 
@@ -119,6 +168,7 @@ def main():
         else:
             input_ids = encoded_prompt
         
+        #output_sequences = llm.generate(input_ids, sampling_params, length + len(encoded_prompt[0]))
 
         output_sequences = model.generate(
                     input_ids=input_ids,
@@ -130,7 +180,8 @@ def main():
                     top_p=0.9, #0.5
                     eos_token_id=tokenizer.eos_token_id,
                     repetition_penalty=1.0,
-                    do_sample=True, # False
+                    #do_sample=False,
+                    do_sample=True,
                     num_beams=10,
                     no_repeat_ngram_size=4,
                     length_penalty=0.9,

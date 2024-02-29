@@ -16,6 +16,11 @@
 # /home/hzlcodus/codes/e2e-metrics/measure_scores.py "${FILE_PATH}_gold" "${FILE_PATH}_sample"
 # python3 ./bleu_eval.py "${FILE_PATH}"
 
-python3 ./decode.py "ssf-4.3-saved" "test_ace"
-python3 ./decode.py "ssf-4.3-saved" "test_extract"
+python3 ./decode.py "ssf-5.5-saved" "test_ace"
+# python3 ./decode.py "ssf-4.4-saved" "test_extract"
 #python3 ./bleu_eval.py "/home/hzlcodus/codes/peft/outputs/ssf-4.3-saved_test_extract"
+
+#python3 ./decode.py "EleutherAI/polyglot-ko-1.3b" "test_extract" "1"
+#python3 ./decode.py "uncon-1-saved" "test_extract" "5"
+# python3 ./decode.py "uncon-1-saved" "test_ace" "5"
+

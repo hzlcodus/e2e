@@ -118,7 +118,7 @@ def main():
             print(f"prompt_idx {prompt_idx}, prompt_text {prompt_text}")
         
         # add task description to prompt
-        task_description = "Given attributes of a good, generate a 3-sentence explanation for the good"
+        task_description = "Given attributes of a good, generate a 3-sentence explanation for the good. "
 
         if shot_mode == 'zero-shot':
             prompt_text = task_description + ':\n\n' + prompt_text
@@ -128,7 +128,7 @@ def main():
             with open('/data/hzlcodus/shot.txt', 'r') as f:
                 for line in f:
                     few_shot_examples += line.strip() + '\n'
-            prompt_text = task_description + '. Following are examples:\n\n' + few_shot_examples + '\n\n' + prompt_text
+            prompt_text = task_description + 'Following are examples:\n\n' + few_shot_examples + '\n\n' + prompt_text
         
         encoded_prompt = tokenizer.encode(prompt_text, add_special_tokens=False, return_tensors="pt")
         encoded_prompt = encoded_prompt.to(device)

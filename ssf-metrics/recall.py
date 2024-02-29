@@ -63,7 +63,7 @@ def main(gold_or_sample):
             desc = ' '+desc # 앞에 space 있는 상태로 검색하기 때문에
             #print (attr, desc)
             for a in attr:
-                if a.split(' : ')[0] != 'name' and a.split(' : ')[0] != 'season' and a.split(' : ')[0] != 'brand' and a.split(' : ')[0] != 'color':
+                if a.split(' : ')[0] != 'name' and a.split(' : ')[0] != 'season' and a.split(' : ')[0] != 'brand' and a.split(' : ')[0] != 'color' and a.split(' : ')[0] != 'sub-brand':
                     a = a.split(' : ')[1].strip()
                     #print("a: ", a)
                     if ',' in a:
@@ -93,5 +93,5 @@ def main(gold_or_sample):
 
 if __name__ == "__main__":
     main(gold_or_sample='gold')
-    main(gold_or_sample='sample')
+    main(gold_or_sample='sample_1')
 

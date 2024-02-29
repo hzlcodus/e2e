@@ -45,7 +45,7 @@ client = OpenAI(
 )
 
 # Your prompt and sentence
-prompt = '''
+repetition_prompt = '''
 Classify whether there is a repetition in the following sentence to three groups.
 1(Major repetition) 0.5(Minor repetition) 0(Clean) :
 
@@ -57,13 +57,26 @@ A: 0(Clean)
 
 Q: 
 '''
-sentence = "Dog goes run dog ."
 
-# Combine the prompt and the sentence
-full_prompt = f"{prompt} {sentence} A:"
+# Your prompt and sentence
+hallucination_prompt = '''
+Classify whether there is a hallucination in the following sentence to three groups.
+1(Major hallucination) 0.5(Minor hallucination) 0(Clean) :
 
-# Generate a response
-response = generator(full_prompt, max_length=300, num_return_sequences=1)
+Q:
+'''
 
-# Print the response
-print(response)
+def main():
+    sentence = "Dog goes run dog ."
+    prompt = repetition_prompt
+    # Combine the prompt and the sentence
+    full_prompt = f"{prompt} {sentence} A:"
+
+    # Generate a response
+    response = generator(full_prompt, max_length=300, num_return_sequences=1)
+
+    # Print the response
+    print(response)
+
+if __name__ == "__main__":
+    main()

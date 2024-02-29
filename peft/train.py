@@ -329,7 +329,7 @@ training_args = TrainingArguments(
     output_dir="ssf",
     evaluation_strategy="no",
     per_device_train_batch_size=1,  # Aligned with DeepSpeed
-    num_train_epochs=5,
+    num_train_epochs=1,
     weight_decay=0.01,  # Aligned with DeepSpeed
     gradient_accumulation_steps=8, 
     learning_rate=0.0002,  # Aligned with DeepSpeed
@@ -353,7 +353,7 @@ trainer = Trainer(
         )
 
 trainer.train()
-model_path = "ssf-4.4-saved"
+model_path = "ssf-5.5-saved"
 model.save_pretrained(model_path)
 tokenizer.save_pretrained(model_path)
 trainer.save_model(output_dir=f"/home/hzlcodus/model/{model_path}")
